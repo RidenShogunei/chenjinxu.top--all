@@ -1,0 +1,46 @@
+今天目前来说最大的收获就是对于宏任务和微任务的理解以及对于整个任务的执行逻辑的理解,
+以前的我,对于这种类型的东西毫无思路,例如这样的:
+console.log('1');
+
+setTimeout(function() {
+    console.log('2');
+    process.nextTick(function() {
+        console.log('3');
+    })
+    new Promise(function(resolve) {
+        console.log('4');
+        resolve();
+    }).then(function() {
+        console.log('5')
+    })
+})
+process.nextTick(function() {
+    console.log('6');
+})
+new Promise(function(resolve) {
+    console.log('7');
+    resolve();
+}).then(function() {
+    console.log('8')
+})
+
+setTimeout(function() {
+    console.log('9');
+    process.nextTick(function() {
+        console.log('10');
+    })
+    new Promise(function(resolve) {
+        console.log('11');
+        resolve();
+    }).then(function() {
+        console.log('12')
+    })
+})
+// 1 7 6 8 2 4 3 5 9 11 10 12
+我总之完全不懂,现在来说,非常的简单,简而言之,首先,执行同步任务,那么哪些是同步任务呢,例如:直接console.log,
+又或者new Promise在实例化的过程中所执行的代码都是同步进行的,之后再是异步任务,这异步任务里又分为了宏任务,
+微任务,这里面会先执行微任务,再执行宏任务,那么哪些是宏任务呢,例如:1. script (可以理解为外层同步代码)
+2. setTimeout/setInterval3. UI rendering/UI事件4. postMessage，MessageChannel5. setImmediate，I/O（Node.js）
+哪些是宏任务呢,例如:1. Promise2.process.nextTick（Node.js） 3. Object.observe（已废弃；Proxy 对象替代）4. MutaionObserver
+这里尤其需要注意一点,那就是每次执行的话,是从大到小的,怎么说呢,就是执行的时候,是要完成了一整个代码块的,不是拆分成一个个小任务的,而是
+先确定一个代码块的执行顺序,轮到他的时候里面要是还有嵌套点啥,就以这代码块为边界完全执行完才离开这个代码块,这个是很重要的一点.

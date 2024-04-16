@@ -1,0 +1,21 @@
+.main {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.bot {
+  display: flex;
+  justify-content: space-around;
+}
+
+.show{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}

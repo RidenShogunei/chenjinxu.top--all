@@ -1,0 +1,824 @@
+{
+  "FloorID": 43312001,
+  "FloorName": "FloorName_43312001",
+  "StartGroupID": 3,
+  "StartAnchorID": 1,
+  "GroupList": [
+    {
+      "GroupGUID": "9d835240-04ef-447e-9883-7f7f20d0e41f",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43312_F43312001/LevelGroup_P43312_F43312001_G3.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "DefaultGroup",
+      "ID": 3
+    },
+    {
+      "GroupGUID": "4f2dd04f-f683-4e1f-88d4-212b1b173e8c",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43312_F43312001/LevelGroup_P43312_F43312001_G4.json",
+      "Name": "Sound",
+      "ID": 4
+    },
+    {
+      "GroupGUID": "fe971c07-d3ce-444b-b4d6-6d93ecf939bb",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43312_F43312001/LevelGroup_P43312_F43312001_G5.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "N4Gate Group",
+      "ID": 5
+    },
+    {
+      "GroupGUID": "e7d92b40-135b-40ff-8852-67b1fc5b2c85",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43312_F43312001/LevelGroup_P43312_F43312001_G6.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "LockedDoor",
+      "ID": 6
+    },
+    {
+      "GroupGUID": "334d62c7-1676-4b14-b878-ab3da91136c9",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43312_F43312001/LevelGroup_P43312_F43312001_G7.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "FlipBridge",
+      "ID": 7
+    },
+    {
+      "GroupGUID": "f8baf6e2-1d12-471a-a7c5-00dfbd1ceb57",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43312_F43312001/LevelGroup_P43312_F43312001_G8.json",
+      "Name": "Polymer_Sphere",
+      "ID": 8
+    },
+    {
+      "GroupGUID": "bf50676f-2dea-4b80-845a-d82c8c75050d",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43312_F43312001/LevelGroup_P43312_F43312001_G9.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "BlockStateSave",
+      "ID": 9
+    },
+    {
+      "GroupGUID": "58af2113-16da-4f75-ae33-f6c0b2e2ea3d",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43312_F43312001/LevelGroup_P43312_F43312001_G10.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "1FPolymer",
+      "ID": 10
+    },
+    {
+      "GroupGUID": "16cba615-f337-4256-a03f-f0e6ae8699b9",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43312_F43312001/LevelGroup_P43312_F43312001_G11.json",
+      "Name": "Anchor",
+      "ID": 11
+    },
+    {
+      "GroupGUID": "4ef6b0e2-d83f-4b02-ac5a-5edf80e92170",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43312_F43312001/LevelGroup_P43312_F43312001_G12.json",
+      "Name": "HPMP",
+      "ID": 12
+    },
+    {
+      "GroupGUID": "66be015c-9ca3-48f7-888a-e172441df3d1",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43312_F43312001/LevelGroup_P43312_F43312001_G13.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission2030302_airwal",
+      "ID": 13
+    },
+    {
+      "GroupGUID": "e77248c2-54d5-4249-9c89-997df909706b",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43312_F43312001/LevelGroup_P43312_F43312001_G14.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission2030302_New Group",
+      "ID": 14
+    },
+    {
+      "GroupGUID": "5b01a2ec-5c22-48fb-ad37-d519a8fecbb2",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43312_F43312001/LevelGroup_P43312_F43312001_G15.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "New Group",
+      "ID": 15
+    },
+    {
+      "GroupGUID": "56349ed7-62fd-4aa9-b01e-65ad0b2ada74",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43312_F43312001/LevelGroup_P43312_F43312001_G16.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission2030302_New Group",
+      "ID": 16
+    },
+    {
+      "GroupGUID": "7324865e-3f77-49d5-8d0f-c298f39265b2",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43312_F43312001/LevelGroup_P43312_F43312001_G17.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission2030302_New Group",
+      "ID": 17
+    },
+    {
+      "GroupGUID": "4f61db29-f29c-4798-9418-e915a7d49e3f",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43312_F43312001/LevelGroup_P43312_F43312001_G18.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission2030302_New Group",
+      "ID": 18
+    },
+    {
+      "GroupGUID": "e3be6960-5031-4ba0-907c-c4e74c4b9531",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43312_F43312001/LevelGroup_P43312_F43312001_G19.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission2030302_New Group",
+      "ID": 19
+    },
+    {
+      "GroupGUID": "400a8374-0600-4863-bbaa-978e69f18477",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43312_F43312001/LevelGroup_P43312_F43312001_G20.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission2030302_New Group",
+      "ID": 20
+    },
+    {
+      "GroupGUID": "951756bc-bb45-4793-b608-1691709445f4",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43312_F43312001/LevelGroup_P43312_F43312001_G21.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission2030302_New Group",
+      "ID": 21
+    },
+    {
+      "GroupGUID": "05f00d50-d1a0-47ad-8cc5-484d0f622329",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43312_F43312001/LevelGroup_P43312_F43312001_G23.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission2030302_New Group",
+      "ID": 23
+    },
+    {
+      "GroupGUID": "ed0b06bd-8d2b-4d0d-8667-df587d25e4eb",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43312_F43312001/LevelGroup_P43312_F43312001_G24.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission2030302_New Group",
+      "ID": 24
+    },
+    {
+      "GroupGUID": "3008f608-996d-4509-a37a-7913e3afc97b",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43312_F43312001/LevelGroup_P43312_F43312001_G27.json",
+      "Name": "Elevator_01_Test",
+      "ID": 27
+    },
+    {
+      "GroupGUID": "c1da9bf9-5269-4862-97b8-739758e97597",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43312_F43312001/LevelGroup_P43312_F43312001_G28.json",
+      "Name": "Elevator_02_Test",
+      "ID": 28
+    },
+    {
+      "GroupGUID": "fc9d944a-f0e2-429c-a715-7d54bca80f4d",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43312_F43312001/LevelGroup_P43312_F43312001_G29.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "Monster",
+      "ID": 29
+    },
+    {
+      "GroupGUID": "c8f1f69f-1e88-4bda-89c9-be1946b3c4b6",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43312_F43312001/LevelGroup_P43312_F43312001_G30.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission2030302_New Group",
+      "ID": 30
+    },
+    {
+      "GroupGUID": "9fcb8297-4979-4879-973c-39a2f0a8d6b9",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43312_F43312001/LevelGroup_P43312_F43312001_G31.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission2030302_New Group",
+      "ID": 31
+    },
+    {
+      "GroupGUID": "233604ca-7882-4c93-8f8b-15a9eeec6c8a",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43312_F43312001/LevelGroup_P43312_F43312001_G32.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission2030302_New Group",
+      "ID": 32
+    },
+    {
+      "GroupGUID": "5a9eeec8-5456-4d49-8a60-1c4d2c552ebc",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43312_F43312001/LevelGroup_P43312_F43312001_G33.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission2030302_New Group",
+      "ID": 33
+    },
+    {
+      "GroupGUID": "7456ecf8-7bac-4381-88f7-b7629c14d30c",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43312_F43312001/LevelGroup_P43312_F43312001_G34.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission2030302_New Group",
+      "ID": 34
+    },
+    {
+      "GroupGUID": "763da454-e9e8-488e-854b-3a642523353b",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43312_F43312001/LevelGroup_P43312_F43312001_G35.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission2030302_New Group",
+      "ID": 35
+    },
+    {
+      "GroupGUID": "a190a502-86df-4009-9526-9698aa8a5471",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43312_F43312001/LevelGroup_P43312_F43312001_G36.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission2030302_New Group",
+      "ID": 36
+    },
+    {
+      "GroupGUID": "7438fca6-5a40-4aa7-94d4-257b6acb60b2",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43312_F43312001/LevelGroup_P43312_F43312001_G37.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission2030302_New Group",
+      "ID": 37
+    },
+    {
+      "GroupGUID": "85303b03-6c9c-48bf-b940-94dca48eb102",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43312_F43312001/LevelGroup_P43312_F43312001_G38.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission2030302_New Group",
+      "ID": 38
+    }
+  ],
+  "DefaultEnviroProfile": "Stages/Outputs/Chapter00/EnviroProfile/Chap00_CloseView_MAZ_N401_01_Day.enviroProfile.asset",
+  "StageData": "Stages/Outputs/Chapter00/Stages/Chap00_MAZ_N401_MainLine_01_StageData/Chap00_MAZ_N401_MainLine_01_StageData.stage",
+  "NavMesh": "Level/NavMesh/NavMesh-Floor_20004001.asset",
+  "MinimapVolumeData": {
+    "Center": {
+      "X": -3.42,
+      "Y": 480.5244,
+      "Z": -17.5
+    },
+    "Size": {
+      "X": 220,
+      "Y": 787.7,
+      "Z": 250
+    },
+    "SectionVertices": [
+      {
+        "X": -61.33333,
+        "Y": 42.65873
+      },
+      {
+        "X": 58,
+        "Y": 42.65873
+      },
+      {
+        "X": 58,
+        "Y": -38.02911
+      },
+      {
+        "X": -61.33333,
+        "Y": -38.02911
+      },
+      {
+        "X": -102.6667,
+        "Y": 41.33597
+      },
+      {
+        "X": -32.33334,
+        "Y": 41.33597
+      },
+      {
+        "X": -32.33334,
+        "Y": -39.68254
+      },
+      {
+        "X": -102.6667,
+        "Y": -39.68254
+      },
+      {
+        "X": 30.66666,
+        "Y": -39.68254
+      },
+      {
+        "X": 30.66666,
+        "Y": -121.0317
+      },
+      {
+        "X": -102.6667,
+        "Y": -121.0317
+      },
+      {
+        "X": 30.66666,
+        "Y": 41.33597
+      },
+      {
+        "X": 96,
+        "Y": 41.33597
+      },
+      {
+        "X": 96,
+        "Y": -121.0317
+      },
+      {
+        "X": 96,
+        "Y": 122.0238
+      },
+      {
+        "X": 2.999997,
+        "Y": 122.0238
+      },
+      {
+        "X": 2.999997,
+        "Y": 41.33597
+      },
+      {
+        "X": -102.6667,
+        "Y": 122.0238
+      },
+      {
+        "X": -103.6667,
+        "Y": 64.8148
+      },
+      {
+        "X": 103.3333,
+        "Y": 64.8148
+      },
+      {
+        "X": 103.3333,
+        "Y": -41.66667
+      },
+      {
+        "X": -103.6667,
+        "Y": -41.66667
+      }
+    ],
+    "Atlas": "UI/Atlas/AtlasFiles/Minimap/Minimap_20004001.spriteatlas",
+    "Sections": [
+      {
+        "ID": 6,
+        "MapLayerID": 1,
+        "Sprite": "UI/Atlas/AtlasRoot/Minimap/Minimap_20004001/MinimapSection_20004001_6.png",
+        "IsRect": true,
+        "Indices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "UIPosition": {
+          "X": 146,
+          "Y": 263
+        },
+        "Triangles": [
+          {
+            "X": 0.221212,
+            "Y": 0.670635
+          },
+          {
+            "X": 0.221212,
+            "Y": 0.347884
+          },
+          {
+            "X": 0.763636,
+            "Y": 0.347884
+          },
+          {
+            "X": 0.221212,
+            "Y": 0.670635
+          },
+          {
+            "X": 0.763636,
+            "Y": 0.347884
+          },
+          {
+            "X": 0.763636,
+            "Y": 0.670635
+          }
+        ]
+      },
+      {
+        "ID": 1,
+        "MapLayerID": 2,
+        "Sprite": "UI/Atlas/AtlasRoot/Minimap/Minimap_20004001/MinimapSection_20004001_1.png",
+        "IsRect": true,
+        "Indices": [
+          4,
+          5,
+          6,
+          7
+        ],
+        "UIPosition": {
+          "X": 22,
+          "Y": 258
+        },
+        "Triangles": [
+          {
+            "X": 0.033333,
+            "Y": 0.665344
+          },
+          {
+            "X": 0.033333,
+            "Y": 0.34127
+          },
+          {
+            "X": 0.35303,
+            "Y": 0.34127
+          },
+          {
+            "X": 0.033333,
+            "Y": 0.665344
+          },
+          {
+            "X": 0.35303,
+            "Y": 0.34127
+          },
+          {
+            "X": 0.35303,
+            "Y": 0.665344
+          }
+        ]
+      },
+      {
+        "ID": 2,
+        "MapLayerID": 2,
+        "Sprite": "UI/Atlas/AtlasRoot/Minimap/Minimap_20004001/MinimapSection_20004001_2.png",
+        "IsRect": true,
+        "Indices": [
+          7,
+          8,
+          9,
+          10
+        ],
+        "UIPosition": {
+          "X": 22,
+          "Y": 12
+        },
+        "Triangles": [
+          {
+            "X": 0.033333,
+            "Y": 0.34127
+          },
+          {
+            "X": 0.033333,
+            "Y": 0.015873
+          },
+          {
+            "X": 0.639394,
+            "Y": 0.015873
+          },
+          {
+            "X": 0.033333,
+            "Y": 0.34127
+          },
+          {
+            "X": 0.639394,
+            "Y": 0.015873
+          },
+          {
+            "X": 0.639394,
+            "Y": 0.34127
+          }
+        ]
+      },
+      {
+        "ID": 3,
+        "MapLayerID": 2,
+        "Sprite": "UI/Atlas/AtlasRoot/Minimap/Minimap_20004001/MinimapSection_20004001_3.png",
+        "IsRect": true,
+        "Indices": [
+          9,
+          11,
+          12,
+          13
+        ],
+        "UIPosition": {
+          "X": 422,
+          "Y": 12
+        },
+        "Triangles": [
+          {
+            "X": 0.639394,
+            "Y": 0.015873
+          },
+          {
+            "X": 0.936364,
+            "Y": 0.015873
+          },
+          {
+            "X": 0.787879,
+            "Y": 0.340609
+          },
+          {
+            "X": 0.787879,
+            "Y": 0.340609
+          },
+          {
+            "X": 0.936364,
+            "Y": 0.340609
+          },
+          {
+            "X": 0.936364,
+            "Y": 0.665344
+          },
+          {
+            "X": 0.787879,
+            "Y": 0.340609
+          },
+          {
+            "X": 0.936364,
+            "Y": 0.015873
+          },
+          {
+            "X": 0.936364,
+            "Y": 0.340609
+          },
+          {
+            "X": 0.639394,
+            "Y": 0.015873
+          },
+          {
+            "X": 0.787879,
+            "Y": 0.340609
+          },
+          {
+            "X": 0.639394,
+            "Y": 0.340609
+          },
+          {
+            "X": 0.639394,
+            "Y": 0.340609
+          },
+          {
+            "X": 0.787879,
+            "Y": 0.340609
+          },
+          {
+            "X": 0.639394,
+            "Y": 0.665344
+          },
+          {
+            "X": 0.787879,
+            "Y": 0.340609
+          },
+          {
+            "X": 0.936364,
+            "Y": 0.665344
+          },
+          {
+            "X": 0.639394,
+            "Y": 0.665344
+          }
+        ]
+      },
+      {
+        "ID": 4,
+        "MapLayerID": 2,
+        "Sprite": "UI/Atlas/AtlasRoot/Minimap/Minimap_20004001/MinimapSection_20004001_4.png",
+        "IsRect": true,
+        "Indices": [
+          12,
+          16,
+          15,
+          14
+        ],
+        "UIPosition": {
+          "X": 339,
+          "Y": 503
+        },
+        "Triangles": [
+          {
+            "X": 0.936364,
+            "Y": 0.665344
+          },
+          {
+            "X": 0.936364,
+            "Y": 0.988095
+          },
+          {
+            "X": 0.513636,
+            "Y": 0.988095
+          },
+          {
+            "X": 0.936364,
+            "Y": 0.665344
+          },
+          {
+            "X": 0.513636,
+            "Y": 0.988095
+          },
+          {
+            "X": 0.513636,
+            "Y": 0.665344
+          }
+        ]
+      },
+      {
+        "ID": 5,
+        "MapLayerID": 2,
+        "Sprite": "UI/Atlas/AtlasRoot/Minimap/Minimap_20004001/MinimapSection_20004001_5.png",
+        "IsRect": true,
+        "Indices": [
+          4,
+          16,
+          15,
+          17
+        ],
+        "UIPosition": {
+          "X": 22,
+          "Y": 503
+        },
+        "Triangles": [
+          {
+            "X": 0.033333,
+            "Y": 0.988095
+          },
+          {
+            "X": 0.033333,
+            "Y": 0.665344
+          },
+          {
+            "X": 0.513636,
+            "Y": 0.665344
+          },
+          {
+            "X": 0.033333,
+            "Y": 0.988095
+          },
+          {
+            "X": 0.513636,
+            "Y": 0.665344
+          },
+          {
+            "X": 0.513636,
+            "Y": 0.988095
+          }
+        ]
+      },
+      {
+        "MapLayerID": 3,
+        "Sprite": "UI/Atlas/AtlasRoot/Minimap/Minimap_20004001/MinimapSection_20004001_0.png",
+        "IsRect": true,
+        "Indices": [
+          18,
+          19,
+          20,
+          21
+        ],
+        "UIPosition": {
+          "X": 19,
+          "Y": 252
+        },
+        "Triangles": [
+          {
+            "X": 0.028788,
+            "Y": 0.759259
+          },
+          {
+            "X": 0.028788,
+            "Y": 0.333333
+          },
+          {
+            "X": 0.499242,
+            "Y": 0.546296
+          },
+          {
+            "X": 0.499242,
+            "Y": 0.546296
+          },
+          {
+            "X": 0.499242,
+            "Y": 0.333333
+          },
+          {
+            "X": 0.969697,
+            "Y": 0.333333
+          },
+          {
+            "X": 0.499242,
+            "Y": 0.546296
+          },
+          {
+            "X": 0.028788,
+            "Y": 0.333333
+          },
+          {
+            "X": 0.499242,
+            "Y": 0.333333
+          },
+          {
+            "X": 0.028788,
+            "Y": 0.759259
+          },
+          {
+            "X": 0.499242,
+            "Y": 0.546296
+          },
+          {
+            "X": 0.499242,
+            "Y": 0.759259
+          },
+          {
+            "X": 0.499242,
+            "Y": 0.759259
+          },
+          {
+            "X": 0.499242,
+            "Y": 0.546296
+          },
+          {
+            "X": 0.969697,
+            "Y": 0.759259
+          },
+          {
+            "X": 0.499242,
+            "Y": 0.546296
+          },
+          {
+            "X": 0.969697,
+            "Y": 0.333333
+          },
+          {
+            "X": 0.969697,
+            "Y": 0.759259
+          }
+        ]
+      }
+    ],
+    "BackgroundMapSprite": "SpriteOutput/MapPics/Minimap/Minimap_Chap00_MAZ_N4_Background.png",
+    "RoadMapSpriteDict": {
+      "3": "SpriteOutput/MapPics/Minimap/Minimap_Chap00_MAZ_N4_Road_3.png",
+      "2": "SpriteOutput/MapPics/Minimap/Minimap_Chap00_MAZ_N4_Road_2.png",
+      "1": "SpriteOutput/MapPics/Minimap/Minimap_Chap00_MAZ_N4_Road_1.png"
+    },
+    "ItemSpriteDict": {}
+  },
+  "TimeOfDayEnviroProfileMap": {},
+  "LayerToAreaMask": [
+    8,
+    16,
+    32
+  ],
+  "FloorCustomData": {
+    "SavedValues": [
+      {
+        "ID": 1,
+        "Name": "BlockStateSave",
+        "DefaultValue": 1,
+        "AllowedValues": [
+          0,
+          1
+        ],
+        "MaxValue": 1
+      },
+      {
+        "ID": 3,
+        "Name": "FSV_PasswayDoor",
+        "AllowedValues": [
+          0,
+          1
+        ],
+        "MaxValue": 1
+      }
+    ]
+  },
+  "BattleAreaList": [],
+  "DimensionList": [
+    {}
+  ]
+}

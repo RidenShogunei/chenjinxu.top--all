@@ -1,0 +1,810 @@
+{
+  "Name": "Chap01_CloseView_MAZ_M303_Part04_BlockData",
+  "PrefabPath": "Stages/Outputs/Chapter01/CloseView/Chap01_CloseView_MAZ_M303_Part04_BlockData.prefab",
+  "StagePrefabInfoList": [
+    {
+      "$type": "RPG.GameCore.StagePrefabInfo",
+      "Name": "Chap01_Prop_Erosion_04_Lod0",
+      "LayerName": "Landmark",
+      "AssetPath": "Stages/OriginalResPos/Chapter01/Prefab/Chap01_Prop_Erosion_04_Lod0.prefab",
+      "Active": 1,
+      "PosX": -89.464,
+      "PosY": 15.063,
+      "PosZ": -24.816,
+      "RotX": 315.6494,
+      "RotY": 93.8234,
+      "RotZ": 79.65886,
+      "ScaleX": 1,
+      "ScaleY": 1,
+      "ScaleZ": 1,
+      "Bound": {
+        "Center": {
+          "X": -89.50332,
+          "Y": 15.14769,
+          "Z": -24.1629
+        },
+        "Size": {
+          "X": 6.371826,
+          "Y": 6.445621,
+          "Z": 2.218437
+        }
+      }
+    },
+    {
+      "$type": "RPG.GameCore.StagePrefabInfo",
+      "Index": 1,
+      "Name": "Chap01_Prop_Erosion_10_Lod0 (6)",
+      "LayerName": "BuildingLarge",
+      "AssetPath": "Stages/OriginalResPos/Chapter01/Prefab/Chap01_Prop_Erosion_10_Lod0.prefab",
+      "Active": 1,
+      "PosX": -102.68,
+      "PosY": 10.09,
+      "PosZ": -12.52,
+      "RotY": 103.2387,
+      "ScaleX": 1,
+      "ScaleY": 1,
+      "ScaleZ": 1,
+      "Bound": {
+        "Center": {
+          "X": -102.8143,
+          "Y": 11.20464,
+          "Z": -12.91134
+        },
+        "Size": {
+          "X": 5.288101,
+          "Y": 2.229288,
+          "Z": 5.727596
+        }
+      }
+    },
+    {
+      "$type": "RPG.GameCore.StagePrefabInfo",
+      "Index": 2,
+      "Name": "Chap01_Prop_Erosion_10_Lod0 (5)",
+      "LayerName": "Landmark",
+      "AssetPath": "Stages/OriginalResPos/Chapter01/Prefab/Chap01_Prop_Erosion_10_Lod0.prefab",
+      "Active": 1,
+      "PosX": -90.79,
+      "PosY": 12.22,
+      "PosZ": -23.52,
+      "RotX": 9.612003,
+      "RotY": 327.4881,
+      "RotZ": 5.106339,
+      "ScaleX": 1.2204,
+      "ScaleY": 1.2204,
+      "ScaleZ": 1.2204,
+      "Bound": {
+        "Center": {
+          "X": -90.56911,
+          "Y": 13.60836,
+          "Z": -23.16074
+        },
+        "Size": {
+          "X": 8.169281,
+          "Y": 4.067223,
+          "Z": 7.859837
+        }
+      }
+    },
+    {
+      "$type": "RPG.GameCore.StagePrefabInfo",
+      "Index": 3,
+      "Name": "Chap01_Prop_Erosion_10_Lod0 (3)",
+      "LayerName": "Landmark",
+      "AssetPath": "Stages/OriginalResPos/Chapter01/Prefab/Chap01_Prop_Erosion_10_Lod0.prefab",
+      "Active": 1,
+      "PosX": -67.08,
+      "PosY": 16.57,
+      "PosZ": -18.21,
+      "RotX": 354.437,
+      "RotY": 126.2996,
+      "RotZ": 8.858499,
+      "ScaleX": 1.4512,
+      "ScaleY": 1.4512,
+      "ScaleZ": 1.4512,
+      "Bound": {
+        "Center": {
+          "X": -67.46193,
+          "Y": 18.24653,
+          "Z": -18.35284
+        },
+        "Size": {
+          "X": 9.257706,
+          "Y": 4.868866,
+          "Z": 9.821301
+        }
+      }
+    },
+    {
+      "$type": "RPG.GameCore.StagePrefabInfo",
+      "Index": 4,
+      "Name": "Chap01_Prop_Erosion_10_Lod0 (2)",
+      "LayerName": "Landmark",
+      "AssetPath": "Stages/OriginalResPos/Chapter01/Prefab/Chap01_Prop_Erosion_10_Lod0.prefab",
+      "Active": 1,
+      "PosX": -9.397144,
+      "PosY": 16.92,
+      "PosZ": 35.48,
+      "RotX": 4.403236,
+      "RotY": 258.759,
+      "RotZ": 354.3433,
+      "ScaleX": 1.4382,
+      "ScaleY": 1.4382,
+      "ScaleZ": 1.4382,
+      "Bound": {
+        "Center": {
+          "X": -9.600716,
+          "Y": 18.45692,
+          "Z": 36.20138
+        },
+        "Size": {
+          "X": 7.637295,
+          "Y": 4.343464,
+          "Z": 8.314781
+        }
+      }
+    },
+    {
+      "$type": "RPG.GameCore.StagePrefabInfo",
+      "Index": 5,
+      "Name": "Chap01_Prop_Erosion_02_Lod0 (1)",
+      "LayerName": "Landmark",
+      "AssetPath": "Stages/OriginalResPos/Chapter01/Prefab/Chap01_Prop_Erosion_02_Lod0.prefab",
+      "Active": 1,
+      "PosX": -120.22,
+      "PosY": 2.96,
+      "PosZ": 26.11,
+      "RotX": 25.40742,
+      "RotY": 160.5456,
+      "RotZ": 15.22802,
+      "ScaleX": 1,
+      "ScaleY": 1,
+      "ScaleZ": 1,
+      "Bound": {
+        "Center": {
+          "X": -119.0377,
+          "Y": 6.054248,
+          "Z": 24.92107
+        },
+        "Size": {
+          "X": 6.910004,
+          "Y": 8.886228,
+          "Z": 7.023521
+        }
+      }
+    },
+    {
+      "$type": "RPG.GameCore.StagePrefabInfo",
+      "Index": 6,
+      "Name": "Chap01_Prop_Erosion_09_Lod0 (1)",
+      "LayerName": "StandAloneProp",
+      "AssetPath": "Stages/OriginalResPos/Chapter01/Prefab/Chap01_Prop_Erosion_09_Lod0.prefab",
+      "Active": 1,
+      "PosX": -113.78,
+      "PosY": 1.106,
+      "PosZ": -16.97,
+      "RotX": 4.19876,
+      "RotY": 234.1266,
+      "RotZ": 8.665122,
+      "ScaleX": 1,
+      "ScaleY": 1,
+      "ScaleZ": 1,
+      "Bound": {
+        "Center": {
+          "X": -113.7181,
+          "Y": 2.13882,
+          "Z": -17.16358
+        },
+        "Size": {
+          "X": 2.180756,
+          "Y": 2.422286,
+          "Z": 2.444941
+        }
+      }
+    },
+    {
+      "$type": "RPG.GameCore.StagePrefabInfo",
+      "Index": 7,
+      "Name": "Chap01_Prop_Erosion_06_Lod0 (1)",
+      "LayerName": "Building",
+      "AssetPath": "Stages/OriginalResPos/Chapter01/Prefab/Chap01_Prop_Erosion_06_Lod0.prefab",
+      "Active": 1,
+      "PosX": -112.6536,
+      "PosY": 0.29,
+      "PosZ": -16,
+      "RotX": 352.1155,
+      "RotY": 72.07942,
+      "RotZ": 2.540033,
+      "ScaleX": 0.62416,
+      "ScaleY": 0.62416,
+      "ScaleZ": 0.62416,
+      "Bound": {
+        "Center": {
+          "X": -112.7133,
+          "Y": 3.547477,
+          "Z": -16.57048
+        },
+        "Size": {
+          "X": 3.916229,
+          "Y": 6.877306,
+          "Z": 3.432972
+        }
+      }
+    },
+    {
+      "$type": "RPG.GameCore.StagePrefabInfo",
+      "Index": 8,
+      "Name": "Chap01_Prop_Erosion_09_Lod0",
+      "LayerName": "Building",
+      "AssetPath": "Stages/OriginalResPos/Chapter01/Prefab/Chap01_Prop_Erosion_09_Lod0.prefab",
+      "Active": 1,
+      "PosX": -132.55,
+      "PosY": 2.57,
+      "PosZ": -12.8,
+      "RotX": 6.299211,
+      "RotY": 261.4843,
+      "RotZ": 1E-06,
+      "ScaleX": 2.364327,
+      "ScaleY": 2.364327,
+      "ScaleZ": 2.364327,
+      "Bound": {
+        "Center": {
+          "X": -132.7787,
+          "Y": 5.045413,
+          "Z": -12.91796
+        },
+        "Size": {
+          "X": 4.577423,
+          "Y": 5.352688,
+          "Z": 4.188408
+        }
+      }
+    },
+    {
+      "$type": "RPG.GameCore.StagePrefabInfo",
+      "Index": 9,
+      "Name": "Chap01_Prop_Erosion_06_Lod0",
+      "LayerName": "Building",
+      "AssetPath": "Stages/OriginalResPos/Chapter01/Prefab/Chap01_Prop_Erosion_06_Lod0.prefab",
+      "Active": 1,
+      "PosX": -130.5,
+      "PosY": 14.98,
+      "PosZ": -11.24,
+      "RotY": 195.2551,
+      "ScaleX": 0.66132,
+      "ScaleY": 0.66132,
+      "ScaleZ": 0.66132,
+      "Bound": {
+        "Center": {
+          "X": -131.2845,
+          "Y": 18.42125,
+          "Z": -11.18201
+        },
+        "Size": {
+          "X": 3.76886,
+          "Y": 6.872267,
+          "Z": 3.290251
+        }
+      }
+    },
+    {
+      "$type": "RPG.GameCore.StagePrefabInfo",
+      "Index": 10,
+      "Name": "Chap01_Prop_Erosion_01_Lod0",
+      "LayerName": "Landmark",
+      "AssetPath": "Stages/OriginalResPos/Chapter01/Prefab/Chap01_Prop_Erosion_01_Lod0.prefab",
+      "Active": 1,
+      "PosX": -124.95,
+      "PosY": 1.45,
+      "PosZ": -17.96,
+      "RotY": 155.2728,
+      "ScaleX": 1.1938,
+      "ScaleY": 1.1938,
+      "ScaleZ": 1.1938,
+      "Bound": {
+        "Center": {
+          "X": -125.6126,
+          "Y": 10.28993,
+          "Z": -16.18608
+        },
+        "Size": {
+          "X": 11.29597,
+          "Y": 17.74823,
+          "Z": 10.37883
+        }
+      }
+    },
+    {
+      "$type": "RPG.GameCore.StagePrefabInfo",
+      "Index": 11,
+      "Name": "Chap01_Prop_Erosion_10_Lod0",
+      "LayerName": "Building",
+      "AssetPath": "Stages/OriginalResPos/Chapter01/Prefab/Chap01_Prop_Erosion_10_Lod0.prefab",
+      "Active": 1,
+      "PosX": -138.8246,
+      "PosY": -3.962219,
+      "PosZ": -47.55313,
+      "RotX": 356.0164,
+      "RotY": 93.09513,
+      "RotZ": 353.7119,
+      "ScaleX": 0.722156,
+      "ScaleY": 0.722156,
+      "ScaleZ": 0.722156,
+      "Bound": {
+        "Center": {
+          "X": -138.9281,
+          "Y": -3.198596,
+          "Z": -47.93177
+        },
+        "Size": {
+          "X": 3.365479,
+          "Y": 2.196061,
+          "Z": 3.833
+        }
+      }
+    },
+    {
+      "$type": "RPG.GameCore.StagePrefabInfo",
+      "Index": 12,
+      "Name": "Chap01_Prop_Erosion_02_Lod0",
+      "LayerName": "Landmark",
+      "AssetPath": "Stages/OriginalResPos/Chapter01/Prefab/Chap01_Prop_Erosion_02_Lod0.prefab",
+      "Active": 1,
+      "PosX": -136.7041,
+      "PosY": -3.681354,
+      "PosZ": -48.17923,
+      "RotX": 11.76906,
+      "RotY": 231.0549,
+      "RotZ": 3.953578,
+      "ScaleX": 1,
+      "ScaleY": 1,
+      "ScaleZ": 1,
+      "Bound": {
+        "Center": {
+          "X": -137.2668,
+          "Y": 0.12331,
+          "Z": -48.74618
+        },
+        "Size": {
+          "X": 6.276978,
+          "Y": 8.992718,
+          "Z": 6.27935
+        }
+      }
+    },
+    {
+      "$type": "RPG.GameCore.StagePrefabInfo",
+      "Index": 13,
+      "Name": "Chap01_Prop_Erosion_10_Lod0 (1)",
+      "LayerName": "Landmark",
+      "AssetPath": "Stages/OriginalResPos/Chapter01/Prefab/Chap01_Prop_Erosion_10_Lod0.prefab",
+      "Active": 1,
+      "PosX": -111.98,
+      "PosY": -0.110352,
+      "PosZ": -48.23934,
+      "RotX": 6.952137,
+      "RotY": 283.3466,
+      "RotZ": 359.1846,
+      "ScaleX": 1.039838,
+      "ScaleY": 1.039838,
+      "ScaleZ": 1.039838,
+      "Bound": {
+        "Center": {
+          "X": -111.9719,
+          "Y": 1.039186,
+          "Z": -47.78439
+        },
+        "Size": {
+          "X": 5.747986,
+          "Y": 2.911813,
+          "Z": 6.048523
+        }
+      }
+    },
+    {
+      "$type": "RPG.GameCore.StagePrefabInfo",
+      "Index": 14,
+      "Name": "Chap01_Prop_Erosion_06_Lod0 (2)",
+      "LayerName": "Building",
+      "AssetPath": "Stages/OriginalResPos/Chapter01/Prefab/Chap01_Prop_Erosion_06_Lod0.prefab",
+      "Active": 1,
+      "PosX": -111.65,
+      "PosY": 7.73,
+      "PosZ": -8.14,
+      "RotY": 235.6593,
+      "ScaleX": 0.62416,
+      "ScaleY": 0.62416,
+      "ScaleZ": 0.62416,
+      "Bound": {
+        "Center": {
+          "X": -112.174,
+          "Y": 10.97789,
+          "Z": -7.680455
+        },
+        "Size": {
+          "X": 3.750854,
+          "Y": 6.486111,
+          "Z": 3.710764
+        }
+      }
+    },
+    {
+      "$type": "RPG.GameCore.StagePrefabInfo",
+      "Index": 15,
+      "Name": "Chap01_Prop_Erosion_02_Lod0",
+      "LayerName": "BuildingLarge",
+      "AssetPath": "Stages/OriginalResPos/Chapter01/Prefab/Chap01_Prop_Erosion_02_Lod0.prefab",
+      "Active": 1,
+      "PosX": -77.1429,
+      "PosY": 12.881,
+      "PosZ": 12.33467,
+      "RotX": 346.0931,
+      "RotY": 102.2336,
+      "RotZ": 3.862978,
+      "ScaleX": 0.92773,
+      "ScaleY": 0.92773,
+      "ScaleZ": 0.92773,
+      "Bound": {
+        "Center": {
+          "X": -77.72731,
+          "Y": 16.5344,
+          "Z": 12.51537
+        },
+        "Size": {
+          "X": 5.279816,
+          "Y": 8.324375,
+          "Z": 5.177662
+        }
+      }
+    },
+    {
+      "$type": "RPG.GameCore.StagePrefabInfo",
+      "Index": 16,
+      "Name": "Chap01_Prop_Erosion_10_Lod0 (4)",
+      "LayerName": "Building",
+      "AssetPath": "Stages/OriginalResPos/Chapter01/Prefab/Chap01_Prop_Erosion_10_Lod0.prefab",
+      "Active": 1,
+      "PosX": -135.42,
+      "PosY": -4,
+      "PosZ": -50.05,
+      "RotX": 7.401701,
+      "RotY": 221.2186,
+      "RotZ": 3.775923,
+      "ScaleX": 0.484,
+      "ScaleY": 0.484,
+      "ScaleZ": 0.484,
+      "Bound": {
+        "Center": {
+          "X": -135.5766,
+          "Y": -3.450593,
+          "Z": -49.98099
+        },
+        "Size": {
+          "X": 3.177734,
+          "Y": 1.488976,
+          "Z": 3.234879
+        }
+      }
+    },
+    {
+      "$type": "RPG.GameCore.StagePrefabInfo",
+      "Index": 17,
+      "Name": "Chap01_Prop_Erosion_10_Lod0 (7)",
+      "LayerName": "Building",
+      "AssetPath": "Stages/OriginalResPos/Chapter01/Prefab/Chap01_Prop_Erosion_10_Lod0.prefab",
+      "Active": 1,
+      "PosX": -112.0421,
+      "PosY": -0.13,
+      "PosZ": -45.05423,
+      "RotX": 6.95214,
+      "RotY": 114.3493,
+      "RotZ": 359.1846,
+      "ScaleX": 0.535641,
+      "ScaleY": 0.535641,
+      "ScaleZ": 0.535641,
+      "Bound": {
+        "Center": {
+          "X": -112.0909,
+          "Y": 0.46215,
+          "Z": -45.28348
+        },
+        "Size": {
+          "X": 3.281311,
+          "Y": 1.499934,
+          "Z": 3.391777
+        }
+      }
+    },
+    {
+      "$type": "RPG.GameCore.StagePrefabInfo",
+      "Index": 18,
+      "Name": "Chap01_Prop_Erosion_10_Lod0 (8)",
+      "LayerName": "Building",
+      "AssetPath": "Stages/OriginalResPos/Chapter01/Prefab/Chap01_Prop_Erosion_10_Lod0.prefab",
+      "Active": 1,
+      "PosX": -113.339,
+      "PosY": 1.44214,
+      "PosZ": -15.232,
+      "RotX": 350.1732,
+      "RotY": 70.4277,
+      "RotZ": 342.3435,
+      "ScaleX": 0.535641,
+      "ScaleY": 0.535641,
+      "ScaleZ": 0.535641,
+      "Bound": {
+        "Center": {
+          "X": -113.3091,
+          "Y": 1.933054,
+          "Z": -15.63659
+        },
+        "Size": {
+          "X": 3.153778,
+          "Y": 2.293436,
+          "Z": 3.463541
+        }
+      }
+    },
+    {
+      "$type": "RPG.GameCore.StagePrefabInfo",
+      "Index": 19,
+      "Name": "Chap01_Prop_Erosion_10_Lod0 (9)",
+      "LayerName": "Building",
+      "AssetPath": "Stages/OriginalResPos/Chapter01/Prefab/Chap01_Prop_Erosion_10_Lod0.prefab",
+      "Active": 1,
+      "PosX": -62.95452,
+      "PosY": 16.73788,
+      "PosZ": -20.40733,
+      "RotX": 4.856366,
+      "RotY": 346.7487,
+      "RotZ": 6.407063,
+      "ScaleX": 0.804792,
+      "ScaleY": 0.804792,
+      "ScaleZ": 0.804792,
+      "Bound": {
+        "Center": {
+          "X": -62.74192,
+          "Y": 17.66578,
+          "Z": -20.31039
+        },
+        "Size": {
+          "X": 4.804344,
+          "Y": 2.504791,
+          "Z": 4.375927
+        }
+      }
+    },
+    {
+      "$type": "RPG.GameCore.StagePrefabInfo",
+      "Index": 20,
+      "Name": "Chap01_Prop_Erosion_10_Lod0 (10)",
+      "LayerName": "StandAloneProp",
+      "AssetPath": "Stages/OriginalResPos/Chapter01/Prefab/Chap01_Prop_Erosion_10_Lod0.prefab",
+      "Active": 1,
+      "PosX": -102.72,
+      "PosY": 10.47,
+      "PosZ": -8.89,
+      "RotX": 351.9646,
+      "RotY": 12.71861,
+      "RotZ": 358.1929,
+      "ScaleX": 0.51459,
+      "ScaleY": 0.51459,
+      "ScaleZ": 0.51459,
+      "Bound": {
+        "Center": {
+          "X": -102.5179,
+          "Y": 11.0281,
+          "Z": -9.038298
+        },
+        "Size": {
+          "X": 2.929413,
+          "Y": 1.521944,
+          "Z": 2.835632
+        }
+      }
+    },
+    {
+      "$type": "RPG.GameCore.StagePrefabInfo",
+      "Index": 21,
+      "Name": "Chap01_Prop_Erosion_10_Lod0 (11)",
+      "LayerName": "Landmark",
+      "AssetPath": "Stages/OriginalResPos/Chapter01/Prefab/Chap01_Prop_Erosion_10_Lod0.prefab",
+      "Active": 1,
+      "PosX": -37.80808,
+      "PosY": 16.58,
+      "PosZ": 15.46671,
+      "RotX": 4.403234,
+      "RotY": 22.65794,
+      "RotZ": 354.3433,
+      "ScaleX": 0.960818,
+      "ScaleY": 0.960818,
+      "ScaleZ": 0.960818,
+      "Bound": {
+        "Center": {
+          "X": -37.33221,
+          "Y": 17.60677,
+          "Z": 15.3108
+        },
+        "Size": {
+          "X": 6.127831,
+          "Y": 2.901737,
+          "Z": 5.686796
+        }
+      }
+    },
+    {
+      "$type": "RPG.GameCore.StagePrefabInfo",
+      "Index": 22,
+      "Name": "Chap01_Prop_Erosion_10_Lod0 (12)",
+      "LayerName": "Building",
+      "AssetPath": "Stages/OriginalResPos/Chapter01/Prefab/Chap01_Prop_Erosion_10_Lod0.prefab",
+      "Active": 1,
+      "PosX": -14.21392,
+      "PosY": 16.43,
+      "PosZ": 32.08986,
+      "RotX": 4.403232,
+      "RotY": 294.5677,
+      "RotZ": 354.3433,
+      "ScaleX": 0.731756,
+      "ScaleY": 0.731756,
+      "ScaleZ": 0.731756,
+      "Bound": {
+        "Center": {
+          "X": -14.08317,
+          "Y": 17.21198,
+          "Z": 32.44812
+        },
+        "Size": {
+          "X": 4.390799,
+          "Y": 2.209957,
+          "Z": 4.715851
+        }
+      }
+    },
+    {
+      "$type": "RPG.GameCore.StagePrefabInfo",
+      "Index": 23,
+      "Name": "Chap01_Prop_Erosion_07_Lod0 (1)",
+      "LayerName": "Landmark",
+      "AssetPath": "Stages/OriginalResPos/Chapter01/Prefab/Chap01_Prop_Erosion_07_Lod0.prefab",
+      "Active": 1,
+      "PosX": -9.1303,
+      "PosY": 19.14,
+      "PosZ": 33.14,
+      "RotX": 26.35264,
+      "RotY": 87.62524,
+      "RotZ": 254.5735,
+      "ScaleX": 0.970512,
+      "ScaleY": 0.970512,
+      "ScaleZ": 0.970512,
+      "Bound": {
+        "Center": {
+          "X": -9.273246,
+          "Y": 18.56833,
+          "Z": 32.82487
+        },
+        "Size": {
+          "X": 5.931742,
+          "Y": 9.089897,
+          "Z": 9.385759
+        }
+      }
+    },
+    {
+      "$type": "RPG.GameCore.StagePrefabInfo",
+      "Index": 24,
+      "Name": "Chap01_Prop_Erosion_05_Lod0",
+      "LayerName": "Building",
+      "AssetPath": "Stages/OriginalResPos/Chapter01/Prefab/Chap01_Prop_Erosion_05_Lod0.prefab",
+      "Active": 1,
+      "PosX": -92.95,
+      "PosY": 14.72415,
+      "PosZ": -27.51492,
+      "RotX": 22.53488,
+      "RotY": 124.9774,
+      "RotZ": 15.00946,
+      "ScaleX": 1,
+      "ScaleY": 1,
+      "ScaleZ": 1,
+      "Bound": {
+        "Center": {
+          "X": -91.85078,
+          "Y": 16.8808,
+          "Z": -27.7493
+        },
+        "Size": {
+          "X": 4.229645,
+          "Y": 5.440605,
+          "Z": 2.887188
+        }
+      }
+    },
+    {
+      "$type": "RPG.GameCore.StagePrefabInfo",
+      "Index": 25,
+      "Name": "Chap01_Prop_Erosion_07_Lod0",
+      "LayerName": "Building",
+      "AssetPath": "Stages/OriginalResPos/Chapter01/Prefab/Chap01_Prop_Erosion_07_Lod0.prefab",
+      "Active": 1,
+      "PosX": -76.999,
+      "PosY": 16.46,
+      "PosZ": 15.07541,
+      "RotX": 3.948385,
+      "RotY": 84.534,
+      "RotZ": 27.85046,
+      "ScaleX": 0.36363,
+      "ScaleY": 0.36363,
+      "ScaleZ": 0.36363,
+      "Bound": {
+        "Center": {
+          "X": -76.97139,
+          "Y": 16.58862,
+          "Z": 15.05674
+        },
+        "Size": {
+          "X": 1.352661,
+          "Y": 3.61705,
+          "Z": 4.05229
+        }
+      }
+    },
+    {
+      "$type": "RPG.GameCore.StagePrefabInfo",
+      "Index": 26,
+      "Name": "Chap01_Prop_Erosion_03_Lod0",
+      "LayerName": "Building",
+      "AssetPath": "Stages/OriginalResPos/Chapter01/Prefab/Chap01_Prop_Erosion_03_Lod0.prefab",
+      "Active": 1,
+      "PosX": -66.06,
+      "PosY": 16.92,
+      "PosZ": -19.05,
+      "RotY": 275.0398,
+      "ScaleX": 0.869459,
+      "ScaleY": 0.869459,
+      "ScaleZ": 0.869459,
+      "Bound": {
+        "Center": {
+          "X": -65.97969,
+          "Y": 21.72677,
+          "Z": -19.1331
+        },
+        "Size": {
+          "X": 3.69696,
+          "Y": 9.613539,
+          "Z": 3.626015
+        }
+      }
+    },
+    {
+      "$type": "RPG.GameCore.StagePrefabInfo",
+      "Index": 27,
+      "Name": "Chap01_Prop_Erosion_09_Lod0",
+      "LayerName": "StandAloneProp",
+      "AssetPath": "Stages/OriginalResPos/Chapter01/Prefab/Chap01_Prop_Erosion_09_Lod0.prefab",
+      "Active": 1,
+      "PosX": -121.55,
+      "PosY": 2.582,
+      "PosZ": 23.09183,
+      "RotX": 353.7928,
+      "RotY": 264.2126,
+      "RotZ": 7.2754,
+      "ScaleX": 1.164,
+      "ScaleY": 1.164,
+      "ScaleZ": 1.164,
+      "Bound": {
+        "Center": {
+          "X": -121.3858,
+          "Y": 3.782809,
+          "Z": 22.91196
+        },
+        "Size": {
+          "X": 2.181107,
+          "Y": 2.837761,
+          "Z": 2.221664
+        }
+      }
+    }
+  ],
+  "EnvironmentDataInfoList": [],
+  "PolymerList": [],
+  "Cells": {}
+}

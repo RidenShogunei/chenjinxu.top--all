@@ -1,0 +1,44 @@
+{
+  "GroupGUID": "4dcd9546-57f4-407e-a4e7-6df4fb33cdcf",
+  "GroupName": "KuaidiXiang2",
+  "AreaAnchorName": "LevelArea_P20231_F20231001_G95",
+  "LoadSide": "Server",
+  "LoadOnInitial": true,
+  "ConflictIDList": [],
+  "AnchorList": [],
+  "MonsterList": [],
+  "PropList": [
+    {
+      "PropID": 100,
+      "IsOverrideInitLevelGraph": true,
+      "InitLevelGraph": "Config/Level/PropDialogue/W2/PropDialogue_502569001.json",
+      "Trigger": {
+        "Radius": 2,
+        "DimX": 1,
+        "DimY": 1,
+        "DimZ": 1,
+        "PointList": []
+      },
+      "CampID": 4,
+      "MapLayerID": 2,
+      "CustomTriggerMap": {},
+      "BridgeStateRotations": [],
+      "DialogueGroups": [],
+      "TalkDialogGroupIDList": [],
+      "ServerInteractVerificationIDList": [],
+      "Name": "Prop1",
+      "ID": 300001,
+      "PosX": 98.4265,
+      "PosY": 46.52852,
+      "PosZ": -78.468
+    }
+  ],
+  "DistrictList": [],
+  "WaypointList": [],
+  "PathwayList": [],
+  "BattleAreaList": [],
+  "NPCList": [],
+  "CrowdList": [],
+  "PedestrianList": [],
+  "SmartObjectList": []
+}

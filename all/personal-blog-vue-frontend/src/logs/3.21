@@ -1,0 +1,26 @@
+记录一下接口设计，先差不多这样
+// 提交新的日记
+function submitDiary(diaryContent) {
+    fetch('/diaries', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ content: diaryContent }),
+    })
+    .then(response => response.json())
+    .then(data => console.log(data))
+    .catch((error) => {
+        console.error('Error:', error);
+    });
+}
+
+// 获取所有日记
+function fetchDiaries() {
+    fetch('/diaries')
+    .then(response => response.json())
+    .then(data => console.log(data))
+    .catch((error) => {
+        console.error('Error:', error);
+    });
+}

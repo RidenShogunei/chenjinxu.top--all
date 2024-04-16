@@ -1,0 +1,4372 @@
+{
+  "Polymer": {
+    "9a9cc9a94a8caa0418be6d82a5a775cc": {
+      "Chap": "Chapter03",
+      "ChildrenObj": [
+        {
+          "Path": "Default",
+          "Name": "Chap03_Prop_TV_02_Screen_Lod0",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_Screen_Lod0.prefab",
+          "Active": 1,
+          "PosX": -123.1164,
+          "PosY": 11.54157,
+          "PosZ": 73.81199,
+          "RotY": 323.0378,
+          "ScaleX": 1.584862,
+          "ScaleY": 1.284403,
+          "ScaleZ": 1.251856,
+          "Bound": {
+            "Center": {
+              "X": -122.967,
+              "Y": 12.31042,
+              "Z": 73.6156
+            },
+            "Size": {
+              "X": 1.4758,
+              "Y": 1.417484,
+              "Z": 1.162613
+            }
+          }
+        },
+        {
+          "Path": "Default",
+          "Index": 1,
+          "Name": "Chap03_Prop_TV_02_Screen_Lod0 (1)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_Screen_Lod0.prefab",
+          "Active": 1,
+          "PosX": -111.7956,
+          "PosY": 14.47122,
+          "PosZ": 74.69576,
+          "RotX": 13.43135,
+          "RotY": 71.91038,
+          "RotZ": 0.135725,
+          "ScaleX": 1.009644,
+          "ScaleY": 1.048262,
+          "ScaleZ": 0.794619,
+          "Bound": {
+            "Center": {
+              "X": -111.8021,
+              "Y": 15.11794,
+              "Z": 74.6943
+            },
+            "Size": {
+              "X": 0.686295,
+              "Y": 1.14992,
+              "Z": 1.164673
+            }
+          }
+        },
+        {
+          "Path": "Default",
+          "Index": 2,
+          "Name": "Chap03_Prop_TV_02_Screen_Lod0 (2)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_Screen_Lod0.prefab",
+          "Active": 1,
+          "PosX": -110.1018,
+          "PosY": 12.78452,
+          "PosZ": 72.34029,
+          "RotY": 28.41321,
+          "ScaleX": 1.360085,
+          "ScaleY": 1.263549,
+          "ScaleZ": 1.263549,
+          "Bound": {
+            "Center": {
+              "X": -110.2194,
+              "Y": 13.54088,
+              "Z": 72.12065
+            },
+            "Size": {
+              "X": 1.38092,
+              "Y": 1.394468,
+              "Z": 0.84137
+            }
+          }
+        },
+        {
+          "Path": "Default",
+          "Index": 3,
+          "Name": "Chap03_Prop_TV_02_Screen_Lod0 (3)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_Screen_Lod0.prefab",
+          "Active": 1,
+          "PosX": -109.3685,
+          "PosY": 12.98232,
+          "PosZ": 71.00731,
+          "RotX": 359.4323,
+          "RotY": 327.9112,
+          "RotZ": 359.9699,
+          "ScaleX": 0.94,
+          "ScaleY": 0.94,
+          "ScaleZ": 1.09604,
+          "Bound": {
+            "Center": {
+              "X": -109.2498,
+              "Y": 13.54284,
+              "Z": 70.82011
+            },
+            "Size": {
+              "X": 0.947098,
+              "Y": 1.039188,
+              "Z": 0.666168
+            }
+          }
+        },
+        {
+          "Path": "Default",
+          "Index": 4,
+          "Name": "Chap03_Prop_TV_02_Screen_Lod0 (4)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_Screen_Lod0.prefab",
+          "Active": 1,
+          "PosX": -109.7351,
+          "PosY": 11.50674,
+          "PosZ": 73.03591,
+          "RotY": 167.7813,
+          "ScaleX": 1.038724,
+          "ScaleY": 0.934215,
+          "ScaleZ": 0.969903,
+          "Bound": {
+            "Center": {
+              "X": -109.7764,
+              "Y": 12.06596,
+              "Z": 73.2226
+            },
+            "Size": {
+              "X": 1.13533,
+              "Y": 1.031012,
+              "Z": 0.354248
+            }
+          }
+        },
+        {
+          "Path": "Default",
+          "Index": 5,
+          "Name": "Chap03_Prop_TV_02_Screen_Lod0 (5)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_Screen_Lod0.prefab",
+          "Active": 1,
+          "PosX": -103.8464,
+          "PosY": 11.57757,
+          "PosZ": 62.09138,
+          "RotY": 124.5136,
+          "ScaleX": 1,
+          "ScaleY": 0.8885,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -104.0093,
+              "Y": 12.10943,
+              "Z": 62.20239
+            },
+            "Size": {
+              "X": 0.718765,
+              "Y": 0.98056,
+              "Z": 0.969482
+            }
+          }
+        },
+        {
+          "Path": "Default",
+          "Index": 6,
+          "Name": "Chap03_Prop_TV_02_Screen_Lod0 (6)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_Screen_Lod0.prefab",
+          "Active": 1,
+          "PosX": -114.4414,
+          "PosY": 11.64357,
+          "PosZ": 55.6997,
+          "RotX": 90,
+          "RotY": 90,
+          "ScaleX": 0.94,
+          "ScaleY": 0.94,
+          "ScaleZ": 0.72,
+          "Bound": {
+            "Center": {
+              "X": -113.8787,
+              "Y": 11.78551,
+              "Z": 55.6989
+            },
+            "Size": {
+              "X": 1.037399,
+              "Y": 0.086378,
+              "Z": 1.028435
+            }
+          }
+        },
+        {
+          "Path": "Default",
+          "Index": 7,
+          "Name": "Chap03_Prop_TV_02_Screen_Lod0 (7)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_Screen_Lod0.prefab",
+          "Active": 1,
+          "PosX": -110.4461,
+          "PosY": 14.94,
+          "PosZ": 49.88293,
+          "RotX": 11.68908,
+          "RotY": 110.8196,
+          "RotZ": 350.3228,
+          "ScaleX": 0.85,
+          "ScaleY": 0.85,
+          "ScaleZ": 0.85,
+          "Bound": {
+            "Center": {
+              "X": -110.5352,
+              "Y": 15.465,
+              "Z": 49.82454
+            },
+            "Size": {
+              "X": 0.567841,
+              "Y": 1.079288,
+              "Z": 1.095093
+            }
+          }
+        },
+        {
+          "Path": "Default",
+          "Index": 8,
+          "Name": "Chap03_Prop_TV_02_Screen_Lod0 (8)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_Screen_Lod0.prefab",
+          "Active": 1,
+          "PosX": -120.5265,
+          "PosY": 11.587,
+          "PosZ": 48.32866,
+          "RotX": 29.5823,
+          "RotY": 258.1731,
+          "RotZ": 3E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -120.6481,
+              "Y": 12.2049,
+              "Z": 48.30407
+            },
+            "Size": {
+              "X": 0.859604,
+              "Y": 1.01898,
+              "Z": 1.203903
+            }
+          }
+        },
+        {
+          "Path": "Default",
+          "Index": 9,
+          "Name": "Chap03_Prop_TV_02_Screen_Lod0 (9)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_Screen_Lod0.prefab",
+          "Active": 1,
+          "PosX": -127.6533,
+          "PosY": 11.991,
+          "PosZ": 59.53658,
+          "RotY": 249.1395,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -127.4694,
+              "Y": 12.5896,
+              "Z": 59.60757
+            },
+            "Size": {
+              "X": 0.501694,
+              "Y": 1.103613,
+              "Z": 1.065086
+            }
+          }
+        },
+        {
+          "Path": "Default",
+          "Index": 10,
+          "Name": "Chap03_Prop_TV_02_Screen_Lod0 (10)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_Screen_Lod0.prefab",
+          "Active": 1,
+          "PosX": -129.5322,
+          "PosY": 12.161,
+          "PosZ": 61.85696,
+          "RotX": 89.87967,
+          "RotY": 30.84764,
+          "RotZ": 89.21729,
+          "ScaleX": 0.882712,
+          "ScaleY": 0.882712,
+          "ScaleZ": 0.882712,
+          "Bound": {
+            "Center": {
+              "X": -129.9819,
+              "Y": 12.33504,
+              "Z": 62.1344
+            },
+            "Size": {
+              "X": 1.33606,
+              "Y": 0.107971,
+              "Z": 1.333382
+            }
+          }
+        },
+        {
+          "Path": "Default",
+          "Index": 11,
+          "Name": "Chap03_Prop_TV_02_Screen_Lod0 (11)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_Screen_Lod0.prefab",
+          "Active": 1,
+          "PosX": -130.3882,
+          "PosY": 12.91971,
+          "PosZ": 62.89983,
+          "RotX": 28.1417,
+          "RotY": 300.2432,
+          "RotZ": 341.1127,
+          "ScaleX": 1.094915,
+          "ScaleY": 0.928379,
+          "ScaleZ": 1.094915,
+          "Bound": {
+            "Center": {
+              "X": -130.3469,
+              "Y": 13.48491,
+              "Z": 63.08496
+            },
+            "Size": {
+              "X": 1.056885,
+              "Y": 1.258696,
+              "Z": 1.462189
+            }
+          }
+        },
+        {
+          "Path": "Default",
+          "Index": 12,
+          "Name": "Chap03_Prop_TV_02_Screen_Lod0 (12)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_Screen_Lod0.prefab",
+          "Active": 1,
+          "PosX": -129.0504,
+          "PosY": 12.58192,
+          "PosZ": 63.52451,
+          "RotX": 19.91547,
+          "RotY": 337.0804,
+          "RotZ": 7.950249,
+          "ScaleX": 1.094914,
+          "ScaleY": 0.928379,
+          "ScaleZ": 1.094915,
+          "Bound": {
+            "Center": {
+              "X": -129.1144,
+              "Y": 13.17304,
+              "Z": 63.48072
+            },
+            "Size": {
+              "X": 1.383972,
+              "Y": 1.154564,
+              "Z": 0.890945
+            }
+          }
+        },
+        {
+          "Path": "Default",
+          "Index": 13,
+          "Name": "Chap03_Prop_TV_02_Screen_Lod0 (13)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_Screen_Lod0.prefab",
+          "Active": 1,
+          "PosX": -112.0206,
+          "PosY": 11.52814,
+          "PosZ": 72.71031,
+          "RotY": 216.4133,
+          "ScaleX": 1.262695,
+          "ScaleY": 0.948609,
+          "ScaleZ": 0.880544,
+          "Bound": {
+            "Center": {
+              "X": -111.9184,
+              "Y": 12.09598,
+              "Z": 72.85065
+            },
+            "Size": {
+              "X": 1.174469,
+              "Y": 1.046898,
+              "Z": 0.905075
+            }
+          }
+        },
+        {
+          "Path": "Default",
+          "Index": 14,
+          "Name": "Chap03_Prop_TV_01_Screen_Lod0 (1)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_01_Screen_Lod0.prefab",
+          "Active": 1,
+          "PosX": -121.9665,
+          "PosY": 11.51729,
+          "PosZ": 48.88289,
+          "RotY": 208.1211,
+          "ScaleX": 1.475604,
+          "ScaleY": 1.475603,
+          "ScaleZ": 1.475604,
+          "Bound": {
+            "Center": {
+              "X": -121.8467,
+              "Y": 13.09398,
+              "Z": 49.14384
+            },
+            "Size": {
+              "X": 1.209656,
+              "Y": 1.136175,
+              "Z": 0.714111
+            }
+          }
+        },
+        {
+          "Path": "Default",
+          "Index": 15,
+          "Name": "Chap03_Prop_TV_01_Screen_Lod0 (2)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_01_Screen_Lod0.prefab",
+          "Active": 1,
+          "PosX": -114.36,
+          "PosY": 11.51526,
+          "PosZ": 75.96346,
+          "RotY": 48.94146,
+          "ScaleX": 1.128,
+          "ScaleY": 1.128,
+          "ScaleZ": 1.128,
+          "Bound": {
+            "Center": {
+              "X": -114.5166,
+              "Y": 12.72053,
+              "Z": 75.80958
+            },
+            "Size": {
+              "X": 0.721741,
+              "Y": 0.86853,
+              "Z": 0.811432
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 16,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -111.7567,
+          "PosY": 12.942,
+          "PosZ": 49.80162,
+          "RotX": 355.6678,
+          "RotY": 325.6548,
+          "RotZ": 357.2321,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -111.7089,
+              "Y": 13.53982,
+              "Z": 49.78308
+            },
+            "Size": {
+              "X": 1.378799,
+              "Y": 1.292261,
+              "Z": 1.150269
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 17,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -110.4461,
+          "PosY": 14.94,
+          "PosZ": 49.88293,
+          "RotX": 11.68908,
+          "RotY": 110.8196,
+          "RotZ": 350.3228,
+          "ScaleX": 0.85,
+          "ScaleY": 0.85,
+          "ScaleZ": 0.85,
+          "Bound": {
+            "Center": {
+              "X": -110.379,
+              "Y": 15.4318,
+              "Z": 49.7657
+            },
+            "Size": {
+              "X": 0.924133,
+              "Y": 1.242138,
+              "Z": 1.314087
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 18,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -110.71,
+          "PosY": 11.717,
+          "PosZ": 53.6218,
+          "RotX": 270,
+          "RotY": 115.9526,
+          "ScaleX": 1.061673,
+          "ScaleY": 0.902075,
+          "ScaleZ": 0.798871,
+          "Bound": {
+            "Center": {
+              "X": -111.1967,
+              "Y": 11.71942,
+              "Z": 53.85866
+            },
+            "Size": {
+              "X": 1.530869,
+              "Y": 0.415655,
+              "Z": 1.619263
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 19,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -111.3874,
+          "PosY": 12.76097,
+          "PosZ": 73.08917,
+          "RotY": 211.9281,
+          "ScaleX": 1.086118,
+          "ScaleY": 1.086117,
+          "ScaleZ": 1.086118,
+          "Bound": {
+            "Center": {
+              "X": -111.3891,
+              "Y": 13.41264,
+              "Z": 73.08639
+            },
+            "Size": {
+              "X": 1.405029,
+              "Y": 1.303339,
+              "Z": 1.168884
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 20,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -112.0206,
+          "PosY": 11.52814,
+          "PosZ": 72.71031,
+          "RotY": 216.4133,
+          "ScaleX": 1.262695,
+          "ScaleY": 0.948609,
+          "ScaleZ": 0.880544,
+          "Bound": {
+            "Center": {
+              "X": -112.0222,
+              "Y": 12.09731,
+              "Z": 72.70817
+            },
+            "Size": {
+              "X": 1.491348,
+              "Y": 1.138332,
+              "Z": 1.268158
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 21,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -110.1018,
+          "PosY": 12.78452,
+          "PosZ": 72.34029,
+          "RotY": 28.41321,
+          "ScaleX": 1.360085,
+          "ScaleY": 1.263549,
+          "ScaleZ": 1.263549,
+          "Bound": {
+            "Center": {
+              "X": -110.1,
+              "Y": 13.54265,
+              "Z": 72.34365
+            },
+            "Size": {
+              "X": 1.748322,
+              "Y": 1.516258,
+              "Z": 1.354843
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 22,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -111.8886,
+          "PosY": 12.7806,
+          "PosZ": 74.9032,
+          "RotY": 234.8229,
+          "ScaleX": 1.423497,
+          "ScaleY": 1.423497,
+          "ScaleZ": 1.423497,
+          "Bound": {
+            "Center": {
+              "X": -111.8921,
+              "Y": 13.6347,
+              "Z": 74.90072
+            },
+            "Size": {
+              "X": 1.589493,
+              "Y": 1.708197,
+              "Z": 1.822937
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 23,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -111.7956,
+          "PosY": 14.47122,
+          "PosZ": 74.69576,
+          "RotX": 13.43135,
+          "RotY": 71.91038,
+          "RotZ": 0.135725,
+          "ScaleX": 1.009644,
+          "ScaleY": 1.048262,
+          "ScaleZ": 0.794619,
+          "Bound": {
+            "Center": {
+              "X": -111.655,
+              "Y": 15.08242,
+              "Z": 74.74326
+            },
+            "Size": {
+              "X": 1.035904,
+              "Y": 1.322332,
+              "Z": 1.369888
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 24,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -110.7198,
+          "PosY": 12.74732,
+          "PosZ": 73.8216,
+          "RotY": 207.7695,
+          "ScaleX": 1.183964,
+          "ScaleY": 0.960944,
+          "ScaleZ": 0.730923,
+          "Bound": {
+            "Center": {
+              "X": -110.7209,
+              "Y": 13.32389,
+              "Z": 73.81965
+            },
+            "Size": {
+              "X": 1.434311,
+              "Y": 1.153133,
+              "Z": 0.998459
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 25,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -109.3685,
+          "PosY": 12.98232,
+          "PosZ": 71.00731,
+          "RotX": 359.4323,
+          "RotY": 327.9112,
+          "RotZ": 359.9699,
+          "ScaleX": 0.94,
+          "ScaleY": 0.94,
+          "ScaleZ": 1.09604,
+          "Bound": {
+            "Center": {
+              "X": -109.367,
+              "Y": 13.54633,
+              "Z": 71.00554
+            },
+            "Size": {
+              "X": 1.265045,
+              "Y": 1.134188,
+              "Z": 1.091522
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 26,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -109.7351,
+          "PosY": 11.50674,
+          "PosZ": 73.03591,
+          "RotY": 167.7813,
+          "ScaleX": 1.038724,
+          "ScaleY": 0.934215,
+          "ScaleZ": 0.969903,
+          "Bound": {
+            "Center": {
+              "X": -109.7345,
+              "Y": 12.06727,
+              "Z": 73.03304
+            },
+            "Size": {
+              "X": 1.325043,
+              "Y": 1.121058,
+              "Z": 0.757019
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 27,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -114.4615,
+          "PosY": 11.65857,
+          "PosZ": 72.68292,
+          "RotX": 270,
+          "RotY": 46.14336,
+          "ScaleX": 0.85,
+          "ScaleY": 0.85,
+          "ScaleZ": 0.600539,
+          "Bound": {
+            "Center": {
+              "X": -114.8293,
+              "Y": 11.66039,
+              "Z": 72.32957
+            },
+            "Size": {
+              "X": 1.442215,
+              "Y": 0.312462,
+              "Z": 1.442215
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 28,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -114.4414,
+          "PosY": 11.64357,
+          "PosZ": 55.6997,
+          "RotX": 90,
+          "RotY": 90,
+          "ScaleX": 0.94,
+          "ScaleY": 0.94,
+          "ScaleZ": 0.72,
+          "Bound": {
+            "Center": {
+              "X": -113.8774,
+              "Y": 11.64139,
+              "Z": 55.6997
+            },
+            "Size": {
+              "X": 1.127991,
+              "Y": 0.374619,
+              "Z": 1.127998
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 29,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -109.3049,
+          "PosY": 12.76706,
+          "PosZ": 73.27383,
+          "RotY": 207.7695,
+          "ScaleX": 1.094051,
+          "ScaleY": 1.020956,
+          "ScaleZ": 1.168534,
+          "Bound": {
+            "Center": {
+              "X": -109.3065,
+              "Y": 13.37963,
+              "Z": 73.27071
+            },
+            "Size": {
+              "X": 1.444931,
+              "Y": 1.225147,
+              "Z": 1.149658
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 30,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -123.1164,
+          "PosY": 11.54157,
+          "PosZ": 73.81199,
+          "RotY": 323.0378,
+          "ScaleX": 1.584862,
+          "ScaleY": 1.284403,
+          "ScaleZ": 1.251856,
+          "Bound": {
+            "Center": {
+              "X": -123.1187,
+              "Y": 12.31221,
+              "Z": 73.81501
+            },
+            "Size": {
+              "X": 1.91127,
+              "Y": 1.541283,
+              "Z": 1.664001
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 31,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -121.5474,
+          "PosY": 11.73857,
+          "PosZ": 72.888,
+          "RotX": 284.4037,
+          "RotY": 156.0094,
+          "RotZ": 356.1149,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -121.82,
+              "Y": 11.89041,
+              "Z": 73.4005
+            },
+            "Size": {
+              "X": 1.660187,
+              "Y": 0.821991,
+              "Z": 1.703354
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 32,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -127.6533,
+          "PosY": 11.991,
+          "PosZ": 59.53658,
+          "RotY": 249.1395,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -127.6561,
+              "Y": 12.591,
+              "Z": 59.5355
+            },
+            "Size": {
+              "X": 0.913513,
+              "Y": 1.199999,
+              "Z": 1.306618
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 33,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -129.5322,
+          "PosY": 12.161,
+          "PosZ": 61.85696,
+          "RotX": 89.87967,
+          "RotY": 30.84764,
+          "RotZ": 89.21729,
+          "ScaleX": 0.882712,
+          "ScaleY": 0.882712,
+          "ScaleZ": 0.882712,
+          "Bound": {
+            "Center": {
+              "X": -129.9832,
+              "Y": 12.15835,
+              "Z": 62.13473
+            },
+            "Size": {
+              "X": 1.457916,
+              "Y": 0.461552,
+              "Z": 1.458252
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 34,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -127.1538,
+          "PosY": 11.721,
+          "PosZ": 59.08134,
+          "RotX": 270,
+          "RotY": 134.1907,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -127.584,
+              "Y": 11.72402,
+              "Z": 59.49957
+            },
+            "Size": {
+              "X": 1.696869,
+              "Y": 0.520304,
+              "Z": 1.696892
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 35,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -129.0504,
+          "PosY": 12.58192,
+          "PosZ": 63.52451,
+          "RotX": 19.91547,
+          "RotY": 337.0804,
+          "RotZ": 7.950249,
+          "ScaleX": 1.094914,
+          "ScaleY": 0.928379,
+          "ScaleZ": 1.094915,
+          "Bound": {
+            "Center": {
+              "X": -129.1958,
+              "Y": 13.09947,
+              "Z": 63.67045
+            },
+            "Size": {
+              "X": 1.671295,
+              "Y": 1.402279,
+              "Z": 1.343269
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 36,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -130.3882,
+          "PosY": 12.91971,
+          "PosZ": 62.89983,
+          "RotX": 28.1417,
+          "RotY": 300.2432,
+          "RotZ": 341.1127,
+          "ScaleX": 1.094915,
+          "ScaleY": 0.928379,
+          "ScaleZ": 1.094915,
+          "Bound": {
+            "Center": {
+              "X": -130.5147,
+              "Y": 13.38288,
+              "Z": 63.18227
+            },
+            "Size": {
+              "X": 1.481262,
+              "Y": 1.573196,
+              "Z": 1.78788
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 37,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -122.2056,
+          "PosY": 13.318,
+          "PosZ": 48.69291,
+          "RotY": 59.13994,
+          "ScaleX": 1.0647,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -122.203,
+              "Y": 13.918,
+              "Z": 48.69446
+            },
+            "Size": {
+              "X": 1.102005,
+              "Y": 1.199999,
+              "Z": 1.363647
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 38,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -120.5265,
+          "PosY": 11.587,
+          "PosZ": 48.32866,
+          "RotX": 29.5823,
+          "RotY": 258.1731,
+          "RotZ": 3E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -120.819,
+              "Y": 12.1073,
+              "Z": 48.26741
+            },
+            "Size": {
+              "X": 1.268646,
+              "Y": 1.300438,
+              "Z": 1.388687
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 39,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -103.8464,
+          "PosY": 11.57757,
+          "PosZ": 62.09138,
+          "RotY": 124.5136,
+          "ScaleX": 1,
+          "ScaleY": 0.8885,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -103.8439,
+              "Y": 12.11067,
+              "Z": 62.08967
+            },
+            "Size": {
+              "X": 1.108658,
+              "Y": 1.0662,
+              "Z": 1.283592
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 40,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -103.5005,
+          "PosY": 11.76657,
+          "PosZ": 63.95792,
+          "RotX": 90,
+          "RotY": 179.9092,
+          "ScaleX": 0.830001,
+          "ScaleY": 0.830001,
+          "ScaleZ": 0.830002,
+          "Bound": {
+            "Center": {
+              "X": -103.4997,
+              "Y": 11.76406,
+              "Z": 63.45992
+            },
+            "Size": {
+              "X": 0.997589,
+              "Y": 0.431852,
+              "Z": 0.997582
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 41,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -124.3724,
+          "PosY": 11.541,
+          "PosZ": 72.86092,
+          "RotY": 7.842572,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -124.372,
+              "Y": 12.141,
+              "Z": 72.86392
+            },
+            "Size": {
+              "X": 1.259781,
+              "Y": 1.199999,
+              "Z": 0.679169
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 42,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -124.5369,
+          "PosY": 11.64,
+          "PosZ": 52.0408,
+          "RotX": 312.7302,
+          "RotY": 329.9999,
+          "RotZ": -3E-06,
+          "ScaleX": 0.78116,
+          "ScaleY": 0.78116,
+          "ScaleZ": 0.78116,
+          "Bound": {
+            "Center": {
+              "X": -124.3655,
+              "Y": 11.95977,
+              "Z": 51.74403
+            },
+            "Size": {
+              "X": 1.293991,
+              "Y": 0.934616,
+              "Z": 1.303856
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 43,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -123.2731,
+          "PosY": 11.64059,
+          "PosZ": 51.88594,
+          "RotX": 284.4037,
+          "RotY": 36.00963,
+          "RotZ": 356.1149,
+          "ScaleX": 0.78116,
+          "ScaleY": 0.78116,
+          "ScaleZ": 0.78116,
+          "Bound": {
+            "Center": {
+              "X": -123.5134,
+              "Y": 11.7592,
+              "Z": 51.50137
+            },
+            "Size": {
+              "X": 1.333328,
+              "Y": 0.642107,
+              "Z": 1.351959
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 44,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -124.3343,
+          "PosY": 11.662,
+          "PosZ": 54.74197,
+          "RotX": 270,
+          "RotY": 353.1681,
+          "ScaleX": 0.78116,
+          "ScaleY": 0.78116,
+          "ScaleZ": 0.636138,
+          "Bound": {
+            "Center": {
+              "X": -124.2786,
+              "Y": 11.66392,
+              "Z": 54.27661
+            },
+            "Size": {
+              "X": 1.042236,
+              "Y": 0.330986,
+              "Z": 1.042244
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 45,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -123.7742,
+          "PosY": 11.57,
+          "PosZ": 49.65788,
+          "RotY": 212.6595,
+          "ScaleX": 1.787239,
+          "ScaleY": 1.41171,
+          "ScaleZ": 1.41171,
+          "Bound": {
+            "Center": {
+              "X": -123.7765,
+              "Y": 12.41703,
+              "Z": 49.65429
+            },
+            "Size": {
+              "X": 2.201981,
+              "Y": 1.694052,
+              "Z": 1.775757
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 46,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -125.7038,
+          "PosY": 11.641,
+          "PosZ": 50.98602,
+          "RotX": 330,
+          "RotY": 102.1434,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -125.9945,
+              "Y": 12.16213,
+              "Z": 51.04858
+            },
+            "Size": {
+              "X": 1.27951,
+              "Y": 1.299381,
+              "Z": 1.39415
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 47,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -126.7787,
+          "PosY": 12.969,
+          "PosZ": 51.42777,
+          "RotY": 252.7588,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -126.7816,
+              "Y": 13.569,
+              "Z": 51.42687
+            },
+            "Size": {
+              "X": 0.852585,
+              "Y": 1.199999,
+              "Z": 1.300293
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 48,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -127.7751,
+          "PosY": 11.55237,
+          "PosZ": 52.35359,
+          "RotX": 28.68962,
+          "RotY": 228.6369,
+          "RotZ": 0.453623,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -127.9901,
+              "Y": 12.07724,
+              "Z": 52.15794
+            },
+            "Size": {
+              "X": 1.565033,
+              "Y": 1.31076,
+              "Z": 1.587029
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 49,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -123.0693,
+          "PosY": 13.318,
+          "PosZ": 49.69886,
+          "RotY": 185.7256,
+          "ScaleX": 1.0926,
+          "ScaleY": 1.0926,
+          "ScaleZ": 1.0926,
+          "Bound": {
+            "Center": {
+              "X": -123.0696,
+              "Y": 13.97356,
+              "Z": 49.69557
+            },
+            "Size": {
+              "X": 1.361298,
+              "Y": 1.311121,
+              "Z": 0.696457
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 50,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -123.3681,
+          "PosY": 11.51729,
+          "PosZ": 50.31845,
+          "RotY": 212.6595,
+          "ScaleX": 1.899016,
+          "ScaleY": 1.5,
+          "ScaleZ": 1.5,
+          "Bound": {
+            "Center": {
+              "X": -123.3705,
+              "Y": 12.41729,
+              "Z": 50.31463
+            },
+            "Size": {
+              "X": 2.339691,
+              "Y": 1.800001,
+              "Z": 1.886818
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 51,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -131.044,
+          "PosY": 14.11655,
+          "PosZ": 61.04506,
+          "RotX": 273.8114,
+          "RotY": 246.1577,
+          "RotZ": 288.432,
+          "ScaleX": 1.245976,
+          "ScaleY": 1.056463,
+          "ScaleZ": 1.245976,
+          "Bound": {
+            "Center": {
+              "X": -131.1044,
+              "Y": 14.13363,
+              "Z": 61.67583
+            },
+            "Size": {
+              "X": 1.645386,
+              "Y": 0.767788,
+              "Z": 1.418877
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 52,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -130.496,
+          "PosY": 12.83526,
+          "PosZ": 62.04402,
+          "RotX": 356.5098,
+          "RotY": 155.8637,
+          "RotZ": 0.267325,
+          "ScaleX": 0.97693,
+          "ScaleY": 0.828339,
+          "ScaleZ": 0.97693,
+          "Bound": {
+            "Center": {
+              "X": -130.5051,
+              "Y": 13.33152,
+              "Z": 62.06989
+            },
+            "Size": {
+              "X": 1.297913,
+              "Y": 1.028557,
+              "Z": 0.999176
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 53,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -131.2878,
+          "PosY": 12.874,
+          "PosZ": 62.21568,
+          "RotX": 356.5098,
+          "RotY": 89.53125,
+          "RotZ": 0.267329,
+          "ScaleX": 0.976929,
+          "ScaleY": 0.828339,
+          "ScaleZ": 0.97693,
+          "Bound": {
+            "Center": {
+              "X": -131.3151,
+              "Y": 13.37026,
+              "Z": 62.21778
+            },
+            "Size": {
+              "X": 0.577148,
+              "Y": 1.028557,
+              "Z": 1.180565
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 54,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -131.2751,
+          "PosY": 13.69431,
+          "PosZ": 59.8844,
+          "RotX": 6.81134,
+          "RotY": 304.209,
+          "RotZ": 1.300104,
+          "ScaleX": 1.094915,
+          "ScaleY": 0.928379,
+          "ScaleZ": 1.094915,
+          "Bound": {
+            "Center": {
+              "X": -131.3395,
+              "Y": 14.24687,
+              "Z": 59.91293
+            },
+            "Size": {
+              "X": 1.326813,
+              "Y": 1.203072,
+              "Z": 1.459679
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 55,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -131.2034,
+          "PosY": 14.46308,
+          "PosZ": 61.80917,
+          "RotX": 20.9548,
+          "RotY": 264.129,
+          "RotZ": 359.8507,
+          "ScaleX": 0.993647,
+          "ScaleY": 0.928378,
+          "ScaleZ": 1.094915,
+          "Bound": {
+            "Center": {
+              "X": -131.4048,
+              "Y": 14.98208,
+              "Z": 61.78992
+            },
+            "Size": {
+              "X": 1.046692,
+              "Y": 1.247009,
+              "Z": 1.278519
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 56,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -130.6322,
+          "PosY": 12.75361,
+          "PosZ": 60.99867,
+          "RotX": 6.81134,
+          "RotY": 264.4794,
+          "RotZ": 1.300102,
+          "ScaleX": 1.094916,
+          "ScaleY": 0.928378,
+          "ScaleZ": 1.094915,
+          "Bound": {
+            "Center": {
+              "X": -130.7,
+              "Y": 13.30618,
+              "Z": 60.97942
+            },
+            "Size": {
+              "X": 0.821991,
+              "Y": 1.203072,
+              "Z": 1.399414
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 57,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -131.3787,
+          "PosY": 12.67074,
+          "PosZ": 62.23045,
+          "RotX": 270,
+          "RotY": 273.8567,
+          "ScaleX": 1.094914,
+          "ScaleY": 1.094915,
+          "ScaleZ": 0.820984,
+          "Bound": {
+            "Center": {
+              "X": -130.7233,
+              "Y": 12.67322,
+              "Z": 62.18627
+            },
+            "Size": {
+              "X": 1.399292,
+              "Y": 0.427162,
+              "Z": 1.399292
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 58,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -129.232,
+          "PosY": 11.914,
+          "PosZ": 60.4969,
+          "RotX": 293.3055,
+          "RotY": 178.8206,
+          "RotZ": 272.8389,
+          "ScaleX": 0.978839,
+          "ScaleY": 0.97884,
+          "ScaleZ": 0.978839,
+          "Bound": {
+            "Center": {
+              "X": -129.819,
+              "Y": 11.92823,
+              "Z": 60.51037
+            },
+            "Size": {
+              "X": 1.214172,
+              "Y": 0.954901,
+              "Z": 1.309135
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 59,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -129.8001,
+          "PosY": 11.664,
+          "PosZ": 61.46097,
+          "RotX": 270,
+          "RotY": 89.99988,
+          "ScaleX": 0.882712,
+          "ScaleY": 0.882712,
+          "ScaleZ": 0.882712,
+          "Bound": {
+            "Center": {
+              "X": -130.3298,
+              "Y": 11.66667,
+              "Z": 61.46097
+            },
+            "Size": {
+              "X": 1.059265,
+              "Y": 0.459286,
+              "Z": 1.059258
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 60,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -128.5867,
+          "PosY": 11.664,
+          "PosZ": 61.4572,
+          "RotX": 270,
+          "RotY": 89.99988,
+          "ScaleX": 0.882712,
+          "ScaleY": 0.882712,
+          "ScaleZ": 0.882712,
+          "Bound": {
+            "Center": {
+              "X": -129.1163,
+              "Y": 11.66667,
+              "Z": 61.4572
+            },
+            "Size": {
+              "X": 1.059265,
+              "Y": 0.459286,
+              "Z": 1.059258
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 61,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -129.173,
+          "PosY": 11.71,
+          "PosZ": 63.92775,
+          "RotX": 270,
+          "RotY": 155.1071,
+          "ScaleX": 0.882712,
+          "ScaleY": 0.882712,
+          "ScaleZ": 0.882712,
+          "Bound": {
+            "Center": {
+              "X": -129.3959,
+              "Y": 11.71267,
+              "Z": 64.40817
+            },
+            "Size": {
+              "X": 1.406708,
+              "Y": 0.459278,
+              "Z": 1.406708
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 62,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -129.4561,
+          "PosY": 11.719,
+          "PosZ": 62.64108,
+          "RotX": 270,
+          "RotY": 89.99989,
+          "ScaleX": 0.882712,
+          "ScaleY": 0.882712,
+          "ScaleZ": 0.882712,
+          "Bound": {
+            "Center": {
+              "X": -129.9857,
+              "Y": 11.72167,
+              "Z": 62.64108
+            },
+            "Size": {
+              "X": 1.059265,
+              "Y": 0.459278,
+              "Z": 1.059258
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 63,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -125.0675,
+          "PosY": 11.709,
+          "PosZ": 70.73392,
+          "RotX": 270,
+          "RotY": 88.69471,
+          "ScaleX": 0.7555,
+          "ScaleY": 0.7555,
+          "ScaleZ": 0.7555,
+          "Bound": {
+            "Center": {
+              "X": -125.5207,
+              "Y": 11.71129,
+              "Z": 70.7236
+            },
+            "Size": {
+              "X": 0.927017,
+              "Y": 0.393089,
+              "Z": 0.927017
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 64,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -109.2653,
+          "PosY": 14.4929,
+          "PosZ": 72.79074,
+          "RotX": 279.8352,
+          "RotY": 100.4006,
+          "RotZ": 250.6329,
+          "ScaleX": 0.94,
+          "ScaleY": 0.940001,
+          "ScaleZ": 0.94,
+          "Bound": {
+            "Center": {
+              "X": -109.1796,
+              "Y": 14.46375,
+              "Z": 72.23404
+            },
+            "Size": {
+              "X": 1.351395,
+              "Y": 0.72757,
+              "Z": 1.306946
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 65,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -108.4322,
+          "PosY": 12.64486,
+          "PosZ": 70.8976,
+          "RotX": 358.9001,
+          "RotY": 302.2539,
+          "RotZ": 179.3044,
+          "ScaleX": 0.94,
+          "ScaleY": 0.94,
+          "ScaleZ": 0.940001,
+          "Bound": {
+            "Center": {
+              "X": -108.4474,
+              "Y": 12.08106,
+              "Z": 70.8991
+            },
+            "Size": {
+              "X": 1.040878,
+              "Y": 1.150789,
+              "Z": 1.214996
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 66,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -109.6503,
+          "PosY": 11.63557,
+          "PosZ": 72.65725,
+          "RotX": 90,
+          "RotY": 180.0001,
+          "ScaleX": 1.038725,
+          "ScaleY": 0.934215,
+          "ScaleZ": 0.722853,
+          "Bound": {
+            "Center": {
+              "X": -109.6503,
+              "Y": 11.63338,
+              "Z": 72.09672
+            },
+            "Size": {
+              "X": 1.246475,
+              "Y": 0.376102,
+              "Z": 1.121063
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 67,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -113.0047,
+          "PosY": 12.8103,
+          "PosZ": 74.91917,
+          "RotX": 9.235296,
+          "RotY": 88.37843,
+          "RotZ": 357.8127,
+          "ScaleX": 0.940001,
+          "ScaleY": 0.94,
+          "ScaleZ": 0.94,
+          "Bound": {
+            "Center": {
+              "X": -112.9109,
+              "Y": 13.36613,
+              "Z": 74.9003
+            },
+            "Size": {
+              "X": 0.689591,
+              "Y": 1.233553,
+              "Z": 1.178497
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 68,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -112.2541,
+          "PosY": 12.80654,
+          "PosZ": 73.96172,
+          "RotY": 45.71149,
+          "ScaleX": 0.94,
+          "ScaleY": 0.94,
+          "ScaleZ": 0.94,
+          "Bound": {
+            "Center": {
+              "X": -112.252,
+              "Y": 13.37054,
+              "Z": 73.96371
+            },
+            "Size": {
+              "X": 1.137741,
+              "Y": 1.128,
+              "Z": 1.148972
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 69,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -108.5535,
+          "PosY": 12.7119,
+          "PosZ": 72.45466,
+          "RotY": 318.7171,
+          "ScaleX": 1.353614,
+          "ScaleY": 1.12754,
+          "ScaleZ": 1.306257,
+          "Bound": {
+            "Center": {
+              "X": -108.5561,
+              "Y": 13.38842,
+              "Z": 72.45763
+            },
+            "Size": {
+              "X": 1.669037,
+              "Y": 1.353048,
+              "Z": 1.582428
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 70,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -107.4098,
+          "PosY": 12.798,
+          "PosZ": 52.25798,
+          "RotX": 63.31392,
+          "RotY": 175.0077,
+          "RotZ": 2.701514,
+          "ScaleX": 1.002476,
+          "ScaleY": 0.759308,
+          "ScaleZ": 0.873288,
+          "Bound": {
+            "Center": {
+              "X": -107.3529,
+              "Y": 13.00002,
+              "Z": 51.85361
+            },
+            "Size": {
+              "X": 1.323975,
+              "Y": 0.840193,
+              "Z": 1.164703
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 71,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -110.7797,
+          "PosY": 11.5205,
+          "PosZ": 50.72322,
+          "RotX": 3.122905,
+          "RotY": 160.7496,
+          "RotZ": 359.6268,
+          "ScaleX": 1.34568,
+          "ScaleY": 1.197475,
+          "ScaleZ": 1.212106,
+          "Bound": {
+            "Center": {
+              "X": -110.77,
+              "Y": 12.23771,
+              "Z": 50.68127
+            },
+            "Size": {
+              "X": 1.749283,
+              "Y": 1.479666,
+              "Z": 1.203354
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 72,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -109.33,
+          "PosY": 13.629,
+          "PosZ": 50.86724,
+          "RotX": 18.29162,
+          "RotY": 191.5145,
+          "RotZ": 2.384469,
+          "ScaleX": 1.058185,
+          "ScaleY": 0.790869,
+          "ScaleZ": 1.427904,
+          "Bound": {
+            "Center": {
+              "X": -109.3412,
+              "Y": 14.0778,
+              "Z": 50.71347
+            },
+            "Size": {
+              "X": 1.40802,
+              "Y": 1.183645,
+              "Z": 1.227707
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 73,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -111.4182,
+          "PosY": 14.13,
+          "PosZ": 49.60122,
+          "RotX": 14.16842,
+          "RotY": 64.2998,
+          "RotZ": 356.1368,
+          "ScaleX": 0.828008,
+          "ScaleY": 0.641375,
+          "ScaleZ": 0.828008,
+          "Bound": {
+            "Center": {
+              "X": -111.3201,
+              "Y": 14.50166,
+              "Z": 49.61967
+            },
+            "Size": {
+              "X": 0.983383,
+              "Y": 0.914902,
+              "Z": 1.116325
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 74,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -113.2065,
+          "PosY": 11.49,
+          "PosZ": 48.55558,
+          "RotY": 103.6117,
+          "ScaleX": 1.4,
+          "ScaleY": 1.4,
+          "ScaleZ": 1.4,
+          "Bound": {
+            "Center": {
+              "X": -113.2024,
+              "Y": 12.33,
+              "Z": 48.55458
+            },
+            "Size": {
+              "X": 1.103348,
+              "Y": 1.68,
+              "Z": 1.804245
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 75,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -112.4587,
+          "PosY": 11.49301,
+          "PosZ": 73.88555,
+          "RotY": 115.6242,
+          "ScaleX": 1.241613,
+          "ScaleY": 0.912044,
+          "ScaleZ": 0.864579,
+          "Bound": {
+            "Center": {
+              "X": -112.4563,
+              "Y": 12.04023,
+              "Z": 73.88442
+            },
+            "Size": {
+              "X": 1.049942,
+              "Y": 1.094454,
+              "Z": 1.537933
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 76,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -112.6356,
+          "PosY": 13.1,
+          "PosZ": 48.98659,
+          "RotX": 15.23822,
+          "RotY": 142.3124,
+          "RotZ": 359.6867,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -112.54,
+              "Y": 13.6781,
+              "Z": 48.85748
+            },
+            "Size": {
+              "X": 1.445206,
+              "Y": 1.300875,
+              "Z": 1.383118
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 77,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -111.3469,
+          "PosY": 11.996,
+          "PosZ": 52.58075,
+          "RotX": 295.9621,
+          "RotY": 230.943,
+          "RotZ": 270,
+          "ScaleX": 1.061673,
+          "ScaleY": 0.902076,
+          "ScaleZ": 0.798871,
+          "Bound": {
+            "Center": {
+              "X": -111.6887,
+              "Y": 11.99817,
+              "Z": 53.00037
+            },
+            "Size": {
+              "X": 1.71283,
+              "Y": 0.93144,
+              "Z": 1.676964
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 78,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -113.7738,
+          "PosY": 11.621,
+          "PosZ": 49.8573,
+          "RotX": 43.37732,
+          "RotY": 125.729,
+          "RotZ": -2E-06,
+          "ScaleX": 1.061673,
+          "ScaleY": 0.902075,
+          "ScaleZ": 0.798871,
+          "Bound": {
+            "Center": {
+              "X": -113.4706,
+              "Y": 12.01274,
+              "Z": 49.6392
+            },
+            "Size": {
+              "X": 1.592728,
+              "Y": 1.072277,
+              "Z": 1.644791
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 79,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -110.65,
+          "PosY": 12.951,
+          "PosZ": 50.5757,
+          "RotX": 5.92721,
+          "RotY": 159.1309,
+          "RotZ": 359.1224,
+          "ScaleX": 1.125001,
+          "ScaleY": 0.891214,
+          "ScaleZ": 1.125001,
+          "Bound": {
+            "Center": {
+              "X": -110.6368,
+              "Y": 13.48246,
+              "Z": 50.51804
+            },
+            "Size": {
+              "X": 1.493484,
+              "Y": 1.144625,
+              "Z": 1.131897
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 80,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -110.5547,
+          "PosY": 14.026,
+          "PosZ": 50.26891,
+          "RotX": 11.62966,
+          "RotY": 157.3992,
+          "RotZ": 357.705,
+          "ScaleX": 1.080626,
+          "ScaleY": 0.79264,
+          "ScaleZ": 1.080627,
+          "Bound": {
+            "Center": {
+              "X": -110.5342,
+              "Y": 14.49079,
+              "Z": 50.1702
+            },
+            "Size": {
+              "X": 1.450333,
+              "Y": 1.095098,
+              "Z": 1.188217
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 81,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -103.3565,
+          "PosY": 11.57757,
+          "PosZ": 61.54892,
+          "RotY": 274.5135,
+          "ScaleX": 1,
+          "ScaleY": 0.8885,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -103.3595,
+              "Y": 12.11067,
+              "Z": 61.54916
+            },
+            "Size": {
+              "X": 0.613129,
+              "Y": 1.0662,
+              "Z": 1.237228
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 82,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -126.5014,
+          "PosY": 11.541,
+          "PosZ": 72.66197,
+          "RotY": 53.84543,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -126.499,
+              "Y": 12.141,
+              "Z": 72.66376
+            },
+            "Size": {
+              "X": 1.128067,
+              "Y": 1.199999,
+              "Z": 1.275879
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 83,
+          "Name": "Chap03_Prop_TV_01b_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_01b_Lod0.prefab",
+          "Active": 1,
+          "PosX": -114.36,
+          "PosY": 11.51526,
+          "PosZ": 75.96346,
+          "RotY": 48.94146,
+          "ScaleX": 1.128,
+          "ScaleY": 1.128,
+          "ScaleZ": 1.128,
+          "Bound": {
+            "Center": {
+              "X": -114.3508,
+              "Y": 12.35302,
+              "Z": 75.96758
+            },
+            "Size": {
+              "X": 1.202927,
+              "Y": 1.675514,
+              "Z": 1.253952
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 84,
+          "Name": "Chap03_Prop_TV_01b_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_01b_Lod0.prefab",
+          "Active": 1,
+          "PosX": -121.9665,
+          "PosY": 11.51729,
+          "PosZ": 48.88289,
+          "RotY": 208.1211,
+          "ScaleX": 1.475604,
+          "ScaleY": 1.475603,
+          "ScaleZ": 1.475604,
+          "Bound": {
+            "Center": {
+              "X": -121.9759,
+              "Y": 12.61321,
+              "Z": 48.87357
+            },
+            "Size": {
+              "X": 1.682388,
+              "Y": 2.191839,
+              "Z": 1.400429
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 85,
+          "Name": "Chap03_Prop_TV_01b_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_01b_Lod0.prefab",
+          "Active": 1,
+          "PosX": -125.6164,
+          "PosY": 11.51729,
+          "PosZ": 73.17197,
+          "RotY": 328.1209,
+          "ScaleX": 1.475603,
+          "ScaleY": 1.475603,
+          "ScaleZ": 1.475603,
+          "Bound": {
+            "Center": {
+              "X": -125.6198,
+              "Y": 12.61321,
+              "Z": 73.18473
+            },
+            "Size": {
+              "X": 1.678986,
+              "Y": 2.191839,
+              "Z": 1.458527
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 86,
+          "Name": "Chap03_Prop_TV_01b_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_01b_Lod0.prefab",
+          "Active": 1,
+          "PosX": -103.5446,
+          "PosY": 11.51526,
+          "PosZ": 59.60072,
+          "RotY": 48.94146,
+          "ScaleX": 1.128,
+          "ScaleY": 1.128,
+          "ScaleZ": 1.128,
+          "Bound": {
+            "Center": {
+              "X": -103.5353,
+              "Y": 12.35302,
+              "Z": 59.60484
+            },
+            "Size": {
+              "X": 1.202927,
+              "Y": 1.675514,
+              "Z": 1.253952
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 87,
+          "Name": "Chap03_Prop_TV_01b_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_01b_Lod0.prefab",
+          "Active": 1,
+          "PosX": -112.5869,
+          "PosY": 12.213,
+          "PosZ": 48.873,
+          "RotY": 117.4998,
+          "RotZ": 90,
+          "ScaleX": 1.5,
+          "ScaleY": 1.5,
+          "ScaleZ": 1.500001,
+          "Bound": {
+            "Center": {
+              "X": -112.0611,
+              "Y": 12.21691,
+              "Z": 49.85524
+            },
+            "Size": {
+              "X": 1.746246,
+              "Y": 1.506857,
+              "Z": 2.349808
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 88,
+          "Name": "Chap03_Prop_TV_01b_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_01b_Lod0.prefab",
+          "Active": 1,
+          "PosX": -109.2249,
+          "PosY": 11.50593,
+          "PosZ": 50.93415,
+          "RotY": 175.5392,
+          "ScaleX": 1.500001,
+          "ScaleY": 1.5,
+          "ScaleZ": 1.500001,
+          "Bound": {
+            "Center": {
+              "X": -109.2278,
+              "Y": 12.61997,
+              "Z": 50.92105
+            },
+            "Size": {
+              "X": 1.565201,
+              "Y": 2.228079,
+              "Z": 0.923576
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 89,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -107.496,
+          "PosY": 11.569,
+          "PosZ": 72.141,
+          "RotX": 27.31842,
+          "RotY": 321.678,
+          "RotZ": 358.6219,
+          "ScaleX": 1.014923,
+          "ScaleY": 0.879584,
+          "ScaleZ": 1.014923,
+          "Bound": {
+            "Center": {
+              "X": -107.6379,
+              "Y": 12.03635,
+              "Z": 72.34097
+            },
+            "Size": {
+              "X": 1.534851,
+              "Y": 1.205881,
+              "Z": 1.508179
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 90,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -129.6795,
+          "PosY": 12.451,
+          "PosZ": 60.56856,
+          "RotY": 268.1732,
+          "ScaleX": 1.094914,
+          "ScaleY": 1.094915,
+          "ScaleZ": 1.094914,
+          "Bound": {
+            "Center": {
+              "X": -129.6828,
+              "Y": 13.10795,
+              "Z": 60.56845
+            },
+            "Size": {
+              "X": 0.611298,
+              "Y": 1.313898,
+              "Z": 1.33139
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 91,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -131.3306,
+          "PosY": 13.21674,
+          "PosZ": 63.47208,
+          "RotX": 273.6913,
+          "RotY": 111.2885,
+          "RotZ": 97.60014,
+          "ScaleX": 0.933442,
+          "ScaleY": 0.933442,
+          "ScaleZ": 0.844391,
+          "Bound": {
+            "Center": {
+              "X": -131.06,
+              "Y": 13.21452,
+              "Z": 63.96244
+            },
+            "Size": {
+              "X": 1.545807,
+              "Y": 0.519451,
+              "Z": 1.531425
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 92,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -131.0457,
+          "PosY": 12.471,
+          "PosZ": 59.68227,
+          "RotX": 356.5098,
+          "RotY": 106.0064,
+          "ScaleX": 1.171559,
+          "ScaleY": 0.993366,
+          "ScaleZ": 1.171559,
+          "Bound": {
+            "Center": {
+              "X": -131.0772,
+              "Y": 13.06613,
+              "Z": 59.6913
+            },
+            "Size": {
+              "X": 1.042267,
+              "Y": 1.226938,
+              "Z": 1.539154
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 93,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -130.3889,
+          "PosY": 12.471,
+          "PosZ": 59.68687,
+          "RotX": 356.5098,
+          "RotY": 95.71542,
+          "ScaleX": 1.094915,
+          "ScaleY": 0.928378,
+          "ScaleZ": 1.094915,
+          "Bound": {
+            "Center": {
+              "X": -130.4194,
+              "Y": 13.02719,
+              "Z": 59.68992
+            },
+            "Size": {
+              "X": 0.76413,
+              "Y": 1.146669,
+              "Z": 1.37075
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 94,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -131.2812,
+          "PosY": 12.72606,
+          "PosZ": 63.64856,
+          "RotX": 270,
+          "RotY": 231.436,
+          "ScaleX": 1.094916,
+          "ScaleY": 1.094915,
+          "ScaleZ": 0.99046,
+          "Bound": {
+            "Center": {
+              "X": -130.7675,
+              "Y": 12.72906,
+              "Z": 64.05809
+            },
+            "Size": {
+              "X": 1.846436,
+              "Y": 0.515339,
+              "Z": 1.846436
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 95,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -109.515,
+          "PosY": 13.94864,
+          "PosZ": 73.58586,
+          "RotY": 8.998019,
+          "ScaleX": 1.457674,
+          "ScaleY": 1.094919,
+          "ScaleZ": 1.010179,
+          "Bound": {
+            "Center": {
+              "X": -109.5145,
+              "Y": 14.60559,
+              "Z": 73.58887
+            },
+            "Size": {
+              "X": 1.809875,
+              "Y": 1.313902,
+              "Z": 0.792709
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 96,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -110.872,
+          "PosY": 13.898,
+          "PosZ": 73.908,
+          "RotY": 47.51234,
+          "ScaleX": 0.94,
+          "ScaleY": 0.94,
+          "ScaleZ": 0.94,
+          "Bound": {
+            "Center": {
+              "X": -110.8699,
+              "Y": 14.462,
+              "Z": 73.90992
+            },
+            "Size": {
+              "X": 1.122543,
+              "Y": 1.128,
+              "Z": 1.162155
+            }
+          }
+        },
+        {
+          "Path": "Level1",
+          "Index": 97,
+          "Name": "Chap03_Prop_TV_02a_Lod0_Lv1",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_TV_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -110.4061,
+          "PosY": 15.165,
+          "PosZ": 73.95483,
+          "RotX": 27.27076,
+          "RotY": 26.34844,
+          "RotZ": 19.3553,
+          "ScaleX": 0.891759,
+          "ScaleY": 0.891759,
+          "ScaleZ": 0.891759,
+          "Bound": {
+            "Center": {
+              "X": -110.4613,
+              "Y": 15.61247,
+              "Z": 74.24296
+            },
+            "Size": {
+              "X": 1.2724,
+              "Y": 1.425249,
+              "Z": 1.244003
+            }
+          }
+        },
+        {
+          "Path": "Level2",
+          "Index": 98,
+          "Name": "Chap03_Prop_TV_01_ScreenNoise_Lod0",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_01_ScreenNoise_Lod0.prefab",
+          "Active": 1,
+          "PosX": -121.9665,
+          "PosY": 11.51729,
+          "PosZ": 48.88289,
+          "RotY": 208.1211,
+          "ScaleX": 1.475604,
+          "ScaleY": 1.475603,
+          "ScaleZ": 1.475604,
+          "Bound": {
+            "Center": {
+              "X": -121.8467,
+              "Y": 13.09398,
+              "Z": 49.14384
+            },
+            "Size": {
+              "X": 1.209656,
+              "Y": 1.136175,
+              "Z": 0.714111
+            }
+          }
+        },
+        {
+          "Path": "Level2",
+          "Index": 99,
+          "Name": "Chap03_Prop_TV_01_ScreenNoise_Lod0 (1)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_01_ScreenNoise_Lod0.prefab",
+          "Active": 1,
+          "PosX": -114.36,
+          "PosY": 11.51526,
+          "PosZ": 75.96346,
+          "RotY": 48.94146,
+          "ScaleX": 1.128,
+          "ScaleY": 1.128,
+          "ScaleZ": 1.128,
+          "Bound": {
+            "Center": {
+              "X": -114.5166,
+              "Y": 12.72053,
+              "Z": 75.80958
+            },
+            "Size": {
+              "X": 0.721741,
+              "Y": 0.86853,
+              "Z": 0.811432
+            }
+          }
+        },
+        {
+          "Path": "Level2",
+          "Index": 100,
+          "Name": "Chap03_Prop_TV_01_ScreenNoise_Lod0 (2)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_01_ScreenNoise_Lod0.prefab",
+          "Active": 1,
+          "PosX": -109.2249,
+          "PosY": 11.50593,
+          "PosZ": 50.93415,
+          "RotY": 175.5392,
+          "ScaleX": 1.5,
+          "ScaleY": 1.5,
+          "ScaleZ": 1.5,
+          "Bound": {
+            "Center": {
+              "X": -109.2651,
+              "Y": 13.10868,
+              "Z": 51.22329
+            },
+            "Size": {
+              "X": 1.340363,
+              "Y": 1.154959,
+              "Z": 0.212715
+            }
+          }
+        },
+        {
+          "Path": "Level2",
+          "Index": 101,
+          "Name": "Chap03_Prop_TV_02_ScreenNoise_Lod0",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_ScreenNoise_Lod0.prefab",
+          "Active": 1,
+          "PosX": -130.3882,
+          "PosY": 12.91971,
+          "PosZ": 62.89983,
+          "RotX": 28.1417,
+          "RotY": 300.2432,
+          "RotZ": 341.1127,
+          "ScaleX": 1.094915,
+          "ScaleY": 0.928379,
+          "ScaleZ": 1.094915,
+          "Bound": {
+            "Center": {
+              "X": -130.3469,
+              "Y": 13.48491,
+              "Z": 63.08496
+            },
+            "Size": {
+              "X": 1.056885,
+              "Y": 1.258696,
+              "Z": 1.462189
+            }
+          }
+        },
+        {
+          "Path": "Level2",
+          "Index": 102,
+          "Name": "Chap03_Prop_TV_02_ScreenNoise_Lod0 (1)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_ScreenNoise_Lod0.prefab",
+          "Active": 1,
+          "PosX": -130.3882,
+          "PosY": 12.91971,
+          "PosZ": 62.89983,
+          "RotX": 28.1417,
+          "RotY": 300.2432,
+          "RotZ": 341.1127,
+          "ScaleX": 1.094915,
+          "ScaleY": 0.928379,
+          "ScaleZ": 1.094915,
+          "Bound": {
+            "Center": {
+              "X": -130.3469,
+              "Y": 13.48491,
+              "Z": 63.08496
+            },
+            "Size": {
+              "X": 1.056885,
+              "Y": 1.258696,
+              "Z": 1.462189
+            }
+          }
+        },
+        {
+          "Path": "Level2",
+          "Index": 103,
+          "Name": "Chap03_Prop_TV_02_ScreenNoise_Lod0 (2)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_ScreenNoise_Lod0.prefab",
+          "Active": 1,
+          "PosX": -127.6533,
+          "PosY": 11.991,
+          "PosZ": 59.53658,
+          "RotY": 249.1395,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -127.4694,
+              "Y": 12.5896,
+              "Z": 59.60757
+            },
+            "Size": {
+              "X": 0.501694,
+              "Y": 1.103613,
+              "Z": 1.065086
+            }
+          }
+        },
+        {
+          "Path": "Level2",
+          "Index": 104,
+          "Name": "Chap03_Prop_TV_02_ScreenNoise_Lod0 (3)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_ScreenNoise_Lod0.prefab",
+          "Active": 1,
+          "PosX": -123.1164,
+          "PosY": 11.54157,
+          "PosZ": 73.81199,
+          "RotY": 323.0378,
+          "ScaleX": 1.584862,
+          "ScaleY": 1.284403,
+          "ScaleZ": 1.251856,
+          "Bound": {
+            "Center": {
+              "X": -122.967,
+              "Y": 12.31042,
+              "Z": 73.6156
+            },
+            "Size": {
+              "X": 1.4758,
+              "Y": 1.417484,
+              "Z": 1.162613
+            }
+          }
+        },
+        {
+          "Path": "Level2",
+          "Index": 105,
+          "Name": "Chap03_Prop_TV_02_ScreenNoise_Lod0 (4)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_ScreenNoise_Lod0.prefab",
+          "Active": 1,
+          "PosX": -111.7956,
+          "PosY": 14.47122,
+          "PosZ": 74.69576,
+          "RotX": 13.43135,
+          "RotY": 71.91038,
+          "RotZ": 0.135725,
+          "ScaleX": 1.009644,
+          "ScaleY": 1.048262,
+          "ScaleZ": 0.794619,
+          "Bound": {
+            "Center": {
+              "X": -111.8021,
+              "Y": 15.11794,
+              "Z": 74.6943
+            },
+            "Size": {
+              "X": 0.686295,
+              "Y": 1.14992,
+              "Z": 1.164673
+            }
+          }
+        },
+        {
+          "Path": "Level2",
+          "Index": 106,
+          "Name": "Chap03_Prop_TV_02_ScreenNoise_Lod0 (5)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_ScreenNoise_Lod0.prefab",
+          "Active": 1,
+          "PosX": -110.1018,
+          "PosY": 12.78452,
+          "PosZ": 72.34029,
+          "RotY": 28.41321,
+          "ScaleX": 1.360085,
+          "ScaleY": 1.263549,
+          "ScaleZ": 1.263549,
+          "Bound": {
+            "Center": {
+              "X": -110.2194,
+              "Y": 13.54088,
+              "Z": 72.12065
+            },
+            "Size": {
+              "X": 1.38092,
+              "Y": 1.394468,
+              "Z": 0.84137
+            }
+          }
+        },
+        {
+          "Path": "Level2",
+          "Index": 107,
+          "Name": "Chap03_Prop_TV_02_ScreenNoise_Lod0 (6)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_ScreenNoise_Lod0.prefab",
+          "Active": 1,
+          "PosX": -111.3874,
+          "PosY": 12.76097,
+          "PosZ": 73.08917,
+          "RotY": 211.9281,
+          "ScaleX": 1.086118,
+          "ScaleY": 1.086117,
+          "ScaleZ": 1.086118,
+          "Bound": {
+            "Center": {
+              "X": -111.2749,
+              "Y": 13.41112,
+              "Z": 73.27139
+            },
+            "Size": {
+              "X": 1.077438,
+              "Y": 1.198652,
+              "Z": 0.739029
+            }
+          }
+        },
+        {
+          "Path": "Level2",
+          "Index": 108,
+          "Name": "Chap03_Prop_TV_02_ScreenNoise_Lod0 (7)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_ScreenNoise_Lod0.prefab",
+          "Active": 1,
+          "PosX": -110.4461,
+          "PosY": 14.94,
+          "PosZ": 49.88293,
+          "RotX": 11.68908,
+          "RotY": 110.8196,
+          "RotZ": 350.3228,
+          "ScaleX": 0.850001,
+          "ScaleY": 0.85,
+          "ScaleZ": 0.85,
+          "Bound": {
+            "Center": {
+              "X": -110.5352,
+              "Y": 15.465,
+              "Z": 49.82454
+            },
+            "Size": {
+              "X": 0.567841,
+              "Y": 1.079288,
+              "Z": 1.095093
+            }
+          }
+        },
+        {
+          "Path": "Level2",
+          "Index": 109,
+          "Name": "Chap03_Prop_TV_02_ScreenNoise_Lod0 (8)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_ScreenNoise_Lod0.prefab",
+          "Active": 1,
+          "PosX": -103.8464,
+          "PosY": 11.57757,
+          "PosZ": 62.09138,
+          "RotY": 124.5136,
+          "ScaleX": 1,
+          "ScaleY": 0.8885,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -104.0093,
+              "Y": 12.10943,
+              "Z": 62.20239
+            },
+            "Size": {
+              "X": 0.718765,
+              "Y": 0.98056,
+              "Z": 0.969482
+            }
+          }
+        },
+        {
+          "Path": "Level3",
+          "Index": 110,
+          "Name": "Chap03_Prop_TV_02_ScreenNoise_Lod0",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_ScreenNoise_Lod0.prefab",
+          "Active": 1,
+          "PosX": -112.4587,
+          "PosY": 11.49301,
+          "PosZ": 73.88555,
+          "RotY": 115.6242,
+          "ScaleX": 1.241613,
+          "ScaleY": 0.912044,
+          "ScaleZ": 0.864579,
+          "Bound": {
+            "Center": {
+              "X": -112.6128,
+              "Y": 12.03896,
+              "Z": 73.95831
+            },
+            "Size": {
+              "X": 0.680985,
+              "Y": 1.006544,
+              "Z": 1.269684
+            }
+          }
+        },
+        {
+          "Path": "Level3",
+          "Index": 111,
+          "Name": "Chap03_Prop_TV_01_ScreenNoise_Lod0",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_01_ScreenNoise_Lod0.prefab",
+          "Active": 1,
+          "PosX": -103.5446,
+          "PosY": 11.51526,
+          "PosZ": 59.60072,
+          "RotY": 48.94146,
+          "ScaleX": 1.128,
+          "ScaleY": 1.128,
+          "ScaleZ": 1.128,
+          "Bound": {
+            "Center": {
+              "X": -103.7011,
+              "Y": 12.72053,
+              "Z": 59.44683
+            },
+            "Size": {
+              "X": 0.721741,
+              "Y": 0.86853,
+              "Z": 0.811417
+            }
+          }
+        },
+        {
+          "Path": "Level3",
+          "Index": 112,
+          "Name": "Chap03_Prop_TV_02_ScreenNoise_Lod0 (1)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_ScreenNoise_Lod0.prefab",
+          "Active": 1,
+          "PosX": -111.4182,
+          "PosY": 14.13,
+          "PosZ": 49.60122,
+          "RotX": 14.16842,
+          "RotY": 64.2998,
+          "RotZ": 356.1368,
+          "ScaleX": 0.828008,
+          "ScaleY": 0.641375,
+          "ScaleZ": 0.828008,
+          "Bound": {
+            "Center": {
+              "X": -111.4648,
+              "Y": 14.54131,
+              "Z": 49.5493
+            },
+            "Size": {
+              "X": 0.641739,
+              "Y": 0.76823,
+              "Z": 0.894676
+            }
+          }
+        },
+        {
+          "Path": "Level3",
+          "Index": 113,
+          "Name": "Chap03_Prop_TV_02_ScreenNoise_Lod0 (2)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_ScreenNoise_Lod0.prefab",
+          "Active": 1,
+          "PosX": -123.0693,
+          "PosY": 13.318,
+          "PosZ": 49.69886,
+          "RotY": 185.7256,
+          "ScaleX": 1.0926,
+          "ScaleY": 1.0926,
+          "ScaleZ": 1.0926,
+          "Bound": {
+            "Center": {
+              "X": -123.0487,
+              "Y": 13.97203,
+              "Z": 49.91327
+            },
+            "Size": {
+              "X": 1.202499,
+              "Y": 1.205809,
+              "Z": 0.249687
+            }
+          }
+        },
+        {
+          "Path": "Level3",
+          "Index": 114,
+          "Name": "Chap03_Prop_TV_02_ScreenNoise_Lod0 (3)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_ScreenNoise_Lod0.prefab",
+          "Active": 1,
+          "PosX": -123.3681,
+          "PosY": 11.51729,
+          "PosZ": 50.31845,
+          "RotY": 212.6595,
+          "ScaleX": 1.899016,
+          "ScaleY": 1.5,
+          "ScaleZ": 1.5,
+          "Bound": {
+            "Center": {
+              "X": -123.2099,
+              "Y": 12.41519,
+              "Z": 50.56828
+            },
+            "Size": {
+              "X": 1.846283,
+              "Y": 1.65542,
+              "Z": 1.272705
+            }
+          }
+        },
+        {
+          "Path": "Level3",
+          "Index": 115,
+          "Name": "Chap03_Prop_TV_02_ScreenNoise_Lod0 (4)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_ScreenNoise_Lod0.prefab",
+          "Active": 1,
+          "PosX": -131.2751,
+          "PosY": 13.69431,
+          "PosZ": 59.8844,
+          "RotX": 6.81134,
+          "RotY": 304.209,
+          "RotZ": 1.300104,
+          "ScaleX": 1.094915,
+          "ScaleY": 0.928379,
+          "ScaleZ": 1.094915,
+          "Bound": {
+            "Center": {
+              "X": -131.1589,
+              "Y": 14.27159,
+              "Z": 59.79129
+            },
+            "Size": {
+              "X": 0.892029,
+              "Y": 1.059645,
+              "Z": 1.114639
+            }
+          }
+        },
+        {
+          "Path": "Level3",
+          "Index": 116,
+          "Name": "Chap03_Prop_TV_02_ScreenNoise_Lod0 (5)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_ScreenNoise_Lod0.prefab",
+          "Active": 1,
+          "PosX": -108.4322,
+          "PosY": 12.64486,
+          "PosZ": 70.8976,
+          "RotX": 358.9001,
+          "RotY": 302.2539,
+          "RotZ": 179.3044,
+          "ScaleX": 0.94,
+          "ScaleY": 0.94,
+          "ScaleZ": 0.940001,
+          "Bound": {
+            "Center": {
+              "X": -108.2887,
+              "Y": 12.07877,
+              "Z": 70.79803
+            },
+            "Size": {
+              "X": 0.667511,
+              "Y": 1.051777,
+              "Z": 0.930008
+            }
+          }
+        },
+        {
+          "Path": "Level3",
+          "Index": 117,
+          "Name": "Chap03_Prop_TV_02_ScreenNoise_Lod0 (6)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_ScreenNoise_Lod0.prefab",
+          "Active": 1,
+          "PosX": -109.515,
+          "PosY": 13.94864,
+          "PosZ": 73.58586,
+          "RotY": 8.998019,
+          "ScaleX": 1.457674,
+          "ScaleY": 1.094919,
+          "ScaleZ": 1.010179,
+          "Bound": {
+            "Center": {
+              "X": -109.5449,
+              "Y": 14.60406,
+              "Z": 73.38897
+            },
+            "Size": {
+              "X": 1.594131,
+              "Y": 1.208366,
+              "Z": 0.369125
+            }
+          }
+        },
+        {
+          "Path": "Level3",
+          "Index": 118,
+          "Name": "Chap03_Prop_TV_02_ScreenNoise_Lod0 (7)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_ScreenNoise_Lod0.prefab",
+          "Active": 1,
+          "PosX": -107.4098,
+          "PosY": 12.798,
+          "PosZ": 52.25798,
+          "RotX": 63.31392,
+          "RotY": 175.0077,
+          "RotZ": 2.701514,
+          "ScaleX": 1.002476,
+          "ScaleY": 0.759308,
+          "ScaleZ": 0.873288,
+          "Bound": {
+            "Center": {
+              "X": -107.3607,
+              "Y": 13.15574,
+              "Z": 51.93265
+            },
+            "Size": {
+              "X": 1.195908,
+              "Y": 0.492746,
+              "Z": 0.92984
+            }
+          }
+        },
+        {
+          "Path": "Level3",
+          "Index": 119,
+          "Name": "Chap03_Prop_TV_02_ScreenNoise_Lod0 (8)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_ScreenNoise_Lod0.prefab",
+          "Active": 1,
+          "PosX": -113.7738,
+          "PosY": 11.621,
+          "PosZ": 49.8573,
+          "RotX": 43.37732,
+          "RotY": 125.729,
+          "RotZ": -2E-06,
+          "ScaleX": 1.061673,
+          "ScaleY": 0.902075,
+          "ScaleZ": 0.798871,
+          "Bound": {
+            "Center": {
+              "X": -113.5661,
+              "Y": 12.12165,
+              "Z": 49.70685
+            },
+            "Size": {
+              "X": 1.289902,
+              "Y": 0.789431,
+              "Z": 1.382881
+            }
+          }
+        },
+        {
+          "Path": "Level3",
+          "Index": 120,
+          "Name": "Chap03_Prop_TV_02_ScreenNoise_Lod0 (9)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_ScreenNoise_Lod0.prefab",
+          "Active": 1,
+          "PosX": -110.65,
+          "PosY": 12.951,
+          "PosZ": 50.5757,
+          "RotX": 5.92721,
+          "RotY": 159.1309,
+          "RotZ": 359.1224,
+          "ScaleX": 1.125001,
+          "ScaleY": 0.891214,
+          "ScaleZ": 1.125001,
+          "Bound": {
+            "Center": {
+              "X": -110.7175,
+              "Y": 13.50446,
+              "Z": 50.72711
+            },
+            "Size": {
+              "X": 1.220566,
+              "Y": 1.01087,
+              "Z": 0.662293
+            }
+          }
+        },
+        {
+          "Path": "Level3",
+          "Index": 121,
+          "Name": "Chap03_Prop_TV_02_ScreenNoise_Lod0 (10)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_ScreenNoise_Lod0.prefab",
+          "Active": 1,
+          "PosX": -126.5014,
+          "PosY": 11.541,
+          "PosZ": 72.66197,
+          "RotY": 53.84543,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -126.6601,
+              "Y": 12.1396,
+              "Z": 72.54498
+            },
+            "Size": {
+              "X": 0.742325,
+              "Y": 1.103613,
+              "Z": 0.954178
+            }
+          }
+        },
+        {
+          "Path": "Level4",
+          "Index": 122,
+          "Name": "Chap03_Prop_TV_01_ScreenNoise_Lod0",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_01_ScreenNoise_Lod0.prefab",
+          "Active": 1,
+          "PosX": -125.6164,
+          "PosY": 11.51729,
+          "PosZ": 73.17197,
+          "RotY": 328.1209,
+          "ScaleX": 1.475603,
+          "ScaleY": 1.475603,
+          "ScaleZ": 1.475603,
+          "Bound": {
+            "Center": {
+              "X": -125.4504,
+              "Y": 13.09398,
+              "Z": 72.9377
+            },
+            "Size": {
+              "X": 1.172668,
+              "Y": 1.136175,
+              "Z": 0.785217
+            }
+          }
+        },
+        {
+          "Path": "Level4",
+          "Index": 123,
+          "Name": "Chap03_Prop_TV_02_ScreenNoise_Lod0",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_ScreenNoise_Lod0.prefab",
+          "Active": 1,
+          "PosX": -109.2653,
+          "PosY": 14.4929,
+          "PosZ": 72.79074,
+          "RotX": 279.8352,
+          "RotY": 100.4006,
+          "RotZ": 250.6329,
+          "ScaleX": 0.94,
+          "ScaleY": 0.940001,
+          "ScaleZ": 0.94,
+          "Bound": {
+            "Center": {
+              "X": -109.2106,
+              "Y": 14.27831,
+              "Z": 72.24127
+            },
+            "Size": {
+              "X": 1.177505,
+              "Y": 0.335609,
+              "Z": 1.19014
+            }
+          }
+        },
+        {
+          "Path": "Level4",
+          "Index": 124,
+          "Name": "Chap03_Prop_TV_02_ScreenNoise_Lod0 (1)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_ScreenNoise_Lod0.prefab",
+          "Active": 1,
+          "PosX": -122.2056,
+          "PosY": 13.318,
+          "PosZ": 48.69291,
+          "RotY": 59.13994,
+          "ScaleX": 1.0647,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -122.3744,
+              "Y": 13.9166,
+              "Z": 48.59101
+            },
+            "Size": {
+              "X": 0.700501,
+              "Y": 1.103613,
+              "Z": 1.061485
+            }
+          }
+        },
+        {
+          "Path": "Level4",
+          "Index": 125,
+          "Name": "Chap03_Prop_TV_02_ScreenNoise_Lod0 (2)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_ScreenNoise_Lod0.prefab",
+          "Active": 1,
+          "PosX": -112.0206,
+          "PosY": 11.52814,
+          "PosZ": 72.71031,
+          "RotY": 216.4133,
+          "ScaleX": 1.262695,
+          "ScaleY": 0.948609,
+          "ScaleZ": 0.880544,
+          "Bound": {
+            "Center": {
+              "X": -111.9184,
+              "Y": 12.09598,
+              "Z": 72.85065
+            },
+            "Size": {
+              "X": 1.174469,
+              "Y": 1.046898,
+              "Z": 0.905075
+            }
+          }
+        },
+        {
+          "Path": "Level4",
+          "Index": 126,
+          "Name": "Chap03_Prop_TV_02_ScreenNoise_Lod0 (3)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_ScreenNoise_Lod0.prefab",
+          "Active": 1,
+          "PosX": -114.4414,
+          "PosY": 11.64357,
+          "PosZ": 55.6997,
+          "RotX": 90,
+          "RotY": 90,
+          "ScaleX": 0.94,
+          "ScaleY": 0.94,
+          "ScaleZ": 0.72,
+          "Bound": {
+            "Center": {
+              "X": -113.8787,
+              "Y": 11.78551,
+              "Z": 55.6989
+            },
+            "Size": {
+              "X": 1.037399,
+              "Y": 0.086378,
+              "Z": 1.028435
+            }
+          }
+        },
+        {
+          "Path": "Level4",
+          "Index": 127,
+          "Name": "Chap03_Prop_TV_02_ScreenNoise_Lod0 (4)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_ScreenNoise_Lod0.prefab",
+          "Active": 1,
+          "PosX": -129.0504,
+          "PosY": 12.58192,
+          "PosZ": 63.52451,
+          "RotX": 19.91547,
+          "RotY": 337.0804,
+          "RotZ": 7.950249,
+          "ScaleX": 1.094914,
+          "ScaleY": 0.928379,
+          "ScaleZ": 1.094915,
+          "Bound": {
+            "Center": {
+              "X": -129.1144,
+              "Y": 13.17304,
+              "Z": 63.48072
+            },
+            "Size": {
+              "X": 1.383972,
+              "Y": 1.154564,
+              "Z": 0.890945
+            }
+          }
+        },
+        {
+          "Path": "Level4",
+          "Index": 128,
+          "Name": "Chap03_Prop_TV_02_ScreenNoise_Lod0 (5)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_ScreenNoise_Lod0.prefab",
+          "Active": 1,
+          "PosX": -120.5265,
+          "PosY": 11.587,
+          "PosZ": 48.32866,
+          "RotX": 29.5823,
+          "RotY": 258.1731,
+          "RotZ": 3E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -120.6481,
+              "Y": 12.2049,
+              "Z": 48.30407
+            },
+            "Size": {
+              "X": 0.859604,
+              "Y": 1.01898,
+              "Z": 1.203903
+            }
+          }
+        },
+        {
+          "Path": "Level4",
+          "Index": 129,
+          "Name": "Chap03_Prop_TV_02_ScreenNoise_Lod0 (6)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_ScreenNoise_Lod0.prefab",
+          "Active": 1,
+          "PosX": -125.7038,
+          "PosY": 11.641,
+          "PosZ": 50.98602,
+          "RotX": 330,
+          "RotY": 102.1434,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -126.1635,
+              "Y": 12.06083,
+              "Z": 51.08406
+            },
+            "Size": {
+              "X": 0.871185,
+              "Y": 1.015741,
+              "Z": 1.207535
+            }
+          }
+        },
+        {
+          "Path": "Level4",
+          "Index": 130,
+          "Name": "Chap03_Prop_TV_02_ScreenNoise_Lod0 (7)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_ScreenNoise_Lod0.prefab",
+          "Active": 1,
+          "PosX": -127.7751,
+          "PosY": 11.55237,
+          "PosZ": 52.35359,
+          "RotX": 28.68962,
+          "RotY": 228.6369,
+          "RotZ": 0.453623,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -127.8584,
+              "Y": 12.17211,
+              "Z": 52.27506
+            },
+            "Size": {
+              "X": 1.19693,
+              "Y": 1.033287,
+              "Z": 1.244583
+            }
+          }
+        },
+        {
+          "Path": "Level4",
+          "Index": 131,
+          "Name": "Chap03_Prop_TV_02_ScreenNoise_Lod0 (8)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_ScreenNoise_Lod0.prefab",
+          "Active": 1,
+          "PosX": -130.496,
+          "PosY": 12.83526,
+          "PosZ": 62.04402,
+          "RotX": 356.5098,
+          "RotY": 155.8637,
+          "RotZ": 0.267325,
+          "ScaleX": 0.97693,
+          "ScaleY": 0.828339,
+          "ScaleZ": 0.97693,
+          "Bound": {
+            "Center": {
+              "X": -130.5856,
+              "Y": 13.31846,
+              "Z": 62.24761
+            },
+            "Size": {
+              "X": 1.042206,
+              "Y": 0.924572,
+              "Z": 0.596062
+            }
+          }
+        },
+        {
+          "Path": "Level4",
+          "Index": 132,
+          "Name": "Chap03_Prop_TV_02_ScreenNoise_Lod0 (9)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_ScreenNoise_Lod0.prefab",
+          "Active": 1,
+          "PosX": -131.2034,
+          "PosY": 14.46308,
+          "PosZ": 61.80917,
+          "RotX": 20.9548,
+          "RotY": 264.129,
+          "RotZ": 359.8507,
+          "ScaleX": 0.993647,
+          "ScaleY": 0.928378,
+          "ScaleZ": 1.094915,
+          "Bound": {
+            "Center": {
+              "X": -131.2008,
+              "Y": 15.05924,
+              "Z": 61.81174
+            },
+            "Size": {
+              "X": 0.596985,
+              "Y": 1.006428,
+              "Z": 1.128899
+            }
+          }
+        },
+        {
+          "Path": "Level4",
+          "Index": 133,
+          "Name": "Chap03_Prop_TV_02_ScreenNoise_Lod0 (10)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_ScreenNoise_Lod0.prefab",
+          "Active": 1,
+          "PosX": -109.6503,
+          "PosY": 11.63557,
+          "PosZ": 72.65725,
+          "RotX": 90,
+          "RotY": 180.0001,
+          "ScaleX": 1.038725,
+          "ScaleY": 0.934215,
+          "ScaleZ": 0.722853,
+          "Bound": {
+            "Center": {
+              "X": -109.6511,
+              "Y": 11.77808,
+              "Z": 72.09803
+            },
+            "Size": {
+              "X": 1.136459,
+              "Y": 0.08672,
+              "Z": 1.031006
+            }
+          }
+        },
+        {
+          "Path": "Level4",
+          "Index": 134,
+          "Name": "Chap03_Prop_TV_02_ScreenNoise_Lod0 (11)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_ScreenNoise_Lod0.prefab",
+          "Active": 1,
+          "PosX": -110.872,
+          "PosY": 13.898,
+          "PosZ": 73.908,
+          "RotY": 47.51234,
+          "ScaleX": 0.94,
+          "ScaleY": 0.94,
+          "ScaleZ": 0.94,
+          "Bound": {
+            "Center": {
+              "X": -111.0081,
+              "Y": 14.46068,
+              "Z": 73.78224
+            },
+            "Size": {
+              "X": 0.777802,
+              "Y": 1.037397,
+              "Z": 0.834564
+            }
+          }
+        },
+        {
+          "Path": "Level4",
+          "Index": 135,
+          "Name": "Chap03_Prop_TV_02_ScreenNoise_Lod0 (12)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_ScreenNoise_Lod0.prefab",
+          "Active": 1,
+          "PosX": -108.5535,
+          "PosY": 12.7119,
+          "PosZ": 72.45466,
+          "RotY": 318.7171,
+          "ScaleX": 1.353614,
+          "ScaleY": 1.12754,
+          "ScaleZ": 1.306257,
+          "Bound": {
+            "Center": {
+              "X": -108.3827,
+              "Y": 13.38684,
+              "Z": 72.2619
+            },
+            "Size": {
+              "X": 1.216278,
+              "Y": 1.24437,
+              "Z": 1.094864
+            }
+          }
+        },
+        {
+          "Path": "Level4",
+          "Index": 136,
+          "Name": "Chap03_Prop_TV_02_ScreenNoise_Lod0 (13)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_ScreenNoise_Lod0.prefab",
+          "Active": 1,
+          "PosX": -110.7797,
+          "PosY": 11.5205,
+          "PosZ": 50.72322,
+          "RotX": 3.122905,
+          "RotY": 160.7496,
+          "RotZ": 359.6268,
+          "ScaleX": 1.34568,
+          "ScaleY": 1.197475,
+          "ScaleZ": 1.212106,
+          "Bound": {
+            "Center": {
+              "X": -110.851,
+              "Y": 12.24924,
+              "Z": 50.90971
+            },
+            "Size": {
+              "X": 1.453583,
+              "Y": 1.337057,
+              "Z": 0.692795
+            }
+          }
+        },
+        {
+          "Path": "Level4",
+          "Index": 137,
+          "Name": "Chap03_Prop_TV_02_ScreenNoise_Lod0 (14)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_ScreenNoise_Lod0.prefab",
+          "Active": 1,
+          "PosX": -109.33,
+          "PosY": 13.629,
+          "PosZ": 50.86724,
+          "RotX": 18.29162,
+          "RotY": 191.5145,
+          "RotZ": 2.384469,
+          "ScaleX": 1.058185,
+          "ScaleY": 0.790869,
+          "ScaleZ": 1.427904,
+          "Bound": {
+            "Center": {
+              "X": -109.2878,
+              "Y": 14.16649,
+              "Z": 50.97991
+            },
+            "Size": {
+              "X": 1.187988,
+              "Y": 0.927492,
+              "Z": 0.650902
+            }
+          }
+        },
+        {
+          "Path": "Level4",
+          "Index": 138,
+          "Name": "Chap03_Prop_TV_02_ScreenNoise_Lod0 (15)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_ScreenNoise_Lod0.prefab",
+          "Active": 1,
+          "PosX": -113.2065,
+          "PosY": 11.49,
+          "PosZ": 48.55558,
+          "RotY": 103.6117,
+          "ScaleX": 1.4,
+          "ScaleY": 1.4,
+          "ScaleZ": 1.4,
+          "Bound": {
+            "Center": {
+              "X": -113.475,
+              "Y": 12.32804,
+              "Z": 48.61938
+            },
+            "Size": {
+              "X": 0.523727,
+              "Y": 1.545059,
+              "Z": 1.528214
+            }
+          }
+        },
+        {
+          "Path": "Level4",
+          "Index": 139,
+          "Name": "Chap03_Prop_TV_02_ScreenNoise_Lod0 (16)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_ScreenNoise_Lod0.prefab",
+          "Active": 1,
+          "PosX": -129.6795,
+          "PosY": 12.451,
+          "PosZ": 60.56856,
+          "RotY": 268.1732,
+          "ScaleX": 1.094914,
+          "ScaleY": 1.094915,
+          "ScaleZ": 1.094914,
+          "Bound": {
+            "Center": {
+              "X": -129.4638,
+              "Y": 13.10642,
+              "Z": 60.57637
+            },
+            "Size": {
+              "X": 0.169495,
+              "Y": 1.208363,
+              "Z": 1.2015
+            }
+          }
+        },
+        {
+          "Path": "Level5",
+          "Index": 140,
+          "Name": "Chap03_Prop_TV_01_ScreenNoise_Lod0",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_01_ScreenNoise_Lod0.prefab",
+          "Active": 1,
+          "PosX": -112.5869,
+          "PosY": 12.213,
+          "PosZ": 48.873,
+          "RotY": 117.4998,
+          "RotZ": 90,
+          "ScaleX": 1.5,
+          "ScaleY": 1.5,
+          "ScaleZ": 1.500001,
+          "Bound": {
+            "Center": {
+              "X": -112.1053,
+              "Y": 12.23057,
+              "Z": 50.42921
+            },
+            "Size": {
+              "X": 0.630112,
+              "Y": 1.335911,
+              "Z": 1.07486
+            }
+          }
+        },
+        {
+          "Path": "Level5",
+          "Index": 141,
+          "Name": "Chap03_Prop_TV_02_ScreenNoise_Lod0",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_ScreenNoise_Lod0.prefab",
+          "Active": 1,
+          "PosX": -109.3685,
+          "PosY": 12.98232,
+          "PosZ": 71.00731,
+          "RotX": 359.4323,
+          "RotY": 327.9112,
+          "RotZ": 359.9699,
+          "ScaleX": 0.94,
+          "ScaleY": 0.94,
+          "ScaleZ": 1.09604,
+          "Bound": {
+            "Center": {
+              "X": -109.2498,
+              "Y": 13.54284,
+              "Z": 70.82011
+            },
+            "Size": {
+              "X": 0.947098,
+              "Y": 1.039188,
+              "Z": 0.666168
+            }
+          }
+        },
+        {
+          "Path": "Level5",
+          "Index": 142,
+          "Name": "Chap03_Prop_TV_02_ScreenNoise_Lod0 (1)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_ScreenNoise_Lod0.prefab",
+          "Active": 1,
+          "PosX": -109.7351,
+          "PosY": 11.50674,
+          "PosZ": 73.03591,
+          "RotY": 167.7813,
+          "ScaleX": 1.038724,
+          "ScaleY": 0.934215,
+          "ScaleZ": 0.969903,
+          "Bound": {
+            "Center": {
+              "X": -109.7764,
+              "Y": 12.06596,
+              "Z": 73.2226
+            },
+            "Size": {
+              "X": 1.13533,
+              "Y": 1.031012,
+              "Z": 0.354248
+            }
+          }
+        },
+        {
+          "Path": "Level5",
+          "Index": 143,
+          "Name": "Chap03_Prop_TV_02_ScreenNoise_Lod0 (2)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_ScreenNoise_Lod0.prefab",
+          "Active": 1,
+          "PosX": -103.5005,
+          "PosY": 11.76657,
+          "PosZ": 63.95792,
+          "RotX": 90,
+          "RotY": 179.9092,
+          "ScaleX": 0.830001,
+          "ScaleY": 0.830001,
+          "ScaleZ": 0.830002,
+          "Bound": {
+            "Center": {
+              "X": -103.5004,
+              "Y": 11.9302,
+              "Z": 63.46109
+            },
+            "Size": {
+              "X": 0.909531,
+              "Y": 0.099575,
+              "Z": 0.917435
+            }
+          }
+        },
+        {
+          "Path": "Level5",
+          "Index": 144,
+          "Name": "Chap03_Prop_TV_02_ScreenNoise_Lod0 (3)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_ScreenNoise_Lod0.prefab",
+          "Active": 1,
+          "PosX": -124.3724,
+          "PosY": 11.541,
+          "PosZ": 72.86092,
+          "RotY": 7.842572,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -124.3985,
+              "Y": 12.1396,
+              "Z": 72.6655
+            },
+            "Size": {
+              "X": 1.10022,
+              "Y": 1.103613,
+              "Z": 0.268143
+            }
+          }
+        },
+        {
+          "Path": "Level5",
+          "Index": 145,
+          "Name": "Chap03_Prop_TV_02_ScreenNoise_Lod0 (4)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_ScreenNoise_Lod0.prefab",
+          "Active": 1,
+          "PosX": -126.7787,
+          "PosY": 12.969,
+          "PosZ": 51.42777,
+          "RotY": 252.7588,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -126.5907,
+              "Y": 13.5676,
+              "Z": 51.48701
+            },
+            "Size": {
+              "X": 0.438858,
+              "Y": 1.103613,
+              "Z": 1.080475
+            }
+          }
+        },
+        {
+          "Path": "Level5",
+          "Index": 146,
+          "Name": "Chap03_Prop_TV_02_ScreenNoise_Lod0 (5)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_ScreenNoise_Lod0.prefab",
+          "Active": 1,
+          "PosX": -131.044,
+          "PosY": 14.11655,
+          "PosZ": 61.04506,
+          "RotX": 273.8114,
+          "RotY": 246.1577,
+          "RotZ": 288.432,
+          "ScaleX": 1.245976,
+          "ScaleY": 1.056463,
+          "ScaleZ": 1.245976,
+          "Bound": {
+            "Center": {
+              "X": -131.0902,
+              "Y": 13.88468,
+              "Z": 61.68097
+            },
+            "Size": {
+              "X": 1.474274,
+              "Y": 0.259623,
+              "Z": 1.291794
+            }
+          }
+        },
+        {
+          "Path": "Level5",
+          "Index": 147,
+          "Name": "Chap03_Prop_TV_02_ScreenNoise_Lod0 (6)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_ScreenNoise_Lod0.prefab",
+          "Active": 1,
+          "PosX": -130.6322,
+          "PosY": 12.75361,
+          "PosZ": 60.99867,
+          "RotX": 6.81134,
+          "RotY": 264.4794,
+          "RotZ": 1.300102,
+          "ScaleX": 1.094916,
+          "ScaleY": 0.928378,
+          "ScaleZ": 1.094915,
+          "Bound": {
+            "Center": {
+              "X": -130.4834,
+              "Y": 13.3309,
+              "Z": 61.00133
+            },
+            "Size": {
+              "X": 0.366913,
+              "Y": 1.059645,
+              "Z": 1.239128
+            }
+          }
+        },
+        {
+          "Path": "Level5",
+          "Index": 148,
+          "Name": "Chap03_Prop_TV_02_ScreenNoise_Lod0 (7)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_ScreenNoise_Lod0.prefab",
+          "Active": 1,
+          "PosX": -110.4061,
+          "PosY": 15.165,
+          "PosZ": 73.95483,
+          "RotX": 27.27076,
+          "RotY": 26.34844,
+          "RotZ": 19.3553,
+          "ScaleX": 0.891759,
+          "ScaleY": 0.891759,
+          "ScaleZ": 0.891759,
+          "Bound": {
+            "Center": {
+              "X": -110.5309,
+              "Y": 15.69343,
+              "Z": 74.0999
+            },
+            "Size": {
+              "X": 1.036301,
+              "Y": 1.161762,
+              "Z": 0.887009
+            }
+          }
+        },
+        {
+          "Path": "Level5",
+          "Index": 149,
+          "Name": "Chap03_Prop_TV_02_ScreenNoise_Lod0 (8)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_ScreenNoise_Lod0.prefab",
+          "Active": 1,
+          "PosX": -107.496,
+          "PosY": 11.569,
+          "PosZ": 72.141,
+          "RotX": 27.31842,
+          "RotY": 321.678,
+          "RotZ": 358.6219,
+          "ScaleX": 1.014923,
+          "ScaleY": 0.879584,
+          "ScaleZ": 1.014923,
+          "Bound": {
+            "Center": {
+              "X": -107.5249,
+              "Y": 12.12847,
+              "Z": 72.19943
+            },
+            "Size": {
+              "X": 1.20343,
+              "Y": 0.941813,
+              "Z": 1.127472
+            }
+          }
+        },
+        {
+          "Path": "Level5",
+          "Index": 150,
+          "Name": "Chap03_Prop_TV_02_ScreenNoise_Lod0 (9)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_ScreenNoise_Lod0.prefab",
+          "Active": 1,
+          "PosX": -113.0047,
+          "PosY": 12.8103,
+          "PosZ": 74.91917,
+          "RotX": 9.235296,
+          "RotY": 88.37843,
+          "RotZ": 357.8127,
+          "ScaleX": 0.940001,
+          "ScaleY": 0.94,
+          "ScaleZ": 0.94,
+          "Bound": {
+            "Center": {
+              "X": -113.0967,
+              "Y": 13.395,
+              "Z": 74.89429
+            },
+            "Size": {
+              "X": 0.301468,
+              "Y": 1.080044,
+              "Z": 1.065475
+            }
+          }
+        },
+        {
+          "Path": "Level5",
+          "Index": 151,
+          "Name": "Chap03_Prop_TV_02_ScreenNoise_Lod0 (10)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_ScreenNoise_Lod0.prefab",
+          "Active": 1,
+          "PosX": -112.2541,
+          "PosY": 12.80654,
+          "PosZ": 73.96172,
+          "RotY": 45.71149,
+          "ScaleX": 0.94,
+          "ScaleY": 0.94,
+          "ScaleZ": 0.94,
+          "Bound": {
+            "Center": {
+              "X": -112.3862,
+              "Y": 13.36922,
+              "Z": 73.83175
+            },
+            "Size": {
+              "X": 0.798843,
+              "Y": 1.037397,
+              "Z": 0.814941
+            }
+          }
+        },
+        {
+          "Path": "Level5",
+          "Index": 152,
+          "Name": "Chap03_Prop_TV_02_ScreenNoise_Lod0 (11)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_ScreenNoise_Lod0.prefab",
+          "Active": 1,
+          "PosX": -112.6356,
+          "PosY": 13.1,
+          "PosZ": 48.98659,
+          "RotX": 15.23822,
+          "RotY": 142.3124,
+          "RotZ": 359.6867,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -112.659,
+              "Y": 13.72936,
+              "Z": 49.01009
+            },
+            "Size": {
+              "X": 1.110077,
+              "Y": 1.1021,
+              "Z": 0.992447
+            }
+          }
+        },
+        {
+          "Path": "Level5",
+          "Index": 153,
+          "Name": "Chap03_Prop_TV_02_ScreenNoise_Lod0 (12)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_ScreenNoise_Lod0.prefab",
+          "Active": 1,
+          "PosX": -111.3469,
+          "PosY": 11.996,
+          "PosZ": 52.58075,
+          "RotX": 295.9621,
+          "RotY": 230.943,
+          "RotZ": 270,
+          "ScaleX": 1.061673,
+          "ScaleY": 0.902076,
+          "ScaleZ": 0.798871,
+          "Bound": {
+            "Center": {
+              "X": -111.6342,
+              "Y": 11.85401,
+              "Z": 53.04299
+            },
+            "Size": {
+              "X": 1.47081,
+              "Y": 0.594669,
+              "Z": 1.457527
+            }
+          }
+        },
+        {
+          "Path": "Level5",
+          "Index": 154,
+          "Name": "Chap03_Prop_TV_02_ScreenNoise_Lod0 (13)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Prop_TV_02_ScreenNoise_Lod0.prefab",
+          "Active": 1,
+          "PosX": -110.5547,
+          "PosY": 14.026,
+          "PosZ": 50.26891,
+          "RotX": 11.62966,
+          "RotY": 157.3992,
+          "RotZ": 357.705,
+          "ScaleX": 1.080626,
+          "ScaleY": 0.79264,
+          "ScaleZ": 1.080627,
+          "Bound": {
+            "Center": {
+              "X": -110.6165,
+              "Y": 14.53327,
+              "Z": 50.36567
+            },
+            "Size": {
+              "X": 1.178452,
+              "Y": 0.928629,
+              "Z": 0.738548
+            }
+          }
+        }
+      ],
+      "Name": "Chap03_Polymer_P102_TV_01_Polymer",
+      "LayerName": "Landmark",
+      "AssetPath": "Stages/Outputs/Chapter03/Polymers/Chap03_Polymer_P102_TV_01_Polymer_Runtime.prefab",
+      "Active": 1,
+      "ScaleX": 1,
+      "ScaleY": 1,
+      "ScaleZ": 1,
+      "Bound": {
+        "Center": {
+          "X": -117.4684,
+          "Y": 13.87348,
+          "Z": 62.08381
+        },
+        "Size": {
+          "X": 29.06906,
+          "Y": 4.903236,
+          "Z": 29.02149
+        }
+      }
+    }
+  }
+}

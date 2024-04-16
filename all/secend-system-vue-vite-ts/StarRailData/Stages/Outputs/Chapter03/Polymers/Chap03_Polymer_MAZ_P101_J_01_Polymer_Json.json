@@ -1,0 +1,4581 @@
+{
+  "Polymer": {
+    "e793b60901558fb4a86a89b4b8c9043e": {
+      "Chap": "Chapter03",
+      "ChildrenObj": [
+        {
+          "Name": "Chap03_BDP_Pendant_01_Lod0",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_BDP_Pendant_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": 0.053112,
+          "PosY": 39.02189,
+          "PosZ": 0.593727,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 0.053112,
+              "Y": 39.02189,
+              "Z": 0.593727
+            },
+            "Size": {
+              "X": 1,
+              "Y": 1,
+              "Z": 1
+            }
+          }
+        },
+        {
+          "Index": 1,
+          "Name": "Chap03_BDS_Table_01_Lod0",
+          "LayerName": "Landmark",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_BDS_Table_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": -1.446888,
+          "PosY": 16.03223,
+          "PosZ": 0.74733,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -3.748782,
+              "Y": 16.45833,
+              "Z": 0.745138
+            },
+            "Size": {
+              "X": 5.126981,
+              "Y": 0.852215,
+              "Z": 13.72054
+            }
+          }
+        },
+        {
+          "Index": 2,
+          "Name": "Chap03_MiniProp_Candlestick_01a_Lod0 (2)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Candlestick_01a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -2.810886,
+          "PosY": 16.88189,
+          "PosZ": 6.217331,
+          "RotX": 3E-06,
+          "RotY": 60,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -2.810886,
+              "Y": 17.24342,
+              "Z": 6.217331
+            },
+            "Size": {
+              "X": 0.347589,
+              "Y": 0.723061,
+              "Z": 0.37791
+            }
+          }
+        },
+        {
+          "Index": 3,
+          "Name": "Chap03_MiniProp_Dish_01_Lod0",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Dish_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": -5.950886,
+          "PosY": 16.88189,
+          "PosZ": 2.078331,
+          "RotX": 3E-06,
+          "RotY": 7.591456,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -5.950887,
+              "Y": 16.94968,
+              "Z": 2.078316
+            },
+            "Size": {
+              "X": 0.405884,
+              "Y": 0.135582,
+              "Z": 0.405884
+            }
+          }
+        },
+        {
+          "Index": 4,
+          "Name": "Chap03_MiniProp_Dish_01_Lod0 (1)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Dish_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": -5.252888,
+          "PosY": 16.88189,
+          "PosZ": -2.899674,
+          "RotX": 3E-06,
+          "RotY": 334.0561,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -5.252881,
+              "Y": 16.94968,
+              "Z": -2.899687
+            },
+            "Size": {
+              "X": 0.482979,
+              "Y": 0.135582,
+              "Z": 0.482979
+            }
+          }
+        },
+        {
+          "Index": 5,
+          "Name": "Chap03_MiniProp_Dish_01_Lod0 (3)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Dish_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": -2.332874,
+          "PosY": 16.88189,
+          "PosZ": 7.253326,
+          "RotX": 3E-06,
+          "RotY": 75,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -2.332889,
+              "Y": 16.94968,
+              "Z": 7.253322
+            },
+            "Size": {
+              "X": 0.442523,
+              "Y": 0.135582,
+              "Z": 0.442522
+            }
+          }
+        },
+        {
+          "Index": 6,
+          "Name": "Chap03_MiniProp_Goblet_01_Lod0 (1)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Goblet_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": -5.745884,
+          "PosY": 16.88189,
+          "PosZ": 1.761329,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -5.745884,
+              "Y": 16.98412,
+              "Z": 1.761329
+            },
+            "Size": {
+              "X": 0.195443,
+              "Y": 0.204727,
+              "Z": 0.195444
+            }
+          }
+        },
+        {
+          "Index": 7,
+          "Name": "Chap03_MiniProp_Goblet_01_Lod0 (2)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Goblet_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": -5.199879,
+          "PosY": 16.88189,
+          "PosZ": 4.054329,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -5.199879,
+              "Y": 16.98412,
+              "Z": 4.054329
+            },
+            "Size": {
+              "X": 0.195443,
+              "Y": 0.204727,
+              "Z": 0.195443
+            }
+          }
+        },
+        {
+          "Index": 8,
+          "Name": "Chap03_MiniProp_Goblet_01_Lod0 (3)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Goblet_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": -4.093876,
+          "PosY": 16.88189,
+          "PosZ": 5.898331,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -4.093876,
+              "Y": 16.98412,
+              "Z": 5.898331
+            },
+            "Size": {
+              "X": 0.195444,
+              "Y": 0.204727,
+              "Z": 0.195443
+            }
+          }
+        },
+        {
+          "Index": 9,
+          "Name": "Chap03_MiniProp_Dish_01_Lod0 (4)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Dish_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": -3.989887,
+          "PosY": 16.88189,
+          "PosZ": 6.263329,
+          "RotX": 3E-06,
+          "RotY": 45,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -3.989898,
+              "Y": 16.94968,
+              "Z": 6.263318
+            },
+            "Size": {
+              "X": 0.510981,
+              "Y": 0.135582,
+              "Z": 0.510981
+            }
+          }
+        },
+        {
+          "Index": 10,
+          "Name": "Chap03_MiniProp_Dish_01_Lod0 (5)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Dish_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": -5.280872,
+          "PosY": 16.88189,
+          "PosZ": 4.419327,
+          "RotX": 3E-06,
+          "RotY": 28.38955,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -5.280879,
+              "Y": 16.94968,
+              "Z": 4.419313
+            },
+            "Size": {
+              "X": 0.489657,
+              "Y": 0.135582,
+              "Z": 0.489657
+            }
+          }
+        },
+        {
+          "Index": 11,
+          "Name": "Chap03_MiniProp_Dish_01_Lod0 (2)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Dish_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": -5.946888,
+          "PosY": 16.88189,
+          "PosZ": -0.537674,
+          "RotX": 3E-06,
+          "RotY": 350.9682,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -5.946885,
+              "Y": 16.94968,
+              "Z": -0.537689
+            },
+            "Size": {
+              "X": 0.413559,
+              "Y": 0.135582,
+              "Z": 0.413559
+            }
+          }
+        },
+        {
+          "Index": 12,
+          "Name": "Chap03_MiniProp_Goblet_01_Lod0 (4)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Goblet_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": -5.786884,
+          "PosY": 16.88189,
+          "PosZ": -0.870667,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -5.786884,
+              "Y": 16.98412,
+              "Z": -0.870667
+            },
+            "Size": {
+              "X": 0.195443,
+              "Y": 0.204727,
+              "Z": 0.195444
+            }
+          }
+        },
+        {
+          "Index": 13,
+          "Name": "Chap03_MiniProp_Candlestick_01a_Lod0 (2)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Candlestick_01a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -4.303989,
+          "PosY": 16.88189,
+          "PosZ": 2.988006,
+          "RotX": 3E-06,
+          "RotY": 9.36446,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -4.303989,
+              "Y": 17.24342,
+              "Z": 2.988006
+            },
+            "Size": {
+              "X": 0.339348,
+              "Y": 0.723061,
+              "Z": 0.271093
+            }
+          }
+        },
+        {
+          "Index": 14,
+          "Name": "Chap03_MiniProp_Candlestick_01a_Lod0 (3)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Candlestick_01a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -4.319996,
+          "PosY": 16.88189,
+          "PosZ": -1.806,
+          "RotX": 3E-06,
+          "RotY": 337.7137,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -4.319996,
+              "Y": 17.24342,
+              "Z": -1.806
+            },
+            "Size": {
+              "X": 0.369038,
+              "Y": 0.723061,
+              "Z": 0.323803
+            }
+          }
+        },
+        {
+          "Index": 15,
+          "Name": "Chap03_MiniProp_Dish_01_Lod0 (6)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Dish_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": -3.953876,
+          "PosY": 16.88189,
+          "PosZ": -4.731674,
+          "RotX": 3E-06,
+          "RotY": 315,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -3.953866,
+              "Y": 16.94968,
+              "Z": -4.731685
+            },
+            "Size": {
+              "X": 0.510982,
+              "Y": 0.135582,
+              "Z": 0.510982
+            }
+          }
+        },
+        {
+          "Index": 16,
+          "Name": "Chap03_MiniProp_Dish_01_Lod0 (7)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Dish_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": -2.368885,
+          "PosY": 16.88189,
+          "PosZ": -5.690674,
+          "RotX": 3E-06,
+          "RotY": 283.4601,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -2.36887,
+              "Y": 16.94968,
+              "Z": -5.690677
+            },
+            "Size": {
+              "X": 0.435497,
+              "Y": 0.135582,
+              "Z": 0.435496
+            }
+          }
+        },
+        {
+          "Index": 17,
+          "Name": "Chap03_MiniProp_Goblet_01_Lod0 (5)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Goblet_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": -4.966877,
+          "PosY": 16.88189,
+          "PosZ": -3.144669,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -4.966877,
+              "Y": 16.98412,
+              "Z": -3.144669
+            },
+            "Size": {
+              "X": 0.195443,
+              "Y": 0.204727,
+              "Z": 0.195444
+            }
+          }
+        },
+        {
+          "Index": 18,
+          "Name": "Chap03_MiniProp_Goblet_01_Lod0 (6)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Goblet_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": -3.58588,
+          "PosY": 16.88189,
+          "PosZ": -4.927673,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -3.58588,
+              "Y": 16.98412,
+              "Z": -4.927673
+            },
+            "Size": {
+              "X": 0.195444,
+              "Y": 0.204727,
+              "Z": 0.195443
+            }
+          }
+        },
+        {
+          "Index": 19,
+          "Name": "Chap03_MiniProp_Goblet_01_Lod0 (7)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Goblet_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": -1.955875,
+          "PosY": 16.88189,
+          "PosZ": -5.525673,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -1.955875,
+              "Y": 16.98412,
+              "Z": -5.525673
+            },
+            "Size": {
+              "X": 0.195444,
+              "Y": 0.204727,
+              "Z": 0.195443
+            }
+          }
+        },
+        {
+          "Index": 20,
+          "Name": "Chap03_Prop_Lobster_01_Lod0 (2)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_Lobster_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": -4.444889,
+          "PosY": 16.88189,
+          "PosZ": -2.678276,
+          "RotY": 246.6534,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -4.416281,
+              "Y": 17.15376,
+              "Z": -2.560841
+            },
+            "Size": {
+              "X": 0.953581,
+              "Y": 0.553093,
+              "Z": 1.221538
+            }
+          }
+        },
+        {
+          "Index": 21,
+          "Name": "Chap03_MiniProp_Tray_01_Lod0 (3)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Tray_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": -5.376881,
+          "PosY": 16.88189,
+          "PosZ": -2.132668,
+          "RotX": 3E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -5.376881,
+              "Y": 17.21099,
+              "Z": -2.132668
+            },
+            "Size": {
+              "X": 0.475188,
+              "Y": 0.658196,
+              "Z": 0.475189
+            }
+          }
+        },
+        {
+          "Index": 22,
+          "Name": "Chap03_MiniProp_Tray_01_Lod0 (4)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Tray_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": -4.616886,
+          "PosY": 16.88189,
+          "PosZ": 2.327331,
+          "RotX": 3E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -4.616886,
+              "Y": 17.21099,
+              "Z": 2.327331
+            },
+            "Size": {
+              "X": 0.475188,
+              "Y": 0.658196,
+              "Z": 0.475188
+            }
+          }
+        },
+        {
+          "Index": 23,
+          "Name": "Chap03_MiniProp_Candlestick_01a_Lod0 (2)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Candlestick_01a_Lod0.prefab",
+          "Active": 1,
+          "PosX": 2.667004,
+          "PosY": 16.88189,
+          "PosZ": -4.084999,
+          "RotX": 3E-06,
+          "RotY": 240,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 2.667004,
+              "Y": 17.24342,
+              "Z": -4.084999
+            },
+            "Size": {
+              "X": 0.347589,
+              "Y": 0.723061,
+              "Z": 0.377909
+            }
+          }
+        },
+        {
+          "Index": 24,
+          "Name": "Chap03_MiniProp_Dish_01_Lod0",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Dish_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": 6.057125,
+          "PosY": 16.88189,
+          "PosZ": -0.583672,
+          "RotX": 3E-06,
+          "RotY": 187.5915,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 6.057127,
+              "Y": 16.94968,
+              "Z": -0.583657
+            },
+            "Size": {
+              "X": 0.405885,
+              "Y": 0.135582,
+              "Z": 0.405884
+            }
+          }
+        },
+        {
+          "Index": 25,
+          "Name": "Chap03_MiniProp_Dish_01_Lod0 (1)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Dish_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": 5.359112,
+          "PosY": 16.88189,
+          "PosZ": 4.394333,
+          "RotX": 3E-06,
+          "RotY": 154.056,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 5.359105,
+              "Y": 16.94968,
+              "Z": 4.394346
+            },
+            "Size": {
+              "X": 0.482979,
+              "Y": 0.135582,
+              "Z": 0.482979
+            }
+          }
+        },
+        {
+          "Index": 26,
+          "Name": "Chap03_MiniProp_Dish_01_Lod0 (3)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Dish_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": 2.439114,
+          "PosY": 16.88189,
+          "PosZ": -5.758667,
+          "RotX": 3E-06,
+          "RotY": 255,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 2.439128,
+              "Y": 16.94968,
+              "Z": -5.758663
+            },
+            "Size": {
+              "X": 0.442523,
+              "Y": 0.135582,
+              "Z": 0.442523
+            }
+          }
+        },
+        {
+          "Index": 27,
+          "Name": "Chap03_MiniProp_Goblet_01_Lod0 (1)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Goblet_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": 5.852123,
+          "PosY": 16.88189,
+          "PosZ": -0.266671,
+          "RotY": 180,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 5.852123,
+              "Y": 16.98412,
+              "Z": -0.266671
+            },
+            "Size": {
+              "X": 0.195443,
+              "Y": 0.204727,
+              "Z": 0.195444
+            }
+          }
+        },
+        {
+          "Index": 28,
+          "Name": "Chap03_MiniProp_Goblet_01_Lod0 (2)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Goblet_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": 5.306118,
+          "PosY": 16.88189,
+          "PosZ": -2.55967,
+          "RotY": 180,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 5.306118,
+              "Y": 16.98412,
+              "Z": -2.55967
+            },
+            "Size": {
+              "X": 0.195443,
+              "Y": 0.204727,
+              "Z": 0.195444
+            }
+          }
+        },
+        {
+          "Index": 29,
+          "Name": "Chap03_MiniProp_Goblet_01_Lod0 (3)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Goblet_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": 4.200115,
+          "PosY": 16.88189,
+          "PosZ": -4.403671,
+          "RotY": 180,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 4.200115,
+              "Y": 16.98412,
+              "Z": -4.403671
+            },
+            "Size": {
+              "X": 0.195443,
+              "Y": 0.204727,
+              "Z": 0.195443
+            }
+          }
+        },
+        {
+          "Index": 30,
+          "Name": "Chap03_MiniProp_Dish_01_Lod0 (4)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Dish_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": 4.096111,
+          "PosY": 16.88189,
+          "PosZ": -4.768669,
+          "RotX": 3E-06,
+          "RotY": 225,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 4.096122,
+              "Y": 16.94968,
+              "Z": -4.768658
+            },
+            "Size": {
+              "X": 0.510981,
+              "Y": 0.135582,
+              "Z": 0.510981
+            }
+          }
+        },
+        {
+          "Index": 31,
+          "Name": "Chap03_MiniProp_Dish_01_Lod0 (5)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Dish_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": 5.387127,
+          "PosY": 16.88189,
+          "PosZ": -2.924668,
+          "RotX": 3E-06,
+          "RotY": 208.3896,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 5.387134,
+              "Y": 16.94968,
+              "Z": -2.924654
+            },
+            "Size": {
+              "X": 0.489658,
+              "Y": 0.135582,
+              "Z": 0.489658
+            }
+          }
+        },
+        {
+          "Index": 32,
+          "Name": "Chap03_MiniProp_Dish_01_Lod0 (2)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Dish_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": 6.053112,
+          "PosY": 16.88189,
+          "PosZ": 2.032333,
+          "RotX": 3E-06,
+          "RotY": 170.9683,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 6.053109,
+              "Y": 16.94968,
+              "Z": 2.032348
+            },
+            "Size": {
+              "X": 0.413559,
+              "Y": 0.135582,
+              "Z": 0.413559
+            }
+          }
+        },
+        {
+          "Index": 33,
+          "Name": "Chap03_MiniProp_Goblet_01_Lod0 (4)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Goblet_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": 5.893124,
+          "PosY": 16.88189,
+          "PosZ": 2.365326,
+          "RotY": 180,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 5.893124,
+              "Y": 16.98412,
+              "Z": 2.365326
+            },
+            "Size": {
+              "X": 0.195443,
+              "Y": 0.204727,
+              "Z": 0.195444
+            }
+          }
+        },
+        {
+          "Index": 34,
+          "Name": "Chap03_MiniProp_Candlestick_01a_Lod0 (2)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Candlestick_01a_Lod0.prefab",
+          "Active": 1,
+          "PosX": 4.41,
+          "PosY": 16.88189,
+          "PosZ": -1.42,
+          "RotX": 3E-06,
+          "RotY": 189.3645,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 4.41,
+              "Y": 17.24342,
+              "Z": -1.42
+            },
+            "Size": {
+              "X": 0.339348,
+              "Y": 0.723061,
+              "Z": 0.271093
+            }
+          }
+        },
+        {
+          "Index": 35,
+          "Name": "Chap03_MiniProp_Dish_01_Lod0 (6)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Dish_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": 4.060116,
+          "PosY": 16.88189,
+          "PosZ": 6.226334,
+          "RotX": 3E-06,
+          "RotY": 135,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 4.060105,
+              "Y": 16.94968,
+              "Z": 6.226344
+            },
+            "Size": {
+              "X": 0.510981,
+              "Y": 0.135582,
+              "Z": 0.510981
+            }
+          }
+        },
+        {
+          "Index": 36,
+          "Name": "Chap03_MiniProp_Dish_01_Lod0 (7)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Dish_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": 2.475124,
+          "PosY": 16.88189,
+          "PosZ": 7.185333,
+          "RotX": 3E-06,
+          "RotY": 103.4601,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 2.47511,
+              "Y": 16.94968,
+              "Z": 7.185336
+            },
+            "Size": {
+              "X": 0.435496,
+              "Y": 0.135582,
+              "Z": 0.435497
+            }
+          }
+        },
+        {
+          "Index": 37,
+          "Name": "Chap03_MiniProp_Goblet_01_Lod0 (5)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Goblet_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": 5.073116,
+          "PosY": 16.88189,
+          "PosZ": 4.639328,
+          "RotY": 180,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 5.073116,
+              "Y": 16.98412,
+              "Z": 4.639328
+            },
+            "Size": {
+              "X": 0.195443,
+              "Y": 0.204727,
+              "Z": 0.195443
+            }
+          }
+        },
+        {
+          "Index": 38,
+          "Name": "Chap03_MiniProp_Goblet_01_Lod0 (6)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Goblet_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": 3.69212,
+          "PosY": 16.88189,
+          "PosZ": 6.422333,
+          "RotY": 180,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 3.69212,
+              "Y": 16.98412,
+              "Z": 6.422333
+            },
+            "Size": {
+              "X": 0.195444,
+              "Y": 0.204727,
+              "Z": 0.195443
+            }
+          }
+        },
+        {
+          "Index": 39,
+          "Name": "Chap03_MiniProp_Goblet_01_Lod0 (7)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Goblet_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": 2.062115,
+          "PosY": 16.88189,
+          "PosZ": 7.020332,
+          "RotY": 180,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 2.062115,
+              "Y": 16.98412,
+              "Z": 7.020332
+            },
+            "Size": {
+              "X": 0.195444,
+              "Y": 0.204727,
+              "Z": 0.195443
+            }
+          }
+        },
+        {
+          "Index": 40,
+          "Name": "Chap03_MiniProp_Candlestick_01a_Lod0 (5)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Candlestick_01a_Lod0.prefab",
+          "Active": 1,
+          "PosX": 2.738003,
+          "PosY": 16.88189,
+          "PosZ": 5.773003,
+          "RotX": 3E-06,
+          "RotY": 180,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 2.738003,
+              "Y": 17.24342,
+              "Z": 5.773003
+            },
+            "Size": {
+              "X": 0.306969,
+              "Y": 0.723061,
+              "Z": 0.224133
+            }
+          }
+        },
+        {
+          "Index": 41,
+          "Name": "Chap03_MiniProp_Chair_01a_Lod0 (1)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Chair_01a_Lod0.prefab",
+          "Active": 1,
+          "PosX": 2.653011,
+          "PosY": 16.03189,
+          "PosZ": 8.032005,
+          "RotY": 195,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 2.653623,
+              "Y": 16.64194,
+              "Z": 8.034286
+            },
+            "Size": {
+              "X": 0.860488,
+              "Y": 1.220123,
+              "Z": 1.058432
+            }
+          }
+        },
+        {
+          "Index": 42,
+          "Name": "Chap03_MiniProp_Chair_02a_Lod0 (4)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Chair_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -2.575886,
+          "PosY": 16.03189,
+          "PosZ": 8.130325,
+          "RotY": 165,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -2.576497,
+              "Y": 16.65322,
+              "Z": 8.132607
+            },
+            "Size": {
+              "X": 0.860489,
+              "Y": 1.242691,
+              "Z": 1.058432
+            }
+          }
+        },
+        {
+          "Index": 43,
+          "Name": "Chap03_MiniProp_Chair_02a_Lod0 (5)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Chair_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -6.200886,
+          "PosY": 16.03189,
+          "PosZ": 4.879333,
+          "RotY": 117.507,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -6.202981,
+              "Y": 16.65322,
+              "Z": 4.880424
+            },
+            "Size": {
+              "X": 1.116153,
+              "Y": 1.242691,
+              "Z": 0.997153
+            }
+          }
+        },
+        {
+          "Index": 44,
+          "Name": "Chap03_MiniProp_Chair_02a_Lod0 (7)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Chair_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -4.545002,
+          "PosY": 16.03189,
+          "PosZ": 6.82,
+          "RotY": 135,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -4.546672,
+              "Y": 16.65322,
+              "Z": 6.82167
+            },
+            "Size": {
+              "X": 1.107889,
+              "Y": 1.242691,
+              "Z": 1.10789
+            }
+          }
+        },
+        {
+          "Index": 45,
+          "Name": "Chap03_MiniProp_Chair_02a_Lod0 (6)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Chair_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -6.739994,
+          "PosY": 16.03189,
+          "PosZ": 2.199005,
+          "RotY": 99.99999,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -6.74232,
+              "Y": 16.65322,
+              "Z": 2.199415
+            },
+            "Size": {
+              "X": 1.021066,
+              "Y": 1.242691,
+              "Z": 0.793994
+            }
+          }
+        },
+        {
+          "Index": 46,
+          "Name": "Chap03_MiniProp_Chair_02a_Lod0 (8)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Chair_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -7.018879,
+          "PosY": 16.03189,
+          "PosZ": -0.733673,
+          "RotY": 80,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -7.021205,
+              "Y": 16.65322,
+              "Z": -0.734083
+            },
+            "Size": {
+              "X": 1.021066,
+              "Y": 1.242691,
+              "Z": 0.793994
+            }
+          }
+        },
+        {
+          "Index": 47,
+          "Name": "Chap03_MiniProp_Chair_02a_Lod0 (9)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Chair_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -6.59,
+          "PosY": 16.03189,
+          "PosZ": -3.547997,
+          "RotY": 65.00001,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -6.592141,
+              "Y": 16.65322,
+              "Z": -3.548995
+            },
+            "Size": {
+              "X": 1.108776,
+              "Y": 1.242691,
+              "Z": 0.973375
+            }
+          }
+        },
+        {
+          "Index": 48,
+          "Name": "Chap03_MiniProp_Chair_02a_Lod0 (10)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Chair_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -4.591999,
+          "PosY": 16.03189,
+          "PosZ": -5.375999,
+          "RotY": 45,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -4.593669,
+              "Y": 16.65322,
+              "Z": -5.377669
+            },
+            "Size": {
+              "X": 1.107889,
+              "Y": 1.242691,
+              "Z": 1.107889
+            }
+          }
+        },
+        {
+          "Index": 49,
+          "Name": "Chap03_MiniProp_Chair_02a_Lod0 (11)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Chair_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -2.622883,
+          "PosY": 16.03189,
+          "PosZ": -6.582001,
+          "RotY": 15,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -2.623494,
+              "Y": 16.65322,
+              "Z": -6.584282
+            },
+            "Size": {
+              "X": 0.860488,
+              "Y": 1.242691,
+              "Z": 1.058432
+            }
+          }
+        },
+        {
+          "Index": 50,
+          "Name": "Chap03_MiniProp_Tray_02_Lod0",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Tray_02_Lod0.prefab",
+          "Active": 1,
+          "PosX": -4.076878,
+          "PosY": 16.88189,
+          "PosZ": 5.05233,
+          "RotX": 2E-06,
+          "RotY": 48.75707,
+          "RotZ": 2E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -4.076878,
+              "Y": 17.17433,
+              "Z": 5.05233
+            },
+            "Size": {
+              "X": 1.228818,
+              "Y": 0.584889,
+              "Z": 1.227584
+            }
+          }
+        },
+        {
+          "Index": 51,
+          "Name": "Chap03_Prop_Lobster_01_Lod0 (2)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_Lobster_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": -2.107883,
+          "PosY": 16.88189,
+          "PosZ": 6.546326,
+          "RotY": 347.1456,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -1.968979,
+              "Y": 17.15376,
+              "Z": 6.513189
+            },
+            "Size": {
+              "X": 1.206474,
+              "Y": 0.553093,
+              "Z": 0.845311
+            }
+          }
+        },
+        {
+          "Index": 52,
+          "Name": "Chap03_MiniProp_Tray_02_Lod0",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Tray_02_Lod0.prefab",
+          "Active": 1,
+          "PosX": -5.37888,
+          "PosY": 16.88189,
+          "PosZ": 0.05233,
+          "RotX": 2E-06,
+          "RotY": 48.75707,
+          "RotZ": 2E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -5.37888,
+              "Y": 17.17433,
+              "Z": 0.05233
+            },
+            "Size": {
+              "X": 1.228818,
+              "Y": 0.584889,
+              "Z": 1.227584
+            }
+          }
+        },
+        {
+          "Index": 53,
+          "Name": "Chap03_MiniProp_RoastChicken_01_Lod0",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_RoastChicken_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": -5.212879,
+          "PosY": 16.88189,
+          "PosZ": 1.577331,
+          "RotY": 311.9759,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -5.193212,
+              "Y": 17.07562,
+              "Z": 1.58247
+            },
+            "Size": {
+              "X": 1.041977,
+              "Y": 0.394821,
+              "Z": 1.05602
+            }
+          }
+        },
+        {
+          "Index": 54,
+          "Name": "Chap03_MiniProp_Tray_02_Lod0 (1)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Tray_02_Lod0.prefab",
+          "Active": 1,
+          "PosX": -4.168888,
+          "PosY": 16.88189,
+          "PosZ": -3.751274,
+          "RotX": 2E-06,
+          "RotY": 48.75707,
+          "RotZ": 2E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -4.168888,
+              "Y": 17.17433,
+              "Z": -3.751275
+            },
+            "Size": {
+              "X": 1.228818,
+              "Y": 0.584889,
+              "Z": 1.227584
+            }
+          }
+        },
+        {
+          "Index": 55,
+          "Name": "Chap03_BDS_Table_01_Lod0",
+          "LayerName": "Landmark",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_BDS_Table_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": 1.553112,
+          "PosY": 16.03223,
+          "PosZ": 0.74733,
+          "RotY": 180,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 3.855006,
+              "Y": 16.45833,
+              "Z": 0.749521
+            },
+            "Size": {
+              "X": 5.126982,
+              "Y": 0.852215,
+              "Z": 13.72055
+            }
+          }
+        },
+        {
+          "Index": 56,
+          "Name": "Chap03_MiniProp_Tray_02_Lod0",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Tray_02_Lod0.prefab",
+          "Active": 1,
+          "PosX": 4.183117,
+          "PosY": 16.88189,
+          "PosZ": -3.557671,
+          "RotX": 2E-06,
+          "RotY": 228.7571,
+          "RotZ": 2E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 4.183117,
+              "Y": 17.17433,
+              "Z": -3.557671
+            },
+            "Size": {
+              "X": 1.228819,
+              "Y": 0.584889,
+              "Z": 1.227584
+            }
+          }
+        },
+        {
+          "Index": 57,
+          "Name": "Chap03_Prop_Lobster_01_Lod0 (2)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_Lobster_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": 2.214123,
+          "PosY": 16.88189,
+          "PosZ": -5.051666,
+          "RotY": 167.1456,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 2.075218,
+              "Y": 17.15376,
+              "Z": -5.018529
+            },
+            "Size": {
+              "X": 1.206474,
+              "Y": 0.553093,
+              "Z": 0.845312
+            }
+          }
+        },
+        {
+          "Index": 58,
+          "Name": "Chap03_MiniProp_Tray_02_Lod0",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Tray_02_Lod0.prefab",
+          "Active": 1,
+          "PosX": 5.485119,
+          "PosY": 16.88189,
+          "PosZ": 1.442329,
+          "RotX": 2E-06,
+          "RotY": 228.7571,
+          "RotZ": 2E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 5.485119,
+              "Y": 17.17433,
+              "Z": 1.442329
+            },
+            "Size": {
+              "X": 1.228819,
+              "Y": 0.584889,
+              "Z": 1.227584
+            }
+          }
+        },
+        {
+          "Index": 59,
+          "Name": "Chap03_MiniProp_RoastChicken_01_Lod0",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_RoastChicken_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": 5.319118,
+          "PosY": 16.88189,
+          "PosZ": -0.082672,
+          "RotY": 131.9759,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 5.299451,
+              "Y": 17.07562,
+              "Z": -0.087811
+            },
+            "Size": {
+              "X": 1.041975,
+              "Y": 0.394821,
+              "Z": 1.05602
+            }
+          }
+        },
+        {
+          "Index": 60,
+          "Name": "Chap03_MiniProp_Tray_02_Lod0 (1)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Tray_02_Lod0.prefab",
+          "Active": 1,
+          "PosX": 4.275127,
+          "PosY": 16.88189,
+          "PosZ": 5.245934,
+          "RotX": 2E-06,
+          "RotY": 228.7571,
+          "RotZ": 2E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 4.275127,
+              "Y": 17.17433,
+              "Z": 5.245934
+            },
+            "Size": {
+              "X": 1.228819,
+              "Y": 0.584889,
+              "Z": 1.227585
+            }
+          }
+        },
+        {
+          "Index": 61,
+          "Name": "Chap03_Prop_Lobster_01_Lod0 (2)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_Lobster_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": 4.551128,
+          "PosY": 16.88189,
+          "PosZ": 4.172935,
+          "RotY": 66.65338,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 4.52252,
+              "Y": 17.15376,
+              "Z": 4.0555
+            },
+            "Size": {
+              "X": 0.953579,
+              "Y": 0.553093,
+              "Z": 1.221539
+            }
+          }
+        },
+        {
+          "Index": 62,
+          "Name": "Chap03_MiniProp_Tray_01_Lod0 (1)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Tray_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": 5.277126,
+          "PosY": 16.88189,
+          "PosZ": 3.752327,
+          "RotX": 3E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 5.277126,
+              "Y": 17.21099,
+              "Z": 3.752327
+            },
+            "Size": {
+              "X": 0.475188,
+              "Y": 0.658196,
+              "Z": 0.475188
+            }
+          }
+        },
+        {
+          "Index": 63,
+          "Name": "Chap03_MiniProp_Tray_01_Lod0 (2)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Tray_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": 4.027111,
+          "PosY": 16.88189,
+          "PosZ": -2.754669,
+          "RotX": 3E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 4.027111,
+              "Y": 17.21099,
+              "Z": -2.754669
+            },
+            "Size": {
+              "X": 0.475188,
+              "Y": 0.658196,
+              "Z": 0.475188
+            }
+          }
+        },
+        {
+          "Index": 64,
+          "Name": "Chap03_MiniProp_Chair_01a_Lod0 (2)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Chair_01a_Lod0.prefab",
+          "Active": 1,
+          "PosX": 4.643002,
+          "PosY": 16.03189,
+          "PosZ": 6.862,
+          "RotY": 225,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 4.644671,
+              "Y": 16.64194,
+              "Z": 6.863669
+            },
+            "Size": {
+              "X": 1.107889,
+              "Y": 1.220123,
+              "Z": 1.107889
+            }
+          }
+        },
+        {
+          "Index": 65,
+          "Name": "Chap03_MiniProp_Chair_01a_Lod0 (3)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Chair_01a_Lod0.prefab",
+          "Active": 1,
+          "PosX": 6.135006,
+          "PosY": 16.03189,
+          "PosZ": 4.781006,
+          "RotY": 245,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 6.137146,
+              "Y": 16.64194,
+              "Z": 4.782004
+            },
+            "Size": {
+              "X": 1.108776,
+              "Y": 1.220123,
+              "Z": 0.973374
+            }
+          }
+        },
+        {
+          "Index": 66,
+          "Name": "Chap03_MiniProp_Chair_01a_Lod0 (4)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Chair_01a_Lod0.prefab",
+          "Active": 1,
+          "PosX": 7.125118,
+          "PosY": 16.03189,
+          "PosZ": 2.228332,
+          "RotY": 260,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 7.127444,
+              "Y": 16.64194,
+              "Z": 2.228742
+            },
+            "Size": {
+              "X": 1.021066,
+              "Y": 1.220123,
+              "Z": 0.793994
+            }
+          }
+        },
+        {
+          "Index": 67,
+          "Name": "Chap03_MiniProp_Chair_01a_Lod0 (5)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Chair_01a_Lod0.prefab",
+          "Active": 1,
+          "PosX": 7.152126,
+          "PosY": 16.03189,
+          "PosZ": -0.758667,
+          "RotY": 280,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 7.154452,
+              "Y": 16.64194,
+              "Z": -0.759077
+            },
+            "Size": {
+              "X": 1.021066,
+              "Y": 1.220123,
+              "Z": 0.793994
+            }
+          }
+        },
+        {
+          "Index": 68,
+          "Name": "Chap03_MiniProp_Chair_01a_Lod0 (6)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Chair_01a_Lod0.prefab",
+          "Active": 1,
+          "PosX": 5.990002,
+          "PosY": 16.03189,
+          "PosZ": -3.219994,
+          "RotY": 297.507,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 5.992096,
+              "Y": 16.64194,
+              "Z": -3.221085
+            },
+            "Size": {
+              "X": 1.116154,
+              "Y": 1.220123,
+              "Z": 0.997154
+            }
+          }
+        },
+        {
+          "Index": 69,
+          "Name": "Chap03_MiniProp_Chair_01a_Lod0 (7)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Chair_01a_Lod0.prefab",
+          "Active": 1,
+          "PosX": 4.879009,
+          "PosY": 16.03189,
+          "PosZ": -5.554001,
+          "RotY": 315,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 4.880679,
+              "Y": 16.64194,
+              "Z": -5.555671
+            },
+            "Size": {
+              "X": 1.107889,
+              "Y": 1.220123,
+              "Z": 1.107889
+            }
+          }
+        },
+        {
+          "Index": 70,
+          "Name": "Chap03_MiniProp_Chair_01a_Lod0 (8)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Chair_01a_Lod0.prefab",
+          "Active": 1,
+          "PosX": 2.648006,
+          "PosY": 16.03189,
+          "PosZ": -6.507996,
+          "RotY": 345,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 2.648618,
+              "Y": 16.64194,
+              "Z": -6.510277
+            },
+            "Size": {
+              "X": 0.860488,
+              "Y": 1.220123,
+              "Z": 1.058432
+            }
+          }
+        },
+        {
+          "Index": 71,
+          "Name": "Chap03_Prop_Table_01_Lod0",
+          "LayerName": "Building",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_Table_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": 12.05311,
+          "PosY": 16.03189,
+          "PosZ": -7.406273,
+          "RotX": 3E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 12.05311,
+              "Y": 16.45689,
+              "Z": -7.404792
+            },
+            "Size": {
+              "X": 3.013172,
+              "Y": 0.850002,
+              "Z": 3.043207
+            }
+          }
+        },
+        {
+          "Index": 72,
+          "Name": "Chap03_MiniProp_Dish_01_Lod0",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Dish_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": 10.75471,
+          "PosY": 16.88189,
+          "PosZ": -7.405357,
+          "RotX": 4E-06,
+          "RotY": -3E-06,
+          "RotZ": 2E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 10.75471,
+              "Y": 16.94968,
+              "Z": -7.405373
+            },
+            "Size": {
+              "X": 0.361319,
+              "Y": 0.135582,
+              "Z": 0.361319
+            }
+          }
+        },
+        {
+          "Index": 73,
+          "Name": "Chap03_MiniProp_Dish_01_Lod0",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Dish_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": 11.40312,
+          "PosY": 16.88189,
+          "PosZ": -8.530273,
+          "RotX": 3E-06,
+          "RotY": 300,
+          "RotZ": -1E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 11.40313,
+              "Y": 16.94968,
+              "Z": -8.530281
+            },
+            "Size": {
+              "X": 0.49357,
+              "Y": 0.135582,
+              "Z": 0.49357
+            }
+          }
+        },
+        {
+          "Index": 74,
+          "Name": "Chap03_MiniProp_Dish_01_Lod0",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Dish_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": 11.40471,
+          "PosY": 16.88189,
+          "PosZ": -6.281357,
+          "RotX": 3E-06,
+          "RotY": 60,
+          "RotZ": 4E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 11.40469,
+              "Y": 16.94968,
+              "Z": -6.281365
+            },
+            "Size": {
+              "X": 0.493568,
+              "Y": 0.135582,
+              "Z": 0.49357
+            }
+          }
+        },
+        {
+          "Index": 75,
+          "Name": "Chap03_MiniProp_Dish_01_Lod0",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Dish_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": 12.70313,
+          "PosY": 16.88189,
+          "PosZ": -6.282272,
+          "RotX": 1E-06,
+          "RotY": 120,
+          "RotZ": 4E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 12.70312,
+              "Y": 16.94968,
+              "Z": -6.282265
+            },
+            "Size": {
+              "X": 0.49357,
+              "Y": 0.135582,
+              "Z": 0.493569
+            }
+          }
+        },
+        {
+          "Index": 76,
+          "Name": "Chap03_MiniProp_Dish_01_Lod0",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Dish_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": 13.35154,
+          "PosY": 16.88189,
+          "PosZ": -7.407188,
+          "RotX": -1E-06,
+          "RotY": 180,
+          "RotZ": 2E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 13.35154,
+              "Y": 16.94968,
+              "Z": -7.407173
+            },
+            "Size": {
+              "X": 0.361317,
+              "Y": 0.135582,
+              "Z": 0.361318
+            }
+          }
+        },
+        {
+          "Index": 77,
+          "Name": "Chap03_MiniProp_Dish_01_Lod0",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Dish_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": 12.70153,
+          "PosY": 16.88189,
+          "PosZ": -8.531189,
+          "RotX": 1E-06,
+          "RotY": 240,
+          "RotZ": -1E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 12.70155,
+              "Y": 16.94968,
+              "Z": -8.531181
+            },
+            "Size": {
+              "X": 0.49357,
+              "Y": 0.135582,
+              "Z": 0.49357
+            }
+          }
+        },
+        {
+          "Index": 78,
+          "Name": "Chap03_MiniProp_Chair_01a_Lod0",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Chair_01a_Lod0.prefab",
+          "Active": 1,
+          "PosX": 13.15312,
+          "PosY": 16.03189,
+          "PosZ": -5.501022,
+          "RotX": -4E-06,
+          "RotY": 210,
+          "RotZ": -3E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 13.1543,
+              "Y": 16.64194,
+              "Z": -5.498977
+            },
+            "Size": {
+              "X": 1.018908,
+              "Y": 1.220123,
+              "Z": 1.12137
+            }
+          }
+        },
+        {
+          "Index": 79,
+          "Name": "Chap03_MiniProp_Chair_01a_Lod0 (1)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Chair_01a_Lod0.prefab",
+          "Active": 1,
+          "PosX": 14.25312,
+          "PosY": 16.03189,
+          "PosZ": -7.406273,
+          "RotX": -2E-06,
+          "RotY": 270,
+          "RotZ": -4E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 14.25548,
+              "Y": 16.64194,
+              "Z": -7.406273
+            },
+            "Size": {
+              "X": 0.923363,
+              "Y": 1.220123,
+              "Z": 0.643429
+            }
+          }
+        },
+        {
+          "Index": 80,
+          "Name": "Chap03_MiniProp_Chair_01a_Lod0 (2)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Chair_01a_Lod0.prefab",
+          "Active": 1,
+          "PosX": 13.15312,
+          "PosY": 16.03189,
+          "PosZ": -9.311523,
+          "RotY": 330,
+          "RotZ": -3E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 13.1543,
+              "Y": 16.64194,
+              "Z": -9.313569
+            },
+            "Size": {
+              "X": 1.018908,
+              "Y": 1.220123,
+              "Z": 1.12137
+            }
+          }
+        },
+        {
+          "Index": 81,
+          "Name": "Chap03_MiniProp_Chair_01a_Lod0 (3)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Chair_01a_Lod0.prefab",
+          "Active": 1,
+          "PosX": 10.95312,
+          "PosY": 16.03189,
+          "PosZ": -9.311523,
+          "RotY": 30,
+          "RotZ": -1E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 10.95194,
+              "Y": 16.64194,
+              "Z": -9.313569
+            },
+            "Size": {
+              "X": 1.018908,
+              "Y": 1.220123,
+              "Z": 1.12137
+            }
+          }
+        },
+        {
+          "Index": 82,
+          "Name": "Chap03_MiniProp_Chair_01a_Lod0 (4)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Chair_01a_Lod0.prefab",
+          "Active": 1,
+          "PosX": 9.85313,
+          "PosY": 16.03189,
+          "PosZ": -7.406273,
+          "RotX": -2E-06,
+          "RotY": 90,
+          "RotZ": 1E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 9.850768,
+              "Y": 16.64194,
+              "Z": -7.406273
+            },
+            "Size": {
+              "X": 0.923365,
+              "Y": 1.220123,
+              "Z": 0.643429
+            }
+          }
+        },
+        {
+          "Index": 83,
+          "Name": "Chap03_MiniProp_Chair_01a_Lod0 (5)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Chair_01a_Lod0.prefab",
+          "Active": 1,
+          "PosX": 10.95312,
+          "PosY": 16.03189,
+          "PosZ": -5.501022,
+          "RotX": -4E-06,
+          "RotY": 150,
+          "RotZ": -1E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 10.95194,
+              "Y": 16.64194,
+              "Z": -5.498977
+            },
+            "Size": {
+              "X": 1.018908,
+              "Y": 1.220123,
+              "Z": 1.12137
+            }
+          }
+        },
+        {
+          "Index": 84,
+          "Name": "Chap03_Prop_Table_01_Lod0",
+          "LayerName": "Building",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_Table_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": -11.94689,
+          "PosY": 16.03189,
+          "PosZ": -7.406273,
+          "RotX": 3E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -11.94689,
+              "Y": 16.45689,
+              "Z": -7.404792
+            },
+            "Size": {
+              "X": 3.013172,
+              "Y": 0.850002,
+              "Z": 3.043207
+            }
+          }
+        },
+        {
+          "Index": 85,
+          "Name": "Chap03_MiniProp_Tray_01_Lod0",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Tray_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": -11.92499,
+          "PosY": 16.88189,
+          "PosZ": -7.590996,
+          "RotX": 5E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -11.92499,
+              "Y": 17.21099,
+              "Z": -7.590996
+            },
+            "Size": {
+              "X": 0.475187,
+              "Y": 0.658196,
+              "Z": 0.475188
+            }
+          }
+        },
+        {
+          "Index": 86,
+          "Name": "Chap03_MiniProp_Dish_01_Lod0",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Dish_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": -13.24529,
+          "PosY": 16.88189,
+          "PosZ": -7.405357,
+          "RotX": 4E-06,
+          "RotY": -3E-06,
+          "RotZ": 2E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -13.24529,
+              "Y": 16.94968,
+              "Z": -7.405373
+            },
+            "Size": {
+              "X": 0.361319,
+              "Y": 0.135582,
+              "Z": 0.361319
+            }
+          }
+        },
+        {
+          "Index": 87,
+          "Name": "Chap03_MiniProp_Dish_01_Lod0",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Dish_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": -12.59688,
+          "PosY": 16.88189,
+          "PosZ": -8.530273,
+          "RotX": 3E-06,
+          "RotY": 300,
+          "RotZ": -1E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -12.59687,
+              "Y": 16.94968,
+              "Z": -8.530281
+            },
+            "Size": {
+              "X": 0.49357,
+              "Y": 0.135582,
+              "Z": 0.49357
+            }
+          }
+        },
+        {
+          "Index": 88,
+          "Name": "Chap03_MiniProp_Dish_01_Lod0",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Dish_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": -12.59529,
+          "PosY": 16.88189,
+          "PosZ": -6.281357,
+          "RotX": 3E-06,
+          "RotY": 60,
+          "RotZ": 4E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -12.59531,
+              "Y": 16.94968,
+              "Z": -6.281365
+            },
+            "Size": {
+              "X": 0.493568,
+              "Y": 0.135582,
+              "Z": 0.49357
+            }
+          }
+        },
+        {
+          "Index": 89,
+          "Name": "Chap03_MiniProp_Dish_01_Lod0",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Dish_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": -11.29686,
+          "PosY": 16.88189,
+          "PosZ": -6.282272,
+          "RotX": 1E-06,
+          "RotY": 120,
+          "RotZ": 4E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -11.29688,
+              "Y": 16.94968,
+              "Z": -6.282265
+            },
+            "Size": {
+              "X": 0.49357,
+              "Y": 0.135582,
+              "Z": 0.493569
+            }
+          }
+        },
+        {
+          "Index": 90,
+          "Name": "Chap03_MiniProp_Dish_01_Lod0",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Dish_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": -10.64847,
+          "PosY": 16.88189,
+          "PosZ": -7.407188,
+          "RotX": -1E-06,
+          "RotY": 180,
+          "RotZ": 2E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -10.64847,
+              "Y": 16.94968,
+              "Z": -7.407173
+            },
+            "Size": {
+              "X": 0.361317,
+              "Y": 0.135582,
+              "Z": 0.361318
+            }
+          }
+        },
+        {
+          "Index": 91,
+          "Name": "Chap03_MiniProp_Dish_01_Lod0",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Dish_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": -11.29847,
+          "PosY": 16.88189,
+          "PosZ": -8.531189,
+          "RotX": 1E-06,
+          "RotY": 240,
+          "RotZ": -1E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -11.29845,
+              "Y": 16.94968,
+              "Z": -8.531181
+            },
+            "Size": {
+              "X": 0.49357,
+              "Y": 0.135582,
+              "Z": 0.49357
+            }
+          }
+        },
+        {
+          "Index": 92,
+          "Name": "Chap03_MiniProp_Chair_02a_Lod0",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Chair_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -14.14687,
+          "PosY": 16.03189,
+          "PosZ": -7.406273,
+          "RotX": -2E-06,
+          "RotY": 90,
+          "RotZ": 1E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -14.14923,
+              "Y": 16.65322,
+              "Z": -7.406273
+            },
+            "Size": {
+              "X": 0.923365,
+              "Y": 1.242691,
+              "Z": 0.643429
+            }
+          }
+        },
+        {
+          "Index": 93,
+          "Name": "Chap03_MiniProp_Chair_02a_Lod0",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Chair_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -13.04688,
+          "PosY": 16.03189,
+          "PosZ": -5.501022,
+          "RotX": -4E-06,
+          "RotY": 150,
+          "RotZ": -1E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -13.04806,
+              "Y": 16.65322,
+              "Z": -5.498977
+            },
+            "Size": {
+              "X": 1.018908,
+              "Y": 1.242691,
+              "Z": 1.12137
+            }
+          }
+        },
+        {
+          "Index": 94,
+          "Name": "Chap03_MiniProp_Chair_02a_Lod0",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Chair_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -10.84688,
+          "PosY": 16.03189,
+          "PosZ": -5.501022,
+          "RotX": -4E-06,
+          "RotY": 210,
+          "RotZ": -3E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -10.8457,
+              "Y": 16.65322,
+              "Z": -5.498977
+            },
+            "Size": {
+              "X": 1.018908,
+              "Y": 1.242691,
+              "Z": 1.12137
+            }
+          }
+        },
+        {
+          "Index": 95,
+          "Name": "Chap03_MiniProp_Chair_02a_Lod0",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Chair_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -9.746891,
+          "PosY": 16.03189,
+          "PosZ": -7.406273,
+          "RotX": -2E-06,
+          "RotY": 270,
+          "RotZ": -4E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -9.744529,
+              "Y": 16.65322,
+              "Z": -7.406273
+            },
+            "Size": {
+              "X": 0.923363,
+              "Y": 1.242691,
+              "Z": 0.643429
+            }
+          }
+        },
+        {
+          "Index": 96,
+          "Name": "Chap03_MiniProp_Chair_02a_Lod0",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Chair_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -10.84688,
+          "PosY": 16.03189,
+          "PosZ": -9.311523,
+          "RotY": 330,
+          "RotZ": -3E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -10.8457,
+              "Y": 16.65322,
+              "Z": -9.313569
+            },
+            "Size": {
+              "X": 1.018908,
+              "Y": 1.242691,
+              "Z": 1.12137
+            }
+          }
+        },
+        {
+          "Index": 97,
+          "Name": "Chap03_MiniProp_Chair_02a_Lod0",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Chair_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -13.04688,
+          "PosY": 16.03189,
+          "PosZ": -9.311523,
+          "RotY": 30,
+          "RotZ": -1E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -13.04806,
+              "Y": 16.65322,
+              "Z": -9.313569
+            },
+            "Size": {
+              "X": 1.018908,
+              "Y": 1.242691,
+              "Z": 1.12137
+            }
+          }
+        },
+        {
+          "Index": 98,
+          "Name": "Chap03_Prop_Table_01_Lod0",
+          "LayerName": "Building",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_Table_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": -11.94689,
+          "PosY": 16.03189,
+          "PosZ": 6.253723,
+          "RotX": 3E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -11.94689,
+              "Y": 16.45689,
+              "Z": 6.255204
+            },
+            "Size": {
+              "X": 3.013172,
+              "Y": 0.850002,
+              "Z": 3.043207
+            }
+          }
+        },
+        {
+          "Index": 99,
+          "Name": "Chap03_MiniProp_Tray_02_Lod0",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Tray_02_Lod0.prefab",
+          "Active": 1,
+          "PosX": -12.351,
+          "PosY": 16.88189,
+          "PosZ": 6.302002,
+          "RotX": 5E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -12.351,
+              "Y": 17.17433,
+              "Z": 6.302002
+            },
+            "Size": {
+              "X": 0.863678,
+              "Y": 0.584889,
+              "Z": 0.877001
+            }
+          }
+        },
+        {
+          "Index": 100,
+          "Name": "Chap03_Prop_Lobster_01_Lod0",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_Lobster_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": -11.56787,
+          "PosY": 16.88189,
+          "PosZ": 5.953728,
+          "RotX": 2E-06,
+          "RotY": 21.10925,
+          "RotZ": 1E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -11.46514,
+              "Y": 17.15376,
+              "Z": 5.914051
+            },
+            "Size": {
+              "X": 1.236031,
+              "Y": 0.553093,
+              "Z": 0.93306
+            }
+          }
+        },
+        {
+          "Index": 101,
+          "Name": "Chap03_MiniProp_Dish_01_Lod0",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Dish_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": -13.24529,
+          "PosY": 16.88189,
+          "PosZ": 6.254639,
+          "RotX": 4E-06,
+          "RotY": -3E-06,
+          "RotZ": 2E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -13.24529,
+              "Y": 16.94968,
+              "Z": 6.254623
+            },
+            "Size": {
+              "X": 0.361319,
+              "Y": 0.135582,
+              "Z": 0.361319
+            }
+          }
+        },
+        {
+          "Index": 102,
+          "Name": "Chap03_MiniProp_Dish_01_Lod0",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Dish_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": -12.59688,
+          "PosY": 16.88189,
+          "PosZ": 5.12973,
+          "RotX": 3E-06,
+          "RotY": 300,
+          "RotZ": -1E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -12.59687,
+              "Y": 16.94968,
+              "Z": 5.129723
+            },
+            "Size": {
+              "X": 0.49357,
+              "Y": 0.135582,
+              "Z": 0.493569
+            }
+          }
+        },
+        {
+          "Index": 103,
+          "Name": "Chap03_MiniProp_Dish_01_Lod0",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Dish_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": -12.59529,
+          "PosY": 16.88189,
+          "PosZ": 7.378647,
+          "RotX": 3E-06,
+          "RotY": 60,
+          "RotZ": 4E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -12.59531,
+              "Y": 16.94968,
+              "Z": 7.378639
+            },
+            "Size": {
+              "X": 0.493568,
+              "Y": 0.135582,
+              "Z": 0.49357
+            }
+          }
+        },
+        {
+          "Index": 104,
+          "Name": "Chap03_MiniProp_Dish_01_Lod0",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Dish_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": -11.29686,
+          "PosY": 16.88189,
+          "PosZ": 7.377724,
+          "RotX": 1E-06,
+          "RotY": 120,
+          "RotZ": 4E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -11.29688,
+              "Y": 16.94968,
+              "Z": 7.377731
+            },
+            "Size": {
+              "X": 0.49357,
+              "Y": 0.135582,
+              "Z": 0.493569
+            }
+          }
+        },
+        {
+          "Index": 105,
+          "Name": "Chap03_MiniProp_Dish_01_Lod0",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Dish_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": -10.64847,
+          "PosY": 16.88189,
+          "PosZ": 6.252815,
+          "RotX": -1E-06,
+          "RotY": 180,
+          "RotZ": 2E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -10.64847,
+              "Y": 16.94968,
+              "Z": 6.252831
+            },
+            "Size": {
+              "X": 0.361317,
+              "Y": 0.135582,
+              "Z": 0.361318
+            }
+          }
+        },
+        {
+          "Index": 106,
+          "Name": "Chap03_MiniProp_Dish_01_Lod0",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Dish_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": -11.29847,
+          "PosY": 16.88189,
+          "PosZ": 5.128807,
+          "RotX": 1E-06,
+          "RotY": 240,
+          "RotZ": -1E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -11.29845,
+              "Y": 16.94968,
+              "Z": 5.128815
+            },
+            "Size": {
+              "X": 0.49357,
+              "Y": 0.135582,
+              "Z": 0.493569
+            }
+          }
+        },
+        {
+          "Index": 107,
+          "Name": "Chap03_MiniProp_Chair_02a_Lod0",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Chair_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -14.14687,
+          "PosY": 16.03189,
+          "PosZ": 6.253723,
+          "RotX": -2E-06,
+          "RotY": 90,
+          "RotZ": 1E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -14.14923,
+              "Y": 16.65322,
+              "Z": 6.253723
+            },
+            "Size": {
+              "X": 0.923365,
+              "Y": 1.242691,
+              "Z": 0.643429
+            }
+          }
+        },
+        {
+          "Index": 108,
+          "Name": "Chap03_MiniProp_Chair_02a_Lod0",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Chair_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -13.04688,
+          "PosY": 16.03189,
+          "PosZ": 8.158981,
+          "RotX": -4E-06,
+          "RotY": 150,
+          "RotZ": -1E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -13.04806,
+              "Y": 16.65322,
+              "Z": 8.161027
+            },
+            "Size": {
+              "X": 1.018908,
+              "Y": 1.242691,
+              "Z": 1.12137
+            }
+          }
+        },
+        {
+          "Index": 109,
+          "Name": "Chap03_MiniProp_Chair_02a_Lod0",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Chair_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -10.84688,
+          "PosY": 16.03189,
+          "PosZ": 8.158981,
+          "RotX": -4E-06,
+          "RotY": 210,
+          "RotZ": -3E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -10.8457,
+              "Y": 16.65322,
+              "Z": 8.161027
+            },
+            "Size": {
+              "X": 1.018908,
+              "Y": 1.242691,
+              "Z": 1.12137
+            }
+          }
+        },
+        {
+          "Index": 110,
+          "Name": "Chap03_MiniProp_Chair_02a_Lod0",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Chair_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -9.746891,
+          "PosY": 16.03189,
+          "PosZ": 6.253731,
+          "RotX": -2E-06,
+          "RotY": 270,
+          "RotZ": -4E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -9.744529,
+              "Y": 16.65322,
+              "Z": 6.253731
+            },
+            "Size": {
+              "X": 0.923363,
+              "Y": 1.242691,
+              "Z": 0.643429
+            }
+          }
+        },
+        {
+          "Index": 111,
+          "Name": "Chap03_MiniProp_Chair_02a_Lod0",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Chair_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -10.84688,
+          "PosY": 16.03189,
+          "PosZ": 4.348473,
+          "RotY": 330,
+          "RotZ": -3E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -10.8457,
+              "Y": 16.65322,
+              "Z": 4.346427
+            },
+            "Size": {
+              "X": 1.018908,
+              "Y": 1.242691,
+              "Z": 1.12137
+            }
+          }
+        },
+        {
+          "Index": 112,
+          "Name": "Chap03_MiniProp_Chair_02a_Lod0",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Chair_02a_Lod0.prefab",
+          "Active": 1,
+          "PosX": -13.04688,
+          "PosY": 16.03189,
+          "PosZ": 4.348473,
+          "RotY": 30,
+          "RotZ": -1E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -13.04806,
+              "Y": 16.65322,
+              "Z": 4.346427
+            },
+            "Size": {
+              "X": 1.018908,
+              "Y": 1.242691,
+              "Z": 1.12137
+            }
+          }
+        },
+        {
+          "Index": 113,
+          "Name": "Chap03_Prop_Table_01_Lod0",
+          "LayerName": "Building",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Prop_Table_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": 12.05311,
+          "PosY": 16.03189,
+          "PosZ": 6.253723,
+          "RotX": 3E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 12.05311,
+              "Y": 16.45689,
+              "Z": 6.255204
+            },
+            "Size": {
+              "X": 3.013172,
+              "Y": 0.850002,
+              "Z": 3.043207
+            }
+          }
+        },
+        {
+          "Index": 114,
+          "Name": "Chap03_MiniProp_Dish_01_Lod0",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Dish_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": 10.75471,
+          "PosY": 16.88189,
+          "PosZ": 6.254639,
+          "RotX": 4E-06,
+          "RotY": -3E-06,
+          "RotZ": 2E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 10.75471,
+              "Y": 16.94968,
+              "Z": 6.254623
+            },
+            "Size": {
+              "X": 0.361319,
+              "Y": 0.135582,
+              "Z": 0.361319
+            }
+          }
+        },
+        {
+          "Index": 115,
+          "Name": "Chap03_MiniProp_Dish_01_Lod0",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Dish_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": 11.40312,
+          "PosY": 16.88189,
+          "PosZ": 5.12973,
+          "RotX": 3E-06,
+          "RotY": 300,
+          "RotZ": -1E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 11.40313,
+              "Y": 16.94968,
+              "Z": 5.129723
+            },
+            "Size": {
+              "X": 0.49357,
+              "Y": 0.135582,
+              "Z": 0.493569
+            }
+          }
+        },
+        {
+          "Index": 116,
+          "Name": "Chap03_MiniProp_Dish_01_Lod0",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Dish_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": 11.40471,
+          "PosY": 16.88189,
+          "PosZ": 7.378647,
+          "RotX": 3E-06,
+          "RotY": 60,
+          "RotZ": 4E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 11.40469,
+              "Y": 16.94968,
+              "Z": 7.378639
+            },
+            "Size": {
+              "X": 0.493568,
+              "Y": 0.135582,
+              "Z": 0.49357
+            }
+          }
+        },
+        {
+          "Index": 117,
+          "Name": "Chap03_MiniProp_Dish_01_Lod0",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Dish_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": 12.70313,
+          "PosY": 16.88189,
+          "PosZ": 7.377724,
+          "RotX": 1E-06,
+          "RotY": 120,
+          "RotZ": 4E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 12.70312,
+              "Y": 16.94968,
+              "Z": 7.377731
+            },
+            "Size": {
+              "X": 0.49357,
+              "Y": 0.135582,
+              "Z": 0.493569
+            }
+          }
+        },
+        {
+          "Index": 118,
+          "Name": "Chap03_MiniProp_Dish_01_Lod0",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Dish_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": 13.35154,
+          "PosY": 16.88189,
+          "PosZ": 6.252815,
+          "RotX": -1E-06,
+          "RotY": 180,
+          "RotZ": 2E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 13.35154,
+              "Y": 16.94968,
+              "Z": 6.252831
+            },
+            "Size": {
+              "X": 0.361317,
+              "Y": 0.135582,
+              "Z": 0.361318
+            }
+          }
+        },
+        {
+          "Index": 119,
+          "Name": "Chap03_MiniProp_Dish_01_Lod0",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Dish_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": 12.70153,
+          "PosY": 16.88189,
+          "PosZ": 5.128807,
+          "RotX": 1E-06,
+          "RotY": 240,
+          "RotZ": -1E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 12.70155,
+              "Y": 16.94968,
+              "Z": 5.128815
+            },
+            "Size": {
+              "X": 0.49357,
+              "Y": 0.135582,
+              "Z": 0.493569
+            }
+          }
+        },
+        {
+          "Index": 120,
+          "Name": "Chap03_MiniProp_Chair_01a_Lod0",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Chair_01a_Lod0.prefab",
+          "Active": 1,
+          "PosX": 9.85313,
+          "PosY": 16.03189,
+          "PosZ": 6.253723,
+          "RotX": -2E-06,
+          "RotY": 90,
+          "RotZ": 1E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 9.850768,
+              "Y": 16.64194,
+              "Z": 6.253723
+            },
+            "Size": {
+              "X": 0.923365,
+              "Y": 1.220123,
+              "Z": 0.643429
+            }
+          }
+        },
+        {
+          "Index": 121,
+          "Name": "Chap03_MiniProp_Chair_01a_Lod0 (1)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Chair_01a_Lod0.prefab",
+          "Active": 1,
+          "PosX": 10.95312,
+          "PosY": 16.03189,
+          "PosZ": 8.158981,
+          "RotX": -4E-06,
+          "RotY": 150,
+          "RotZ": -1E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 10.95194,
+              "Y": 16.64194,
+              "Z": 8.161027
+            },
+            "Size": {
+              "X": 1.018908,
+              "Y": 1.220123,
+              "Z": 1.12137
+            }
+          }
+        },
+        {
+          "Index": 122,
+          "Name": "Chap03_MiniProp_Chair_01a_Lod0 (2)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Chair_01a_Lod0.prefab",
+          "Active": 1,
+          "PosX": 13.15312,
+          "PosY": 16.03189,
+          "PosZ": 8.158981,
+          "RotX": -4E-06,
+          "RotY": 210,
+          "RotZ": -3E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 13.1543,
+              "Y": 16.64194,
+              "Z": 8.161027
+            },
+            "Size": {
+              "X": 1.018908,
+              "Y": 1.220123,
+              "Z": 1.12137
+            }
+          }
+        },
+        {
+          "Index": 123,
+          "Name": "Chap03_MiniProp_Chair_01a_Lod0 (3)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Chair_01a_Lod0.prefab",
+          "Active": 1,
+          "PosX": 14.25312,
+          "PosY": 16.03189,
+          "PosZ": 6.253731,
+          "RotX": -2E-06,
+          "RotY": 270,
+          "RotZ": -4E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 14.25548,
+              "Y": 16.64194,
+              "Z": 6.253731
+            },
+            "Size": {
+              "X": 0.923363,
+              "Y": 1.220123,
+              "Z": 0.643429
+            }
+          }
+        },
+        {
+          "Index": 124,
+          "Name": "Chap03_MiniProp_Chair_01a_Lod0 (4)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Chair_01a_Lod0.prefab",
+          "Active": 1,
+          "PosX": 13.15312,
+          "PosY": 16.03189,
+          "PosZ": 4.348473,
+          "RotY": 330,
+          "RotZ": -3E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 13.1543,
+              "Y": 16.64194,
+              "Z": 4.346427
+            },
+            "Size": {
+              "X": 1.018908,
+              "Y": 1.220123,
+              "Z": 1.12137
+            }
+          }
+        },
+        {
+          "Index": 125,
+          "Name": "Chap03_MiniProp_Chair_01a_Lod0 (5)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Chair_01a_Lod0.prefab",
+          "Active": 1,
+          "PosX": 10.95312,
+          "PosY": 16.03189,
+          "PosZ": 4.348473,
+          "RotY": 30,
+          "RotZ": -1E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 10.95194,
+              "Y": 16.64194,
+              "Z": 4.346427
+            },
+            "Size": {
+              "X": 1.018908,
+              "Y": 1.220123,
+              "Z": 1.12137
+            }
+          }
+        },
+        {
+          "Index": 126,
+          "Name": "Chap03_MiniProp_RoastChicken_01_Lod0",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_RoastChicken_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": 11.882,
+          "PosY": 16.88189,
+          "PosZ": 6.383003,
+          "RotX": 2E-06,
+          "RotY": 22.29125,
+          "RotZ": 1E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 11.89346,
+              "Y": 17.07562,
+              "Z": 6.366216
+            },
+            "Size": {
+              "X": 1.020409,
+              "Y": 0.394821,
+              "Z": 0.917646
+            }
+          }
+        },
+        {
+          "Index": 127,
+          "Name": "Chap03_MiniProp_Tray_01_Lod0",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Tray_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": 12.41912,
+          "PosY": 16.88189,
+          "PosZ": 6.043724,
+          "RotX": 5E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 12.41912,
+              "Y": 17.21099,
+              "Z": 6.043724
+            },
+            "Size": {
+              "X": 0.475187,
+              "Y": 0.658196,
+              "Z": 0.475188
+            }
+          }
+        },
+        {
+          "Index": 128,
+          "Name": "Chap03_MiniProp_Steak_01_Lod0",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Steak_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": 12.08512,
+          "PosY": 16.88189,
+          "PosZ": 6.732727,
+          "RotX": 2E-06,
+          "RotY": 19.25223,
+          "RotZ": 1E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 12.08512,
+              "Y": 16.94502,
+              "Z": 6.732727
+            },
+            "Size": {
+              "X": 0.790436,
+              "Y": 0.129658,
+              "Z": 0.65056
+            }
+          }
+        },
+        {
+          "Index": 129,
+          "Name": "Chap03_MiniProp_Steak_01_Lod0",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Steak_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": 5.309124,
+          "PosY": 16.88189,
+          "PosZ": -1.146668,
+          "RotY": 125.9175,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 5.309124,
+              "Y": 16.94502,
+              "Z": -1.146668
+            },
+            "Size": {
+              "X": 0.764475,
+              "Y": 0.129658,
+              "Z": 0.815303
+            }
+          }
+        },
+        {
+          "Index": 130,
+          "Name": "Chap03_MiniProp_Steak_01_Lod0 (1)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Steak_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": 2.424114,
+          "PosY": 16.88189,
+          "PosZ": 6.504333,
+          "RotY": 108.3567,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 2.424114,
+              "Y": 16.94502,
+              "Z": 6.504333
+            },
+            "Size": {
+              "X": 0.642783,
+              "Y": 0.129658,
+              "Z": 0.787175
+            }
+          }
+        },
+        {
+          "Index": 131,
+          "Name": "Chap03_MiniProp_Steak_01_Lod0",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Steak_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": -5.202885,
+          "PosY": 16.88189,
+          "PosZ": 2.641327,
+          "RotY": 305.9175,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -5.202885,
+              "Y": 16.94502,
+              "Z": 2.641327
+            },
+            "Size": {
+              "X": 0.764475,
+              "Y": 0.129658,
+              "Z": 0.815303
+            }
+          }
+        },
+        {
+          "Index": 132,
+          "Name": "Chap03_MiniProp_Steak_01_Lod0 (1)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Steak_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": -2.317875,
+          "PosY": 16.88189,
+          "PosZ": -5.009674,
+          "RotY": 288.3566,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -2.317875,
+              "Y": 16.94502,
+              "Z": -5.009674
+            },
+            "Size": {
+              "X": 0.642783,
+              "Y": 0.129658,
+              "Z": 0.787175
+            }
+          }
+        },
+        {
+          "Index": 133,
+          "Name": "Chap03_MiniProp_Steak_01_Lod0",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Steak_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": -12.51299,
+          "PosY": 16.88189,
+          "PosZ": -7.282997,
+          "RotX": 2E-06,
+          "RotY": 270.4633,
+          "RotZ": 1E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -12.51299,
+              "Y": 16.94502,
+              "Z": -7.282997
+            },
+            "Size": {
+              "X": 0.457268,
+              "Y": 0.129658,
+              "Z": 0.6831
+            }
+          }
+        },
+        {
+          "Index": 134,
+          "Name": "Chap03_MiniProp_Pudding_01_Lod0",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Pudding_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": 12.59612,
+          "PosY": 16.88189,
+          "PosZ": 6.485725,
+          "RotX": 3E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 12.59612,
+              "Y": 16.99409,
+              "Z": 6.485725
+            },
+            "Size": {
+              "X": 0.156494,
+              "Y": 0.224396,
+              "Z": 0.156493
+            }
+          }
+        },
+        {
+          "Index": 135,
+          "Name": "Chap03_MiniProp_BlueberryPie_01_Lod0",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_BlueberryPie_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": 12.06901,
+          "PosY": 16.88189,
+          "PosZ": -7.533997,
+          "RotX": 3E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 12.07128,
+              "Y": 16.94074,
+              "Z": -7.5331
+            },
+            "Size": {
+              "X": 0.53023,
+              "Y": 0.112454,
+              "Z": 0.525052
+            }
+          }
+        },
+        {
+          "Index": 136,
+          "Name": "Chap03_MiniProp_Plate_01_Lod0",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Plate_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": 12.06901,
+          "PosY": 16.88189,
+          "PosZ": -7.533997,
+          "RotX": 3E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 12.06901,
+              "Y": 16.90019,
+              "Z": -7.533997
+            },
+            "Size": {
+              "X": 0.75761,
+              "Y": 0.036606,
+              "Z": 0.659122
+            }
+          }
+        },
+        {
+          "Index": 137,
+          "Name": "Chap03_MiniProp_BlueberryPie_01_Lod0 (1)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_BlueberryPie_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": 4.759121,
+          "PosY": 16.88189,
+          "PosZ": -2.488671,
+          "RotX": 3E-06,
+          "RotY": 180,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 4.756855,
+              "Y": 16.94074,
+              "Z": -2.489567
+            },
+            "Size": {
+              "X": 0.530231,
+              "Y": 0.112454,
+              "Z": 0.525052
+            }
+          }
+        },
+        {
+          "Index": 138,
+          "Name": "Chap03_MiniProp_Plate_01_Lod0 (1)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Plate_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": 4.759121,
+          "PosY": 16.88189,
+          "PosZ": -2.488671,
+          "RotX": 3E-06,
+          "RotY": 180,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 4.759121,
+              "Y": 16.90019,
+              "Z": -2.488671
+            },
+            "Size": {
+              "X": 0.75761,
+              "Y": 0.036606,
+              "Z": 0.659121
+            }
+          }
+        },
+        {
+          "Index": 139,
+          "Name": "Chap03_MiniProp_Pudding_01_Lod0 (1)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Pudding_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": 5.503124,
+          "PosY": 16.88189,
+          "PosZ": -1.902672,
+          "RotY": 180,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 5.503124,
+              "Y": 16.99409,
+              "Z": -1.902672
+            },
+            "Size": {
+              "X": 0.156493,
+              "Y": 0.224396,
+              "Z": 0.156494
+            }
+          }
+        },
+        {
+          "Index": 140,
+          "Name": "Chap03_MiniProp_BlueberryPie_01_Lod0 (1)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_BlueberryPie_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": 5.283123,
+          "PosY": 16.88189,
+          "PosZ": 2.700332,
+          "RotX": 3E-06,
+          "RotY": 180,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 5.280857,
+              "Y": 16.94074,
+              "Z": 2.699436
+            },
+            "Size": {
+              "X": 0.530231,
+              "Y": 0.112454,
+              "Z": 0.525052
+            }
+          }
+        },
+        {
+          "Index": 141,
+          "Name": "Chap03_MiniProp_Plate_01_Lod0 (1)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Plate_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": 5.283138,
+          "PosY": 16.88189,
+          "PosZ": 2.700332,
+          "RotX": 3E-06,
+          "RotY": 180,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 5.283138,
+              "Y": 16.90019,
+              "Z": 2.700332
+            },
+            "Size": {
+              "X": 0.75761,
+              "Y": 0.036606,
+              "Z": 0.659121
+            }
+          }
+        },
+        {
+          "Index": 142,
+          "Name": "Chap03_MiniProp_BlueberryPie_01_Lod0 (1)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_BlueberryPie_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": -4.652882,
+          "PosY": 16.88189,
+          "PosZ": 3.98333,
+          "RotX": 3E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -4.650616,
+              "Y": 16.94074,
+              "Z": 3.984226
+            },
+            "Size": {
+              "X": 0.53023,
+              "Y": 0.112454,
+              "Z": 0.525052
+            }
+          }
+        },
+        {
+          "Index": 143,
+          "Name": "Chap03_MiniProp_Plate_01_Lod0 (1)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Plate_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": -4.652882,
+          "PosY": 16.88189,
+          "PosZ": 3.98333,
+          "RotX": 3E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -4.652882,
+              "Y": 16.90019,
+              "Z": 3.98333
+            },
+            "Size": {
+              "X": 0.75761,
+              "Y": 0.036606,
+              "Z": 0.659121
+            }
+          }
+        },
+        {
+          "Index": 144,
+          "Name": "Chap03_MiniProp_BlueberryPie_01_Lod0 (1)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_BlueberryPie_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": -5.176884,
+          "PosY": 16.88189,
+          "PosZ": -1.205673,
+          "RotX": 3E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -5.174618,
+              "Y": 16.94074,
+              "Z": -1.204777
+            },
+            "Size": {
+              "X": 0.53023,
+              "Y": 0.112454,
+              "Z": 0.525052
+            }
+          }
+        },
+        {
+          "Index": 145,
+          "Name": "Chap03_MiniProp_Plate_01_Lod0 (1)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Plate_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": -5.176899,
+          "PosY": 16.88189,
+          "PosZ": -1.205673,
+          "RotX": 3E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -5.176899,
+              "Y": 16.90019,
+              "Z": -1.205673
+            },
+            "Size": {
+              "X": 0.75761,
+              "Y": 0.036606,
+              "Z": 0.659121
+            }
+          }
+        },
+        {
+          "Index": 146,
+          "Name": "Chap03_MiniProp_BlueberryPie_01_Lod0",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_BlueberryPie_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": -11.77388,
+          "PosY": 16.88189,
+          "PosZ": 6.749725,
+          "RotX": 3E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -11.77162,
+              "Y": 16.94074,
+              "Z": 6.750622
+            },
+            "Size": {
+              "X": 0.53023,
+              "Y": 0.112454,
+              "Z": 0.525052
+            }
+          }
+        },
+        {
+          "Index": 147,
+          "Name": "Chap03_MiniProp_Plate_01_Lod0",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Plate_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": -11.77388,
+          "PosY": 16.88189,
+          "PosZ": 6.749725,
+          "RotX": 3E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -11.77388,
+              "Y": 16.90019,
+              "Z": 6.749725
+            },
+            "Size": {
+              "X": 0.75761,
+              "Y": 0.036606,
+              "Z": 0.659122
+            }
+          }
+        },
+        {
+          "Index": 148,
+          "Name": "Chap03_MiniProp_Pudding_01_Lod0",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Pudding_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": 12.499,
+          "PosY": 16.87568,
+          "PosZ": -7.886993,
+          "RotY": 180,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 12.499,
+              "Y": 16.98788,
+              "Z": -7.886993
+            },
+            "Size": {
+              "X": 0.156494,
+              "Y": 0.224396,
+              "Z": 0.156493
+            }
+          }
+        },
+        {
+          "Index": 149,
+          "Name": "Chap03_MiniProp_Pudding_01_Lod0 (2)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Pudding_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": 11.318,
+          "PosY": 16.87568,
+          "PosZ": -6.590996,
+          "RotY": 180,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 11.318,
+              "Y": 16.98788,
+              "Z": -6.590996
+            },
+            "Size": {
+              "X": 0.156494,
+              "Y": 0.224396,
+              "Z": 0.156493
+            }
+          }
+        },
+        {
+          "Index": 150,
+          "Name": "Chap03_MiniProp_Pudding_01_Lod0 (3)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Pudding_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": 11.20201,
+          "PosY": 16.87568,
+          "PosZ": -8.327995,
+          "RotY": 180,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 11.20201,
+              "Y": 16.98788,
+              "Z": -8.327995
+            },
+            "Size": {
+              "X": 0.156494,
+              "Y": 0.224396,
+              "Z": 0.156494
+            }
+          }
+        },
+        {
+          "Index": 151,
+          "Name": "Chap03_MiniProp_Pudding_01_Lod0 (4)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_Pudding_01_Lod0.prefab",
+          "Active": 1,
+          "PosX": 12.85601,
+          "PosY": 16.87568,
+          "PosZ": -8.289993,
+          "RotY": 180,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 12.85601,
+              "Y": 16.98788,
+              "Z": -8.289993
+            },
+            "Size": {
+              "X": 0.156494,
+              "Y": 0.224396,
+              "Z": 0.156494
+            }
+          }
+        },
+        {
+          "Index": 152,
+          "Name": "Chap03_Grd_P101_Ground_02_Lod0",
+          "LayerName": "Landmark",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_Grd_P101_Ground_02_Lod0.prefab",
+          "Active": 1,
+          "PosX": 0.053112,
+          "PosY": 16.00189,
+          "PosZ": -2.406273,
+          "RotX": 3E-06,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 0.053049,
+              "Y": 16.00392,
+              "Z": -1.484907
+            },
+            "Size": {
+              "X": 30.79971,
+              "Y": 0.256001,
+              "Z": 37.84273
+            }
+          }
+        },
+        {
+          "Index": 153,
+          "Name": "Chap03_MiniProp_RailingStand_01a_Lod0",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_RailingStand_01a_Lod0.prefab",
+          "Active": 1,
+          "PosX": 0.08,
+          "PosY": 16.195,
+          "PosZ": -5.397,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -0.447622,
+              "Y": 16.7158,
+              "Z": -5.397
+            },
+            "Size": {
+              "X": 1.376762,
+              "Y": 1.041607,
+              "Z": 0.321519
+            }
+          }
+        },
+        {
+          "Index": 154,
+          "Name": "Chap03_MiniProp_RailingStand_01b_Lod0",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_RailingStand_01b_Lod0.prefab",
+          "Active": 1,
+          "PosX": -1.164,
+          "PosY": 16.195,
+          "PosZ": -5.397,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -1.164,
+              "Y": 16.7158,
+              "Z": -5.397
+            },
+            "Size": {
+              "X": 0.321519,
+              "Y": 1.041607,
+              "Z": 0.321519
+            }
+          }
+        },
+        {
+          "Index": 155,
+          "Name": "Chap03_MiniProp_RailingStand_01a_Lod0 (1)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_RailingStand_01a_Lod0.prefab",
+          "Active": 1,
+          "PosX": 1.325,
+          "PosY": 16.195,
+          "PosZ": -5.397,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 0.797379,
+              "Y": 16.7158,
+              "Z": -5.397
+            },
+            "Size": {
+              "X": 1.376762,
+              "Y": 1.041607,
+              "Z": 0.321519
+            }
+          }
+        },
+        {
+          "Index": 156,
+          "Name": "Chap03_MiniProp_RailingStand_01a_Lod0 (2)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_RailingStand_01a_Lod0.prefab",
+          "Active": 1,
+          "PosX": 0.056,
+          "PosY": 16.195,
+          "PosZ": 6.893,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -0.471622,
+              "Y": 16.7158,
+              "Z": 6.893
+            },
+            "Size": {
+              "X": 1.376762,
+              "Y": 1.041607,
+              "Z": 0.321519
+            }
+          }
+        },
+        {
+          "Index": 157,
+          "Name": "Chap03_MiniProp_RailingStand_01b_Lod0 (1)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_RailingStand_01b_Lod0.prefab",
+          "Active": 1,
+          "PosX": -1.188,
+          "PosY": 16.195,
+          "PosZ": 6.893,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": -1.188,
+              "Y": 16.7158,
+              "Z": 6.893
+            },
+            "Size": {
+              "X": 0.321519,
+              "Y": 1.041607,
+              "Z": 0.321519
+            }
+          }
+        },
+        {
+          "Index": 158,
+          "Name": "Chap03_MiniProp_RailingStand_01a_Lod0 (3)",
+          "LayerName": "StandAloneProp",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/Chap03_MiniProp_RailingStand_01a_Lod0.prefab",
+          "Active": 1,
+          "PosX": 1.301,
+          "PosY": 16.195,
+          "PosZ": 6.893,
+          "ScaleX": 1,
+          "ScaleY": 1,
+          "ScaleZ": 1,
+          "Bound": {
+            "Center": {
+              "X": 0.773379,
+              "Y": 16.7158,
+              "Z": 6.893
+            },
+            "Size": {
+              "X": 1.376762,
+              "Y": 1.041607,
+              "Z": 0.321519
+            }
+          }
+        },
+        {
+          "Index": 159,
+          "Name": "Chap03_Eff_Bubble_20",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Eff_Bubble_20.prefab",
+          "Active": 1,
+          "PosX": 0.044,
+          "PosY": 16.0605,
+          "PosZ": -0.97,
+          "ScaleX": 0.119231,
+          "ScaleY": 0.101892,
+          "ScaleZ": 0.119231,
+          "Bound": {
+            "Center": {
+              "X": 0.044,
+              "Y": 16.0605,
+              "Z": -0.97
+            },
+            "Size": {
+              "X": 0.238463,
+              "Y": 0.203785,
+              "Z": 0.238463
+            }
+          }
+        },
+        {
+          "Index": 160,
+          "Name": "Chap03_Eff_Bubble_20 (1)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Eff_Bubble_20.prefab",
+          "Active": 1,
+          "PosX": 0.212,
+          "PosY": 16.255,
+          "PosZ": -1.0964,
+          "ScaleX": 0.06976,
+          "ScaleY": 0.06976,
+          "ScaleZ": 0.06976,
+          "Bound": {
+            "Center": {
+              "X": 0.212,
+              "Y": 16.255,
+              "Z": -1.0964
+            },
+            "Size": {
+              "X": 0.13952,
+              "Y": 0.139519,
+              "Z": 0.13952
+            }
+          }
+        },
+        {
+          "Index": 161,
+          "Name": "Chap03_Eff_Bubble_20 (2)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Eff_Bubble_20.prefab",
+          "Active": 1,
+          "PosX": 0.131,
+          "PosY": 16.847,
+          "PosZ": -0.914,
+          "ScaleX": 0.030855,
+          "ScaleY": 0.030855,
+          "ScaleZ": 0.030855,
+          "Bound": {
+            "Center": {
+              "X": 0.131,
+              "Y": 16.847,
+              "Z": -0.914
+            },
+            "Size": {
+              "X": 0.061711,
+              "Y": 0.06171,
+              "Z": 0.061711
+            }
+          }
+        },
+        {
+          "Index": 162,
+          "Name": "Chap03_Eff_Bubble_20 (3)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Eff_Bubble_20.prefab",
+          "Active": 1,
+          "PosX": -0.232,
+          "PosY": 16.142,
+          "PosZ": 1.142,
+          "ScaleX": 0.109412,
+          "ScaleY": 0.0935,
+          "ScaleZ": 0.109412,
+          "Bound": {
+            "Center": {
+              "X": -0.232,
+              "Y": 16.142,
+              "Z": 1.142
+            },
+            "Size": {
+              "X": 0.218823,
+              "Y": 0.187,
+              "Z": 0.218823
+            }
+          }
+        },
+        {
+          "Index": 163,
+          "Name": "Chap03_Eff_Bubble_20 (4)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Eff_Bubble_20.prefab",
+          "Active": 1,
+          "PosX": -0.078,
+          "PosY": 16.413,
+          "PosZ": 1.038,
+          "ScaleX": 0.031901,
+          "ScaleY": 0.031611,
+          "ScaleZ": 0.033145,
+          "Bound": {
+            "Center": {
+              "X": -0.078,
+              "Y": 16.413,
+              "Z": 1.038
+            },
+            "Size": {
+              "X": 0.063803,
+              "Y": 0.063221,
+              "Z": 0.066289
+            }
+          }
+        },
+        {
+          "Index": 164,
+          "Name": "Chap03_Eff_Bubble_20 (5)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Eff_Bubble_20.prefab",
+          "Active": 1,
+          "PosX": -0.519,
+          "PosY": 16.3356,
+          "PosZ": 1.085,
+          "RotY": 260.5383,
+          "ScaleX": 0.066046,
+          "ScaleY": 0.065446,
+          "ScaleZ": 0.06862,
+          "Bound": {
+            "Center": {
+              "X": -0.519,
+              "Y": 16.3356,
+              "Z": 1.085
+            },
+            "Size": {
+              "X": 0.157087,
+              "Y": 0.13089,
+              "Z": 0.152855
+            }
+          }
+        },
+        {
+          "Index": 165,
+          "Name": "Chap03_Eff_Bubble_20 (6)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Eff_Bubble_20.prefab",
+          "Active": 1,
+          "PosX": 0.496,
+          "PosY": 16.064,
+          "PosZ": 0.05,
+          "ScaleX": 0.217596,
+          "ScaleY": 0.166833,
+          "ScaleZ": 0.217596,
+          "Bound": {
+            "Center": {
+              "X": 0.496,
+              "Y": 16.064,
+              "Z": 0.05
+            },
+            "Size": {
+              "X": 0.435193,
+              "Y": 0.333664,
+              "Z": 0.435193
+            }
+          }
+        },
+        {
+          "Index": 166,
+          "Name": "Chap03_Eff_Bubble_20 (7)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Eff_Bubble_20.prefab",
+          "Active": 1,
+          "PosX": 0.329,
+          "PosY": 16.272,
+          "PosZ": 0.157,
+          "ScaleX": 0.12841,
+          "ScaleY": 0.12841,
+          "ScaleZ": 0.12841,
+          "Bound": {
+            "Center": {
+              "X": 0.329,
+              "Y": 16.272,
+              "Z": 0.157
+            },
+            "Size": {
+              "X": 0.25682,
+              "Y": 0.256821,
+              "Z": 0.25682
+            }
+          }
+        },
+        {
+          "Index": 167,
+          "Name": "Chap03_Eff_Bubble_20 (8)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Eff_Bubble_20.prefab",
+          "Active": 1,
+          "PosX": 0.453,
+          "PosY": 16.548,
+          "PosZ": 0.157,
+          "ScaleX": 0.056639,
+          "ScaleY": 0.056639,
+          "ScaleZ": 0.056639,
+          "Bound": {
+            "Center": {
+              "X": 0.453,
+              "Y": 16.548,
+              "Z": 0.157
+            },
+            "Size": {
+              "X": 0.113279,
+              "Y": 0.113277,
+              "Z": 0.113279
+            }
+          }
+        },
+        {
+          "Index": 168,
+          "Name": "Chap03_Eff_Bubble_20 (9)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Eff_Bubble_20.prefab",
+          "Active": 1,
+          "PosX": 1.529,
+          "PosY": 16.127,
+          "PosZ": 0.046,
+          "ScaleX": 0.093264,
+          "ScaleY": 0.079701,
+          "ScaleZ": 0.093264,
+          "Bound": {
+            "Center": {
+              "X": 1.529,
+              "Y": 16.127,
+              "Z": 0.046
+            },
+            "Size": {
+              "X": 0.186528,
+              "Y": 0.159401,
+              "Z": 0.186528
+            }
+          }
+        },
+        {
+          "Index": 169,
+          "Name": "Chap03_Eff_Bubble_20 (10)",
+          "LayerName": "Prop",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Eff_Bubble_20.prefab",
+          "Active": 1,
+          "PosX": 1.375,
+          "PosY": 16.352,
+          "PosZ": -0.16,
+          "ScaleX": 0.060441,
+          "ScaleY": 0.051651,
+          "ScaleZ": 0.060441,
+          "Bound": {
+            "Center": {
+              "X": 1.375,
+              "Y": 16.352,
+              "Z": -0.16
+            },
+            "Size": {
+              "X": 0.120882,
+              "Y": 0.103302,
+              "Z": 0.120882
+            }
+          }
+        },
+        {
+          "Index": 170,
+          "Name": "Chap03_Eff_Bubble_20 (11)",
+          "LayerName": "Landmark",
+          "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_Eff_Bubble_20.prefab",
+          "Active": 1,
+          "PosX": 0.344,
+          "PosY": 15.952,
+          "PosZ": 0.648,
+          "ScaleX": 3.066725,
+          "ScaleY": 0.068318,
+          "ScaleZ": 3.101423,
+          "Bound": {
+            "Center": {
+              "X": 0.344,
+              "Y": 15.952,
+              "Z": 0.648
+            },
+            "Size": {
+              "X": 6.13345,
+              "Y": 0.136635,
+              "Z": 6.202847
+            }
+          }
+        }
+      ],
+      "Name": "Chap03_Polymer_MAZ_P101_J_01_Polymer",
+      "LayerName": "PersistentLevel",
+      "AssetPath": "Stages/Outputs/Chapter03/Polymers/Chap03_Polymer_MAZ_P101_J_01_Polymer_Runtime.prefab",
+      "Active": 1,
+      "ScaleX": 1,
+      "ScaleY": 1,
+      "ScaleZ": 1,
+      "Bound": {
+        "Center": {
+          "X": 0.053049,
+          "Y": 27.69891,
+          "Z": -1.484907
+        },
+        "Size": {
+          "X": 30.79971,
+          "Y": 23.64597,
+          "Z": 37.84273
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,843 @@
+{
+  "FloorID": 43003001,
+  "FloorName": "FloorName_43003001",
+  "StartGroupID": 1,
+  "StartAnchorID": 1,
+  "GroupList": [
+    {
+      "GroupGUID": "b1f9ed1e-4f02-4df6-9a6c-dd46c8eddf36",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43003_F43003001/LevelGroup_P43003_F43003001_G1.json",
+      "Name": "DefaultGroup",
+      "ID": 1
+    },
+    {
+      "GroupGUID": "3f91e99e-4478-461d-b6ee-cd43dcf7ee80",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43003_F43003001/LevelGroup_P43003_F43003001_G2.json",
+      "Name": "MainMission2000903_01",
+      "ID": 2
+    },
+    {
+      "GroupGUID": "1b786c46-fdfe-4d23-87e5-6ee700984776",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43003_F43003001/LevelGroup_P43003_F43003001_G14.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission2000903_13",
+      "ID": 14,
+      "IsDelete": true
+    },
+    {
+      "GroupGUID": "80f38fb6-ab04-41be-acbf-25b3436feda6",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43003_F43003001/LevelGroup_P43003_F43003001_G3.json",
+      "Name": "MainMission2000903_02",
+      "ID": 3
+    },
+    {
+      "GroupGUID": "9504c6a6-9bad-4b73-a9db-93d2c5d1e1f3",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43003_F43003001/LevelGroup_P43003_F43003001_G4.json",
+      "Name": "MainMission2000903_03",
+      "ID": 4
+    },
+    {
+      "GroupGUID": "36c0c86a-44b6-4fca-b344-20a0ef5fa776",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43003_F43003001/LevelGroup_P43003_F43003001_G5.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission2000903_04",
+      "ID": 5
+    },
+    {
+      "GroupGUID": "7b3206ec-c0df-407a-a57b-3021e294b1da",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43003_F43003001/LevelGroup_P43003_F43003001_G6.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission2000903_06",
+      "ID": 6
+    },
+    {
+      "GroupGUID": "b0c8b897-6994-4694-be17-78e0f3553670",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43003_F43003001/LevelGroup_P43003_F43003001_G7.json",
+      "Name": "MainMission2000903_06",
+      "ID": 7
+    },
+    {
+      "GroupGUID": "d8b3e224-2f4e-40b1-a65c-e56fef7143ab",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43003_F43003001/LevelGroup_P43003_F43003001_G8.json",
+      "Name": "MainMission2000903_07",
+      "ID": 8
+    },
+    {
+      "GroupGUID": "7af8cfb0-118f-46e4-892b-9c14d419dd36",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43003_F43003001/LevelGroup_P43003_F43003001_G9.json",
+      "Name": "MainMission2000903_08",
+      "ID": 9
+    },
+    {
+      "GroupGUID": "9d5d81ee-33a0-47d8-b893-b07c9f82fe67",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43003_F43003001/LevelGroup_P43003_F43003001_G10.json",
+      "Name": "MainMission2000903_09",
+      "ID": 10
+    },
+    {
+      "GroupGUID": "713ffc68-bb6f-498e-9c5d-15cb8da59017",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43003_F43003001/LevelGroup_P43003_F43003001_G11.json",
+      "Name": "MainMission2000903_10",
+      "ID": 11
+    },
+    {
+      "GroupGUID": "bc4d7ef9-ae57-41c2-8c4a-125f433bce06",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43003_F43003001/LevelGroup_P43003_F43003001_G12.json",
+      "Name": "MainMission2000903_11",
+      "ID": 12
+    },
+    {
+      "GroupGUID": "e2a51cda-a67b-4eb7-908c-ad38e004ee4a",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43003_F43003001/LevelGroup_P43003_F43003001_G13.json",
+      "Name": "MainMission2000903_12",
+      "ID": 13
+    },
+    {
+      "GroupGUID": "fcc5ea57-db6b-470e-8a4d-66f89b638ba3",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43003_F43003001/LevelGroup_P43003_F43003001_G15.json",
+      "Name": "MainMission2000903_13",
+      "ID": 15
+    },
+    {
+      "GroupGUID": "894917ea-7c1a-4ad6-9180-403a1ddfccb4",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43003_F43003001/LevelGroup_P43003_F43003001_G16.json",
+      "Name": "MainMission2000903_14",
+      "ID": 16
+    },
+    {
+      "GroupGUID": "3c4993db-0dfa-4d8c-b895-90c4408fe926",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43003_F43003001/LevelGroup_P43003_F43003001_G17.json",
+      "Name": "New Group",
+      "ID": 17
+    },
+    {
+      "GroupGUID": "e8c994ff-cbe7-40d8-83d4-7e8ea69b455c",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43003_F43003001/LevelGroup_P43003_F43003001_G18.json",
+      "Name": "MainMission2000903_15",
+      "ID": 18
+    },
+    {
+      "GroupGUID": "25bfaee6-5f19-476c-9c4d-764f945e5467",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43003_F43003001/LevelGroup_P43003_F43003001_G19.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission2000903_01",
+      "ID": 19
+    },
+    {
+      "GroupGUID": "7c9521f4-ef68-46f7-be16-35d10bc67e74",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43003_F43003001/LevelGroup_P43003_F43003001_G20.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission2000903_01",
+      "ID": 20
+    },
+    {
+      "GroupGUID": "349d79a7-d30a-4e28-9af2-05b059cc79e2",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43003_F43003001/LevelGroup_P43003_F43003001_G21.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission2000903_01",
+      "ID": 21
+    },
+    {
+      "GroupGUID": "77253b01-0d4b-4932-888a-b007193cde3a",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43003_F43003001/LevelGroup_P43003_F43003001_G22.json",
+      "Name": "MainMission2000903_01",
+      "ID": 22
+    },
+    {
+      "GroupGUID": "2072eff5-0b97-49ec-b183-50fcb5080377",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43003_F43003001/LevelGroup_P43003_F43003001_G23.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission2000903_01",
+      "ID": 23
+    },
+    {
+      "GroupGUID": "4e003344-4a9a-471f-a2f8-fc330243561e",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43003_F43003001/LevelGroup_P43003_F43003001_G24.json",
+      "Name": "MainMission2000903_01",
+      "ID": 24
+    },
+    {
+      "GroupGUID": "b235caf0-e28b-414e-a883-81472857b488",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43003_F43003001/LevelGroup_P43003_F43003001_G25.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission2000903_01",
+      "ID": 25
+    },
+    {
+      "GroupGUID": "3acd77c0-d6b3-4492-8681-911ea135c394",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43003_F43003001/LevelGroup_P43003_F43003001_G27.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "Monster",
+      "ID": 27
+    },
+    {
+      "GroupGUID": "d5220eb2-4af3-49f6-9705-943cbea03293",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43003_F43003001/LevelGroup_P43003_F43003001_G29.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "N4Gate Group",
+      "ID": 29
+    },
+    {
+      "GroupGUID": "de41dce1-9aaf-409d-9e0c-8b11493f7d89",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43003_F43003001/LevelGroup_P43003_F43003001_G32.json",
+      "Name": "BlockStateSave",
+      "ID": 32
+    },
+    {
+      "GroupGUID": "b1a44b91-5182-4d51-9d20-462f4dc3ee27",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43003_F43003001/LevelGroup_P43003_F43003001_G33.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "LockedDoor",
+      "ID": 33
+    },
+    {
+      "GroupGUID": "ae6541fa-51a9-4453-9a54-3e665e865031",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43003_F43003001/LevelGroup_P43003_F43003001_G34.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission2001001_CentralElevator",
+      "ID": 34
+    },
+    {
+      "GroupGUID": "afabe221-07c9-4ebe-b492-28366fbc5c9b",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43003_F43003001/LevelGroup_P43003_F43003001_G36.json",
+      "Name": "1FPolymer",
+      "ID": 36
+    },
+    {
+      "GroupGUID": "fafff824-0f7a-4440-a0d9-530c0c68ccf6",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43003_F43003001/LevelGroup_P43003_F43003001_G37.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "HPMP",
+      "ID": 37
+    },
+    {
+      "GroupGUID": "066100ee-f350-47c6-a741-868df556550d",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43003_F43003001/LevelGroup_P43003_F43003001_G38.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "Anchor",
+      "ID": 38
+    },
+    {
+      "GroupGUID": "81ced609-72ed-4b05-affe-1c861bba6948",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43003_F43003001/LevelGroup_P43003_F43003001_G39.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "DefaultGroup",
+      "ID": 39,
+      "IsDelete": true
+    },
+    {
+      "GroupGUID": "c6d35441-8ef0-4bc5-9231-e0834a8916ec",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43003_F43003001/LevelGroup_P43003_F43003001_G40.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "Sound",
+      "ID": 40
+    },
+    {
+      "GroupGUID": "b44bbad4-7b1a-451c-8bd4-a8269f151c52",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P43003_F43003001/LevelGroup_P43003_F43003001_G41.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission2000903_03",
+      "ID": 41
+    }
+  ],
+  "DefaultEnviroProfile": "Stages/Outputs/Chapter00/EnviroProfile/Chap00_CloseView_MAZ_N401_01_Day.enviroProfile.asset",
+  "StageData": "Stages/Outputs/Chapter00/Stages/Chap00_MAZ_N401_MainLine_01_StageData/Chap00_MAZ_N401_MainLine_01_StageData.stage",
+  "NavMesh": "Level/NavMesh/NavMesh-Floor_20004001.asset",
+  "MinimapVolumeData": {
+    "Center": {
+      "X": -3.42,
+      "Y": 480.5244,
+      "Z": -17.5
+    },
+    "Size": {
+      "X": 220,
+      "Y": 787.7,
+      "Z": 250
+    },
+    "SectionVertices": [
+      {
+        "X": -61.33333,
+        "Y": 42.65873
+      },
+      {
+        "X": 58,
+        "Y": 42.65873
+      },
+      {
+        "X": 58,
+        "Y": -38.02911
+      },
+      {
+        "X": -61.33333,
+        "Y": -38.02911
+      },
+      {
+        "X": -102.6667,
+        "Y": 41.33597
+      },
+      {
+        "X": -32.33334,
+        "Y": 41.33597
+      },
+      {
+        "X": -32.33334,
+        "Y": -39.68254
+      },
+      {
+        "X": -102.6667,
+        "Y": -39.68254
+      },
+      {
+        "X": 30.66666,
+        "Y": -39.68254
+      },
+      {
+        "X": 30.66666,
+        "Y": -121.0317
+      },
+      {
+        "X": -102.6667,
+        "Y": -121.0317
+      },
+      {
+        "X": 30.66666,
+        "Y": 41.33597
+      },
+      {
+        "X": 96,
+        "Y": 41.33597
+      },
+      {
+        "X": 96,
+        "Y": -121.0317
+      },
+      {
+        "X": 96,
+        "Y": 122.0238
+      },
+      {
+        "X": 2.999997,
+        "Y": 122.0238
+      },
+      {
+        "X": 2.999997,
+        "Y": 41.33597
+      },
+      {
+        "X": -102.6667,
+        "Y": 122.0238
+      },
+      {
+        "X": -103.6667,
+        "Y": 64.8148
+      },
+      {
+        "X": 103.3333,
+        "Y": 64.8148
+      },
+      {
+        "X": 103.3333,
+        "Y": -41.66667
+      },
+      {
+        "X": -103.6667,
+        "Y": -41.66667
+      }
+    ],
+    "Atlas": "UI/Atlas/AtlasFiles/Minimap/Minimap_20004001.spriteatlas",
+    "Sections": [
+      {
+        "ID": 6,
+        "MapLayerID": 1,
+        "Sprite": "UI/Atlas/AtlasRoot/Minimap/Minimap_20004001/MinimapSection_20004001_6.png",
+        "IsRect": true,
+        "Indices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "UIPosition": {
+          "X": 146,
+          "Y": 263
+        },
+        "Triangles": [
+          {
+            "X": 0.221212,
+            "Y": 0.670635
+          },
+          {
+            "X": 0.221212,
+            "Y": 0.347884
+          },
+          {
+            "X": 0.763636,
+            "Y": 0.347884
+          },
+          {
+            "X": 0.221212,
+            "Y": 0.670635
+          },
+          {
+            "X": 0.763636,
+            "Y": 0.347884
+          },
+          {
+            "X": 0.763636,
+            "Y": 0.670635
+          }
+        ]
+      },
+      {
+        "ID": 1,
+        "MapLayerID": 2,
+        "Sprite": "UI/Atlas/AtlasRoot/Minimap/Minimap_20004001/MinimapSection_20004001_1.png",
+        "IsRect": true,
+        "Indices": [
+          4,
+          5,
+          6,
+          7
+        ],
+        "UIPosition": {
+          "X": 22,
+          "Y": 258
+        },
+        "Triangles": [
+          {
+            "X": 0.033333,
+            "Y": 0.665344
+          },
+          {
+            "X": 0.033333,
+            "Y": 0.34127
+          },
+          {
+            "X": 0.35303,
+            "Y": 0.34127
+          },
+          {
+            "X": 0.033333,
+            "Y": 0.665344
+          },
+          {
+            "X": 0.35303,
+            "Y": 0.34127
+          },
+          {
+            "X": 0.35303,
+            "Y": 0.665344
+          }
+        ]
+      },
+      {
+        "ID": 2,
+        "MapLayerID": 2,
+        "Sprite": "UI/Atlas/AtlasRoot/Minimap/Minimap_20004001/MinimapSection_20004001_2.png",
+        "IsRect": true,
+        "Indices": [
+          7,
+          8,
+          9,
+          10
+        ],
+        "UIPosition": {
+          "X": 22,
+          "Y": 12
+        },
+        "Triangles": [
+          {
+            "X": 0.033333,
+            "Y": 0.34127
+          },
+          {
+            "X": 0.033333,
+            "Y": 0.015873
+          },
+          {
+            "X": 0.639394,
+            "Y": 0.015873
+          },
+          {
+            "X": 0.033333,
+            "Y": 0.34127
+          },
+          {
+            "X": 0.639394,
+            "Y": 0.015873
+          },
+          {
+            "X": 0.639394,
+            "Y": 0.34127
+          }
+        ]
+      },
+      {
+        "ID": 3,
+        "MapLayerID": 2,
+        "Sprite": "UI/Atlas/AtlasRoot/Minimap/Minimap_20004001/MinimapSection_20004001_3.png",
+        "IsRect": true,
+        "Indices": [
+          9,
+          11,
+          12,
+          13
+        ],
+        "UIPosition": {
+          "X": 422,
+          "Y": 12
+        },
+        "Triangles": [
+          {
+            "X": 0.639394,
+            "Y": 0.015873
+          },
+          {
+            "X": 0.936364,
+            "Y": 0.015873
+          },
+          {
+            "X": 0.787879,
+            "Y": 0.340609
+          },
+          {
+            "X": 0.787879,
+            "Y": 0.340609
+          },
+          {
+            "X": 0.936364,
+            "Y": 0.340609
+          },
+          {
+            "X": 0.936364,
+            "Y": 0.665344
+          },
+          {
+            "X": 0.787879,
+            "Y": 0.340609
+          },
+          {
+            "X": 0.936364,
+            "Y": 0.015873
+          },
+          {
+            "X": 0.936364,
+            "Y": 0.340609
+          },
+          {
+            "X": 0.639394,
+            "Y": 0.015873
+          },
+          {
+            "X": 0.787879,
+            "Y": 0.340609
+          },
+          {
+            "X": 0.639394,
+            "Y": 0.340609
+          },
+          {
+            "X": 0.639394,
+            "Y": 0.340609
+          },
+          {
+            "X": 0.787879,
+            "Y": 0.340609
+          },
+          {
+            "X": 0.639394,
+            "Y": 0.665344
+          },
+          {
+            "X": 0.787879,
+            "Y": 0.340609
+          },
+          {
+            "X": 0.936364,
+            "Y": 0.665344
+          },
+          {
+            "X": 0.639394,
+            "Y": 0.665344
+          }
+        ]
+      },
+      {
+        "ID": 4,
+        "MapLayerID": 2,
+        "Sprite": "UI/Atlas/AtlasRoot/Minimap/Minimap_20004001/MinimapSection_20004001_4.png",
+        "IsRect": true,
+        "Indices": [
+          12,
+          16,
+          15,
+          14
+        ],
+        "UIPosition": {
+          "X": 339,
+          "Y": 503
+        },
+        "Triangles": [
+          {
+            "X": 0.936364,
+            "Y": 0.665344
+          },
+          {
+            "X": 0.936364,
+            "Y": 0.988095
+          },
+          {
+            "X": 0.513636,
+            "Y": 0.988095
+          },
+          {
+            "X": 0.936364,
+            "Y": 0.665344
+          },
+          {
+            "X": 0.513636,
+            "Y": 0.988095
+          },
+          {
+            "X": 0.513636,
+            "Y": 0.665344
+          }
+        ]
+      },
+      {
+        "ID": 5,
+        "MapLayerID": 2,
+        "Sprite": "UI/Atlas/AtlasRoot/Minimap/Minimap_20004001/MinimapSection_20004001_5.png",
+        "IsRect": true,
+        "Indices": [
+          4,
+          16,
+          15,
+          17
+        ],
+        "UIPosition": {
+          "X": 22,
+          "Y": 503
+        },
+        "Triangles": [
+          {
+            "X": 0.033333,
+            "Y": 0.988095
+          },
+          {
+            "X": 0.033333,
+            "Y": 0.665344
+          },
+          {
+            "X": 0.513636,
+            "Y": 0.665344
+          },
+          {
+            "X": 0.033333,
+            "Y": 0.988095
+          },
+          {
+            "X": 0.513636,
+            "Y": 0.665344
+          },
+          {
+            "X": 0.513636,
+            "Y": 0.988095
+          }
+        ]
+      },
+      {
+        "MapLayerID": 3,
+        "Sprite": "UI/Atlas/AtlasRoot/Minimap/Minimap_20004001/MinimapSection_20004001_0.png",
+        "IsRect": true,
+        "Indices": [
+          18,
+          19,
+          20,
+          21
+        ],
+        "UIPosition": {
+          "X": 19,
+          "Y": 252
+        },
+        "Triangles": [
+          {
+            "X": 0.028788,
+            "Y": 0.759259
+          },
+          {
+            "X": 0.028788,
+            "Y": 0.333333
+          },
+          {
+            "X": 0.499242,
+            "Y": 0.546296
+          },
+          {
+            "X": 0.499242,
+            "Y": 0.546296
+          },
+          {
+            "X": 0.499242,
+            "Y": 0.333333
+          },
+          {
+            "X": 0.969697,
+            "Y": 0.333333
+          },
+          {
+            "X": 0.499242,
+            "Y": 0.546296
+          },
+          {
+            "X": 0.028788,
+            "Y": 0.333333
+          },
+          {
+            "X": 0.499242,
+            "Y": 0.333333
+          },
+          {
+            "X": 0.028788,
+            "Y": 0.759259
+          },
+          {
+            "X": 0.499242,
+            "Y": 0.546296
+          },
+          {
+            "X": 0.499242,
+            "Y": 0.759259
+          },
+          {
+            "X": 0.499242,
+            "Y": 0.759259
+          },
+          {
+            "X": 0.499242,
+            "Y": 0.546296
+          },
+          {
+            "X": 0.969697,
+            "Y": 0.759259
+          },
+          {
+            "X": 0.499242,
+            "Y": 0.546296
+          },
+          {
+            "X": 0.969697,
+            "Y": 0.333333
+          },
+          {
+            "X": 0.969697,
+            "Y": 0.759259
+          }
+        ]
+      }
+    ],
+    "BackgroundMapSprite": "SpriteOutput/MapPics/Minimap/Minimap_Chap00_MAZ_N4_Background.png",
+    "RoadMapSpriteDict": {
+      "3": "SpriteOutput/MapPics/Minimap/Minimap_Chap00_MAZ_N4_Road_3.png",
+      "2": "SpriteOutput/MapPics/Minimap/Minimap_Chap00_MAZ_N4_Road_2.png",
+      "1": "SpriteOutput/MapPics/Minimap/Minimap_Chap00_MAZ_N4_Road_1.png"
+    },
+    "ItemSpriteDict": {}
+  },
+  "TimeOfDayEnviroProfileMap": {},
+  "LayerToAreaMask": [
+    8,
+    16,
+    32
+  ],
+  "FloorCustomData": {
+    "SavedValues": [
+      {
+        "ID": 1,
+        "Name": "BlockStateSave",
+        "DefaultValue": 1,
+        "AllowedValues": [
+          0,
+          1
+        ],
+        "MaxValue": 1
+      },
+      {
+        "ID": 2,
+        "Name": "DoorController_DR_Ratio",
+        "AllowedValues": [
+          0,
+          1
+        ],
+        "MaxValue": 1
+      },
+      {
+        "ID": 3,
+        "Name": "DoorController_Ruanmei",
+        "AllowedValues": [
+          0,
+          1
+        ],
+        "MaxValue": 1
+      },
+      {
+        "ID": 4,
+        "Name": "DoorController_CenterControll",
+        "AllowedValues": [
+          0,
+          1
+        ],
+        "MaxValue": 1
+      },
+      {
+        "ID": 5,
+        "Name": "Polymer_Throne",
+        "AllowedValues": [
+          0,
+          1
+        ],
+        "MaxValue": 1
+      }
+    ]
+  },
+  "BattleAreaList": [],
+  "DimensionList": [
+    {}
+  ],
+  "EnableGroupStreaming": false,
+  "EnableGroupSpaceConflict": false
+}

@@ -1,0 +1,2134 @@
+{
+  "FloorID": 10305001,
+  "FloorName": "FloorName_10305001",
+  "StartGroupID": 2,
+  "StartAnchorID": 1,
+  "GroupList": [
+    {
+      "GroupGUID": "27601a1c-1fc2-4c64-bcd9-90079b312b6b",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G2.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "DefaultGroup",
+      "ID": 2
+    },
+    {
+      "GroupGUID": "3d26306d-ba06-43ed-9496-81c99430eb6c",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G31.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "Anchor",
+      "ID": 31
+    },
+    {
+      "GroupGUID": "ee5d77f6-d738-4f79-be74-f83c7c2c8840",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G83.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "Entrance_01",
+      "ID": 83
+    },
+    {
+      "GroupGUID": "3f3fc24a-b1ac-4875-99bc-5f274b716915",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G9.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "Entrance_02",
+      "ID": 9
+    },
+    {
+      "GroupGUID": "eb989a99-e940-46d2-a0ac-fe6f20d63363",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G33.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "Entrance_03",
+      "ID": 33
+    },
+    {
+      "GroupGUID": "d2e6c949-616c-4b4e-adf3-63ace1830447",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G10.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "Teleport_Elev",
+      "ID": 10
+    },
+    {
+      "GroupGUID": "91d1f200-c397-4afc-94c5-87d023422256",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G8.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "Chest",
+      "ID": 8
+    },
+    {
+      "GroupGUID": "dfab898c-0bf9-480e-aab7-ff63f47a9beb",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G12.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "Camera01",
+      "ID": 12
+    },
+    {
+      "GroupGUID": "cc6b215a-eec6-4cfb-871c-b1db70eb44d6",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G13.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "Camera02",
+      "ID": 13
+    },
+    {
+      "GroupGUID": "00e530c5-50d3-410e-bad8-f55e411250ac",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G14.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "Camera03",
+      "ID": 14
+    },
+    {
+      "GroupGUID": "1b296833-5715-4105-8b70-b837e8573d17",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G15.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "Camera04",
+      "ID": 15
+    },
+    {
+      "GroupGUID": "c01d8830-6518-44fe-9bd9-a986e56c1883",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G92.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "BlockLine",
+      "ID": 92
+    },
+    {
+      "GroupGUID": "72d5ddea-b3ed-48b5-9f52-d47ecb6dd0bb",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G62.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "JazzBand",
+      "ID": 62
+    },
+    {
+      "GroupGUID": "9e930799-7650-4e9a-ae29-f60acd84cc26",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G3.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "NPC",
+      "ID": 3
+    },
+    {
+      "GroupGUID": "29e6ca3b-6d78-48e7-b471-5f9e8d0e4827",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G4.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "Crowd",
+      "ID": 4
+    },
+    {
+      "GroupGUID": "64a73c56-ae58-428a-9d1b-9ec99d963f53",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G5.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "Traffic",
+      "ID": 5
+    },
+    {
+      "GroupGUID": "ba8e237a-ed88-437b-9135-9cdc56b8f4b5",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G6.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "Find",
+      "ID": 6
+    },
+    {
+      "GroupGUID": "7f1da45f-a10c-479c-a734-8cea7cf2c952",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G61.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "Door",
+      "ID": 61
+    },
+    {
+      "GroupGUID": "e1e18352-7454-4862-a439-2c9b84af7d11",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G72.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "Door",
+      "ID": 72
+    },
+    {
+      "GroupGUID": "c2dd4184-cb7e-4666-8e5c-8f0807346dc8",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G73.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "Door",
+      "ID": 73
+    },
+    {
+      "GroupGUID": "b0d8e569-4186-4edf-9a0b-d79534876a18",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G74.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "Door",
+      "ID": 74
+    },
+    {
+      "GroupGUID": "ef171a7a-d6cd-4427-af07-aa6e31bd4c9c",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G16.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission1030201_01",
+      "ID": 16
+    },
+    {
+      "GroupGUID": "3cda5b19-3c44-49f2-906c-746f7d1f25d4",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G17.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission1030201_02",
+      "ID": 17
+    },
+    {
+      "GroupGUID": "f8db8266-afa4-4336-9701-3322873c2519",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G18.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission1030201_04",
+      "ID": 18
+    },
+    {
+      "GroupGUID": "54b2af82-34da-44c9-9031-58da102cc7ca",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G19.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission1030201_06",
+      "ID": 19
+    },
+    {
+      "GroupGUID": "91bcd92c-3398-4eac-b7f1-78a0a7f8aaf4",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G20.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission2030001_04",
+      "ID": 20
+    },
+    {
+      "GroupGUID": "c1a8868e-41a5-4279-b75f-751f7081ad4d",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G21.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "NPC",
+      "ID": 21
+    },
+    {
+      "GroupGUID": "97f5fd40-4448-4308-b259-3686d74c5408",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G22.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "NPC",
+      "ID": 22
+    },
+    {
+      "GroupGUID": "9aad19b2-7852-43a5-ad5f-7556f10a75f6",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G70.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission4240304_New Group",
+      "ID": 70
+    },
+    {
+      "GroupGUID": "b0d49bb8-ae67-4cdd-aa16-80d521584549",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G24.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission0_NPC",
+      "ID": 24
+    },
+    {
+      "GroupGUID": "1befc570-1426-4eb0-a9d0-d52e32f93ab0",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G25.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "NPC",
+      "ID": 25
+    },
+    {
+      "GroupGUID": "07f841b9-0b11-4bd8-93d3-0ee5e9a1c957",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G26.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission1030201_10",
+      "ID": 26
+    },
+    {
+      "GroupGUID": "d87cc695-1707-49f2-96b4-16664d115492",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G28.json",
+      "Name": "NPC",
+      "ID": 28
+    },
+    {
+      "GroupGUID": "a7788768-87ca-4f3a-9991-3d167c4edc2d",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G29.json",
+      "Name": "Crowd",
+      "ID": 29
+    },
+    {
+      "GroupGUID": "3f3ad256-4c56-4f44-9e67-dfb8e7b81faa",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G30.json",
+      "Name": "Find",
+      "ID": 30
+    },
+    {
+      "GroupGUID": "b63e1ed6-b20a-4523-a24e-b5f5f9638dd4",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G34.json",
+      "Name": "MainMission1030201_07",
+      "ID": 34
+    },
+    {
+      "GroupGUID": "61d7e627-7cd8-4599-9ae0-90bb4b5b1921",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G35.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission1030201_08",
+      "ID": 35
+    },
+    {
+      "GroupGUID": "abcf9d7f-087c-4dcd-9756-b57822c2cc33",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G36.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission1030201_09",
+      "ID": 36
+    },
+    {
+      "GroupGUID": "b26ae539-0fa1-49b9-82f0-07c55332fdc5",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G37.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission1030201_09",
+      "ID": 37
+    },
+    {
+      "GroupGUID": "bd4f5b70-9021-4d45-9952-4c094f8ea005",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G38.json",
+      "Name": "MainMission1030201_08",
+      "ID": 38
+    },
+    {
+      "GroupGUID": "1da3c7f5-7fdd-41da-b934-68e805ac1e2b",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G39.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission1030201_15",
+      "ID": 39
+    },
+    {
+      "GroupGUID": "4eb47428-34ab-4037-bc3b-2b4d67be5a6e",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G40.json",
+      "Name": "MainMission1030601_01",
+      "ID": 40
+    },
+    {
+      "GroupGUID": "6bb8218d-ca01-4b0a-aba5-d4535128a241",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G41.json",
+      "Name": "MainMission1030601_02",
+      "ID": 41
+    },
+    {
+      "GroupGUID": "7e33d0be-565f-44c6-ab6a-5d241354805d",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G42.json",
+      "Name": "MainMission2030001_09",
+      "ID": 42
+    },
+    {
+      "GroupGUID": "7e3e833f-8f4e-46d6-afa6-71e80b352165",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G43.json",
+      "Name": "MainMission2030001_10",
+      "ID": 43
+    },
+    {
+      "GroupGUID": "f21be896-b5e5-45b4-9782-7d35cb70815e",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G44.json",
+      "Name": "MainMission2030001_11",
+      "ID": 44
+    },
+    {
+      "GroupGUID": "a579f707-30a2-4583-a5c9-d18bc95110d7",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G45.json",
+      "Name": "MainMission1030501_36",
+      "ID": 45
+    },
+    {
+      "GroupGUID": "c89843d7-2473-4081-91f0-e862c6366472",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G46.json",
+      "Name": "MainMission2021803_02",
+      "ID": 46
+    },
+    {
+      "GroupGUID": "b49bf016-99da-4382-ae75-28fb23ad279f",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G47.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "NPC",
+      "ID": 47
+    },
+    {
+      "GroupGUID": "2dd1a757-df86-45d1-b9e3-3687942aeafa",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G48.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "NPC",
+      "ID": 48
+    },
+    {
+      "GroupGUID": "63f8783b-84db-4fae-a4a4-c43b37936c6a",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G49.json",
+      "Name": "NPC",
+      "ID": 49
+    },
+    {
+      "GroupGUID": "6c020bff-c579-460e-bf60-a23414ba1b78",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G50.json",
+      "Name": "NPC",
+      "ID": 50
+    },
+    {
+      "GroupGUID": "426bfd32-f3e9-46e0-b40d-537b1e581602",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G51.json",
+      "Name": "NPC",
+      "ID": 51
+    },
+    {
+      "GroupGUID": "84e047a9-99c4-489e-92fd-a3bdf97f107e",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G52.json",
+      "Name": "NPC",
+      "ID": 52
+    },
+    {
+      "GroupGUID": "04b0ea5f-c1d0-4871-9335-f31bbe90d87b",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G53.json",
+      "Name": "NPC",
+      "ID": 53
+    },
+    {
+      "GroupGUID": "18574712-fabc-4b9f-86f1-fb142cd25f7e",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G55.json",
+      "Name": "MainMission1030601_32",
+      "ID": 55
+    },
+    {
+      "GroupGUID": "9986606d-41e0-442c-99a9-1f7c81788a26",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G59.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission1030601_21",
+      "ID": 59
+    },
+    {
+      "GroupGUID": "5dcaaced-b3bf-46b3-9670-b280fab20db5",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G64.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission1030201_02",
+      "ID": 64
+    },
+    {
+      "GroupGUID": "04f9d8e3-2c36-4a7a-907f-8c0b8988f5cc",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G66.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "BGM",
+      "ID": 66
+    },
+    {
+      "GroupGUID": "2e0bac6b-3ba9-4c09-a615-aae5c98e13e5",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G67.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission4040311_Dog",
+      "ID": 67
+    },
+    {
+      "GroupGUID": "1c27b24c-1694-485b-a54f-39676ebd1141",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G68.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "Find",
+      "ID": 68
+    },
+    {
+      "GroupGUID": "4aa34208-86cc-4dee-847a-5a04d5e06adc",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G69.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission4240306_02",
+      "ID": 69
+    },
+    {
+      "GroupGUID": "ff391404-84d5-4304-aab4-888712487ac0",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G71.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission4240306_03",
+      "ID": 71
+    },
+    {
+      "GroupGUID": "0da0cf40-69a8-4a49-b711-01dbc4438776",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G76.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission2030101_01",
+      "ID": 76
+    },
+    {
+      "GroupGUID": "bc5cfa73-da3a-48ce-8c3f-646233484952",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G98.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission2030101_02",
+      "ID": 98
+    },
+    {
+      "GroupGUID": "f1226363-9b5f-4a82-8e90-6e9b009d5e73",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G77.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "Sound",
+      "ID": 77
+    },
+    {
+      "GroupGUID": "da020185-be1a-4203-898b-921803fe7960",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G78.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission4340103_01",
+      "ID": 78
+    },
+    {
+      "GroupGUID": "b94d3d12-82fb-4bd6-b489-c1f534edae0f",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G79.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission4340103_05",
+      "ID": 79
+    },
+    {
+      "GroupGUID": "3515a557-9276-4222-8eee-6851e8755612",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G80.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission4340101_01",
+      "ID": 80
+    },
+    {
+      "GroupGUID": "42045637-6d46-40e7-8919-a79d66691d30",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G81.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission4340101_02",
+      "ID": 81
+    },
+    {
+      "GroupGUID": "4e0a70bf-cafe-4259-ae68-a1cfaa047b10",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G82.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission4340101_03",
+      "ID": 82
+    },
+    {
+      "GroupGUID": "90c29429-cd2a-4626-8e37-4173bb23925b",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G84.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission2030301_New Group",
+      "ID": 84
+    },
+    {
+      "GroupGUID": "d3a9e771-bf8b-4781-98ed-6e6ca635009f",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G85.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission2030301_New Group",
+      "ID": 85
+    },
+    {
+      "GroupGUID": "10b56823-6a87-4955-981d-e592a8efe45d",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G86.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission2030301_New Group",
+      "ID": 86
+    },
+    {
+      "GroupGUID": "ed15b9fb-b901-462b-aebd-6305513c9028",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G87.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission2030301_New Group",
+      "ID": 87
+    },
+    {
+      "GroupGUID": "38d042f4-2a7b-40d8-a409-5be49a14edc2",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G88.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission2030301_New Group",
+      "ID": 88
+    },
+    {
+      "GroupGUID": "bc61ca08-3b1e-4c5f-8ad5-3ef43641a9ab",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G89.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission2030301_New Group",
+      "ID": 89
+    },
+    {
+      "GroupGUID": "2184fba9-9b8e-4e4a-b863-21b373711ea9",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G90.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission2030301_New Group",
+      "ID": 90
+    },
+    {
+      "GroupGUID": "42027e5a-eba2-4661-9620-ea9841e2c64f",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G91.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission2030301_New Group",
+      "ID": 91
+    },
+    {
+      "GroupGUID": "cfe3aa97-093b-4b1b-bb7a-dfe7fd96ea14",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G93.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "Find37Room",
+      "ID": 93
+    },
+    {
+      "GroupGUID": "0546804c-c529-45e1-b512-c6ff66c7a39a",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G94.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "FindKL_Room",
+      "ID": 94
+    },
+    {
+      "GroupGUID": "71c089d6-a0f7-4926-8e05-8b07b304b28c",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G95.json",
+      "Name": "MainMission2030301_New Group",
+      "ID": 95
+    },
+    {
+      "GroupGUID": "a2604f39-8284-465a-9ca5-203d36d6d69c",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G96.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "NPC",
+      "ID": 96
+    },
+    {
+      "GroupGUID": "3d0c61fa-29f7-4860-9f14-746de1b4a585",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G97.json",
+      "Name": "Music",
+      "ID": 97
+    },
+    {
+      "GroupGUID": "8c1680f4-104e-44a7-b400-6aa2bb573043",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G102.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "Sound-Reverb",
+      "ID": 102
+    },
+    {
+      "GroupGUID": "18fbc960-232c-492c-bbb4-8033df3e0daa",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G103.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission4040314_Bird",
+      "ID": 103
+    },
+    {
+      "GroupGUID": "44a2b951-fc2c-4643-9e60-04c368172284",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G104.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission4240310_NPC",
+      "ID": 104
+    },
+    {
+      "GroupGUID": "fa70b0d5-c796-4a88-82ea-ae55c1f8d3be",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G105.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "Room",
+      "ID": 105
+    },
+    {
+      "GroupGUID": "67fc2f7b-4f0a-4235-b0e4-1b6b944495b3",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G106.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission4040303_BlackCard",
+      "ID": 106
+    },
+    {
+      "GroupGUID": "45b394aa-3622-4c13-9935-d84d1dbb45aa",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G107.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "AchievementTrigger",
+      "ID": 107
+    },
+    {
+      "GroupGUID": "8fb3df7a-17bb-4e67-ac4a-d3394a711432",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G112.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission2030203_01",
+      "ID": 112
+    },
+    {
+      "GroupGUID": "b6af7b35-f085-494b-a897-88611e641856",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G113.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "NPC",
+      "ID": 113
+    },
+    {
+      "GroupGUID": "b0a1c0d9-e787-42d3-ad94-bac98e817481",
+      "GroupPath": "Config/LevelOutput/Group/Groups_P10305_F10305001/LevelGroup_P10305_F10305001_G115.json",
+      "DimensionFilter": {
+        "List": []
+      },
+      "Name": "MainMission2030301_New Group",
+      "ID": 115
+    }
+  ],
+  "DefaultEnviroProfile": "Stages/Outputs/Chapter03/EnviroProfile/Chap03_CloseView_ADV_INT_P00_night_01.enviroProfile.asset",
+  "StageData": "Stages/Outputs/Chapter03/Stages/Chap03_ADV_P00_StageData/Chap03_ADV_P00_StageData.stage",
+  "NavMesh": "Level/NavMesh/NavMesh-Floor_10305001.asset",
+  "MinimapVolumeData": {
+    "Center": {
+      "X": 0,
+      "Y": 0,
+      "Z": -340
+    },
+    "Size": {
+      "X": 220,
+      "Y": 280,
+      "Z": 280
+    },
+    "SectionVertices": [
+      {
+        "X": -110,
+        "Y": 140
+      },
+      {
+        "X": 110,
+        "Y": 140
+      },
+      {
+        "X": 110,
+        "Y": 18.66667
+      },
+      {
+        "X": -110,
+        "Y": 18.66667
+      },
+      {
+        "X": -110,
+        "Y": 140
+      },
+      {
+        "X": 110,
+        "Y": 140
+      },
+      {
+        "X": 110,
+        "Y": -16
+      },
+      {
+        "X": -110,
+        "Y": -16
+      },
+      {
+        "X": -110,
+        "Y": -130.3333
+      },
+      {
+        "X": 110,
+        "Y": -130.3333
+      },
+      {
+        "X": -92.66667,
+        "Y": -58.33333
+      },
+      {
+        "X": 86.66666,
+        "Y": -58.33333
+      },
+      {
+        "X": 86.66666,
+        "Y": -114.3333
+      },
+      {
+        "X": -92.66667,
+        "Y": -119.3333
+      },
+      {
+        "X": -60.66667,
+        "Y": -119.3333
+      },
+      {
+        "X": -55,
+        "Y": -104.6667
+      },
+      {
+        "X": -50.33333,
+        "Y": -99
+      },
+      {
+        "X": -38.66667,
+        "Y": -103
+      },
+      {
+        "X": -56.33333,
+        "Y": -126.3333
+      },
+      {
+        "X": -38.66667,
+        "Y": -126.3333
+      },
+      {
+        "X": -19.66667,
+        "Y": -126.3333
+      },
+      {
+        "X": 17.33333,
+        "Y": -111.6667
+      },
+      {
+        "X": 62.33334,
+        "Y": -114.3333
+      },
+      {
+        "X": -16.33333,
+        "Y": -111.6667
+      },
+      {
+        "X": 21.33334,
+        "Y": -126.3333
+      },
+      {
+        "X": 39.33334,
+        "Y": -126.3333
+      },
+      {
+        "X": 39.33334,
+        "Y": -104.6667
+      },
+      {
+        "X": 56.33333,
+        "Y": -126.3333
+      },
+      {
+        "X": -45,
+        "Y": -99
+      },
+      {
+        "X": -32.66667,
+        "Y": -99
+      },
+      {
+        "X": -35.33333,
+        "Y": -103
+      },
+      {
+        "X": -52.33334,
+        "Y": -102.6667
+      },
+      {
+        "X": -27,
+        "Y": -99
+      },
+      {
+        "X": -24.66667,
+        "Y": -103
+      },
+      {
+        "X": -42,
+        "Y": -103
+      },
+      {
+        "X": 27.33333,
+        "Y": -99
+      },
+      {
+        "X": 33.33333,
+        "Y": -99
+      },
+      {
+        "X": 23.33334,
+        "Y": -104.6667
+      },
+      {
+        "X": 36,
+        "Y": -103
+      },
+      {
+        "X": 45.33333,
+        "Y": -99
+      },
+      {
+        "X": 51,
+        "Y": -99
+      },
+      {
+        "X": 42.66666,
+        "Y": -103
+      },
+      {
+        "X": 55,
+        "Y": -104.6667
+      }
+    ],
+    "Atlas": "UI/Atlas/AtlasFiles/Minimap/Minimap_10305001.spriteatlas",
+    "Sections": [
+      {
+        "MapLayerID": 1,
+        "Sprite": "UI/Atlas/AtlasRoot/Minimap/Minimap_10305001/MinimapSection_10305001_0.png",
+        "IsRect": true,
+        "Indices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "UIPosition": {
+          "X": 0,
+          "Y": 476
+        },
+        "InitialHidden": false,
+        "Center": {
+          "X": -110,
+          "Y": 140
+        },
+        "Triangles": [
+          {
+            "X": 0,
+            "Y": 1
+          },
+          {
+            "X": 0,
+            "Y": 0.566667
+          },
+          {
+            "X": 0.5,
+            "Y": 0.783333
+          },
+          {
+            "X": 0.5,
+            "Y": 0.783333
+          },
+          {
+            "X": 0.5,
+            "Y": 0.566667
+          },
+          {
+            "X": 1,
+            "Y": 0.566667
+          },
+          {
+            "X": 0.5,
+            "Y": 0.783333
+          },
+          {
+            "X": 0,
+            "Y": 0.566667
+          },
+          {
+            "X": 0.5,
+            "Y": 0.566667
+          },
+          {
+            "X": 0,
+            "Y": 1
+          },
+          {
+            "X": 0.5,
+            "Y": 0.783333
+          },
+          {
+            "X": 0.5,
+            "Y": 1
+          },
+          {
+            "X": 0.5,
+            "Y": 1
+          },
+          {
+            "X": 0.5,
+            "Y": 0.783333
+          },
+          {
+            "X": 1,
+            "Y": 1
+          },
+          {
+            "X": 0.5,
+            "Y": 0.783333
+          },
+          {
+            "X": 1,
+            "Y": 0.566667
+          },
+          {
+            "X": 1,
+            "Y": 1
+          }
+        ],
+        "Pivot": {
+          "X": 0,
+          "Y": 1
+        }
+      },
+      {
+        "ID": 1,
+        "MapLayerID": 2,
+        "Sprite": "UI/Atlas/AtlasRoot/Minimap/Minimap_10305001/MinimapSection_10305001_1.png",
+        "IsRect": true,
+        "Indices": [
+          4,
+          5,
+          6,
+          7
+        ],
+        "UIPosition": {
+          "X": 0,
+          "Y": 372
+        },
+        "Center": {
+          "X": -110,
+          "Y": 140
+        },
+        "Triangles": [
+          {
+            "X": 0,
+            "Y": 1
+          },
+          {
+            "X": 0.25,
+            "Y": 0.582143
+          },
+          {
+            "X": 0.5,
+            "Y": 0.721429
+          },
+          {
+            "X": 0,
+            "Y": 1
+          },
+          {
+            "X": 0,
+            "Y": 0.721429
+          },
+          {
+            "X": 0.25,
+            "Y": 0.582143
+          },
+          {
+            "X": 0,
+            "Y": 0.721429
+          },
+          {
+            "X": 0,
+            "Y": 0.442857
+          },
+          {
+            "X": 0.25,
+            "Y": 0.582143
+          },
+          {
+            "X": 0.5,
+            "Y": 0.721429
+          },
+          {
+            "X": 0.5,
+            "Y": 0.442857
+          },
+          {
+            "X": 1,
+            "Y": 0.442857
+          },
+          {
+            "X": 0.5,
+            "Y": 0.721429
+          },
+          {
+            "X": 0,
+            "Y": 0.442857
+          },
+          {
+            "X": 0.5,
+            "Y": 0.442857
+          },
+          {
+            "X": 0,
+            "Y": 1
+          },
+          {
+            "X": 0.5,
+            "Y": 0.721429
+          },
+          {
+            "X": 0.5,
+            "Y": 1
+          },
+          {
+            "X": 0.5,
+            "Y": 1
+          },
+          {
+            "X": 0.5,
+            "Y": 0.721429
+          },
+          {
+            "X": 1,
+            "Y": 1
+          },
+          {
+            "X": 0.5,
+            "Y": 0.721429
+          },
+          {
+            "X": 0.75,
+            "Y": 0.582143
+          },
+          {
+            "X": 1,
+            "Y": 1
+          },
+          {
+            "X": 0.75,
+            "Y": 0.582143
+          },
+          {
+            "X": 1,
+            "Y": 0.721429
+          },
+          {
+            "X": 1,
+            "Y": 1
+          },
+          {
+            "X": 0.75,
+            "Y": 0.582143
+          },
+          {
+            "X": 1,
+            "Y": 0.442857
+          },
+          {
+            "X": 1,
+            "Y": 0.721429
+          }
+        ],
+        "Pivot": {
+          "X": 0,
+          "Y": 1
+        }
+      },
+      {
+        "ID": 7,
+        "MapLayerID": 2,
+        "Sprite": "UI/Atlas/AtlasRoot/Minimap/Minimap_10305001/MinimapSection_10305001_7.png",
+        "IsRect": true,
+        "Indices": [
+          6,
+          9,
+          8,
+          7
+        ],
+        "UIPosition": {
+          "X": 0,
+          "Y": 29
+        },
+        "Center": {
+          "X": -110,
+          "Y": 140
+        },
+        "Triangles": [
+          {
+            "X": 1,
+            "Y": 0.442857
+          },
+          {
+            "X": 0.5,
+            "Y": 0.442857
+          },
+          {
+            "X": 0.5,
+            "Y": 0.238691
+          },
+          {
+            "X": 0.5,
+            "Y": 0.442857
+          },
+          {
+            "X": 0,
+            "Y": 0.442857
+          },
+          {
+            "X": 0.5,
+            "Y": 0.238691
+          },
+          {
+            "X": 0.5,
+            "Y": 0.238691
+          },
+          {
+            "X": 0,
+            "Y": 0.442857
+          },
+          {
+            "X": 0,
+            "Y": 0.034524
+          },
+          {
+            "X": 1,
+            "Y": 0.442857
+          },
+          {
+            "X": 0.5,
+            "Y": 0.238691
+          },
+          {
+            "X": 1,
+            "Y": 0.034524
+          },
+          {
+            "X": 0.5,
+            "Y": 0.238691
+          },
+          {
+            "X": 0.5,
+            "Y": 0.034524
+          },
+          {
+            "X": 1,
+            "Y": 0.034524
+          },
+          {
+            "X": 0.5,
+            "Y": 0.238691
+          },
+          {
+            "X": 0,
+            "Y": 0.034524
+          },
+          {
+            "X": 0.5,
+            "Y": 0.034524
+          }
+        ],
+        "Pivot": {
+          "X": 0,
+          "Y": 1
+        }
+      },
+      {
+        "ID": 2,
+        "MapLayerID": 3,
+        "Sprite": "UI/Atlas/AtlasRoot/Minimap/Minimap_10305001/MinimapSection_10305001_2.png",
+        "Indices": [
+          14,
+          18,
+          19,
+          17,
+          34,
+          28,
+          16,
+          31,
+          15
+        ],
+        "UIPosition": {
+          "X": 148,
+          "Y": 41
+        },
+        "Center": {
+          "X": -110,
+          "Y": 140
+        },
+        "Triangles": [
+          {
+            "X": 0.243939,
+            "Y": 0.04881
+          },
+          {
+            "X": 0.324242,
+            "Y": 0.04881
+          },
+          {
+            "X": 0.324242,
+            "Y": 0.132143
+          },
+          {
+            "X": 0.25,
+            "Y": 0.126191
+          },
+          {
+            "X": 0.224242,
+            "Y": 0.07381
+          },
+          {
+            "X": 0.243939,
+            "Y": 0.04881
+          },
+          {
+            "X": 0.25,
+            "Y": 0.126191
+          },
+          {
+            "X": 0.243939,
+            "Y": 0.04881
+          },
+          {
+            "X": 0.324242,
+            "Y": 0.132143
+          },
+          {
+            "X": 0.295455,
+            "Y": 0.146429
+          },
+          {
+            "X": 0.271212,
+            "Y": 0.146429
+          },
+          {
+            "X": 0.262121,
+            "Y": 0.133333
+          },
+          {
+            "X": 0.309091,
+            "Y": 0.132143
+          },
+          {
+            "X": 0.295455,
+            "Y": 0.146429
+          },
+          {
+            "X": 0.262121,
+            "Y": 0.133333
+          },
+          {
+            "X": 0.309091,
+            "Y": 0.132143
+          },
+          {
+            "X": 0.262121,
+            "Y": 0.133333
+          },
+          {
+            "X": 0.25,
+            "Y": 0.126191
+          },
+          {
+            "X": 0.25,
+            "Y": 0.126191
+          },
+          {
+            "X": 0.324242,
+            "Y": 0.132143
+          },
+          {
+            "X": 0.309091,
+            "Y": 0.132143
+          }
+        ],
+        "Pivot": {
+          "X": 0,
+          "Y": 1
+        }
+      },
+      {
+        "ID": 3,
+        "MapLayerID": 3,
+        "Sprite": "UI/Atlas/AtlasRoot/Minimap/Minimap_10305001/MinimapSection_10305001_3.png",
+        "Indices": [
+          21,
+          37,
+          35,
+          36,
+          38,
+          26,
+          25,
+          24
+        ],
+        "UIPosition": {
+          "X": 382,
+          "Y": 41
+        },
+        "Center": {
+          "X": -110,
+          "Y": 140
+        },
+        "Triangles": [
+          {
+            "X": 0.59697,
+            "Y": 0.04881
+          },
+          {
+            "X": 0.678788,
+            "Y": 0.04881
+          },
+          {
+            "X": 0.678788,
+            "Y": 0.126191
+          },
+          {
+            "X": 0.578788,
+            "Y": 0.10119
+          },
+          {
+            "X": 0.59697,
+            "Y": 0.04881
+          },
+          {
+            "X": 0.678788,
+            "Y": 0.126191
+          },
+          {
+            "X": 0.651515,
+            "Y": 0.146429
+          },
+          {
+            "X": 0.624242,
+            "Y": 0.146429
+          },
+          {
+            "X": 0.606061,
+            "Y": 0.126191
+          },
+          {
+            "X": 0.663636,
+            "Y": 0.132143
+          },
+          {
+            "X": 0.651515,
+            "Y": 0.146429
+          },
+          {
+            "X": 0.606061,
+            "Y": 0.126191
+          },
+          {
+            "X": 0.663636,
+            "Y": 0.132143
+          },
+          {
+            "X": 0.606061,
+            "Y": 0.126191
+          },
+          {
+            "X": 0.578788,
+            "Y": 0.10119
+          },
+          {
+            "X": 0.578788,
+            "Y": 0.10119
+          },
+          {
+            "X": 0.678788,
+            "Y": 0.126191
+          },
+          {
+            "X": 0.663636,
+            "Y": 0.132143
+          }
+        ],
+        "Pivot": {
+          "X": 0,
+          "Y": 1
+        }
+      },
+      {
+        "ID": 4,
+        "MapLayerID": 3,
+        "Sprite": "UI/Atlas/AtlasRoot/Minimap/Minimap_10305001/MinimapSection_10305001_4.png",
+        "Indices": [
+          22,
+          27,
+          25,
+          26,
+          41,
+          39,
+          40,
+          42
+        ],
+        "UIPosition": {
+          "X": 448,
+          "Y": 41
+        },
+        "Center": {
+          "X": -110,
+          "Y": 140
+        },
+        "Triangles": [
+          {
+            "X": 0.678788,
+            "Y": 0.126191
+          },
+          {
+            "X": 0.678788,
+            "Y": 0.04881
+          },
+          {
+            "X": 0.756061,
+            "Y": 0.04881
+          },
+          {
+            "X": 0.756061,
+            "Y": 0.04881
+          },
+          {
+            "X": 0.783333,
+            "Y": 0.091667
+          },
+          {
+            "X": 0.75,
+            "Y": 0.126191
+          },
+          {
+            "X": 0.678788,
+            "Y": 0.126191
+          },
+          {
+            "X": 0.756061,
+            "Y": 0.04881
+          },
+          {
+            "X": 0.75,
+            "Y": 0.126191
+          },
+          {
+            "X": 0.75,
+            "Y": 0.126191
+          },
+          {
+            "X": 0.731818,
+            "Y": 0.146429
+          },
+          {
+            "X": 0.706061,
+            "Y": 0.146429
+          },
+          {
+            "X": 0.75,
+            "Y": 0.126191
+          },
+          {
+            "X": 0.706061,
+            "Y": 0.146429
+          },
+          {
+            "X": 0.693939,
+            "Y": 0.132143
+          },
+          {
+            "X": 0.678788,
+            "Y": 0.126191
+          },
+          {
+            "X": 0.75,
+            "Y": 0.126191
+          },
+          {
+            "X": 0.693939,
+            "Y": 0.132143
+          }
+        ],
+        "Pivot": {
+          "X": 0,
+          "Y": 1
+        }
+      },
+      {
+        "ID": 5,
+        "MapLayerID": 3,
+        "Sprite": "UI/Atlas/AtlasRoot/Minimap/Minimap_10305001/MinimapSection_10305001_5.png",
+        "Indices": [
+          10,
+          13,
+          14,
+          15,
+          31,
+          16,
+          28,
+          34,
+          30,
+          29,
+          32,
+          33,
+          23,
+          21,
+          37,
+          35,
+          36,
+          38,
+          26,
+          41,
+          39,
+          40,
+          42,
+          22,
+          12,
+          11
+        ],
+        "UIPosition": {
+          "X": 52,
+          "Y": 62
+        },
+        "Center": {
+          "X": -110,
+          "Y": 140
+        },
+        "Triangles": [
+          {
+            "X": 0.078788,
+            "Y": 0.291667
+          },
+          {
+            "X": 0.078788,
+            "Y": 0.07381
+          },
+          {
+            "X": 0.224242,
+            "Y": 0.07381
+          },
+          {
+            "X": 0.783333,
+            "Y": 0.091667
+          },
+          {
+            "X": 0.893939,
+            "Y": 0.091667
+          },
+          {
+            "X": 0.893939,
+            "Y": 0.291667
+          },
+          {
+            "X": 0.663636,
+            "Y": 0.132143
+          },
+          {
+            "X": 0.678788,
+            "Y": 0.126191
+          },
+          {
+            "X": 0.693939,
+            "Y": 0.132143
+          },
+          {
+            "X": 0.663636,
+            "Y": 0.132143
+          },
+          {
+            "X": 0.693939,
+            "Y": 0.132143
+          },
+          {
+            "X": 0.706061,
+            "Y": 0.146429
+          },
+          {
+            "X": 0.651515,
+            "Y": 0.146429
+          },
+          {
+            "X": 0.663636,
+            "Y": 0.132143
+          },
+          {
+            "X": 0.706061,
+            "Y": 0.146429
+          },
+          {
+            "X": 0.309091,
+            "Y": 0.132143
+          },
+          {
+            "X": 0.339394,
+            "Y": 0.132143
+          },
+          {
+            "X": 0.351515,
+            "Y": 0.146429
+          },
+          {
+            "X": 0.295455,
+            "Y": 0.146429
+          },
+          {
+            "X": 0.309091,
+            "Y": 0.132143
+          },
+          {
+            "X": 0.351515,
+            "Y": 0.146429
+          },
+          {
+            "X": 0.078788,
+            "Y": 0.291667
+          },
+          {
+            "X": 0.224242,
+            "Y": 0.07381
+          },
+          {
+            "X": 0.25,
+            "Y": 0.126191
+          },
+          {
+            "X": 0.75,
+            "Y": 0.126191
+          },
+          {
+            "X": 0.783333,
+            "Y": 0.091667
+          },
+          {
+            "X": 0.893939,
+            "Y": 0.291667
+          },
+          {
+            "X": 0.25,
+            "Y": 0.126191
+          },
+          {
+            "X": 0.262121,
+            "Y": 0.133333
+          },
+          {
+            "X": 0.271212,
+            "Y": 0.146429
+          },
+          {
+            "X": 0.387879,
+            "Y": 0.132143
+          },
+          {
+            "X": 0.425758,
+            "Y": 0.10119
+          },
+          {
+            "X": 0.578788,
+            "Y": 0.10119
+          },
+          {
+            "X": 0.387879,
+            "Y": 0.132143
+          },
+          {
+            "X": 0.578788,
+            "Y": 0.10119
+          },
+          {
+            "X": 0.606061,
+            "Y": 0.126191
+          },
+          {
+            "X": 0.731818,
+            "Y": 0.146429
+          },
+          {
+            "X": 0.75,
+            "Y": 0.126191
+          },
+          {
+            "X": 0.893939,
+            "Y": 0.291667
+          },
+          {
+            "X": 0.731818,
+            "Y": 0.146429
+          },
+          {
+            "X": 0.486364,
+            "Y": 0.291667
+          },
+          {
+            "X": 0.405303,
+            "Y": 0.219048
+          },
+          {
+            "X": 0.405303,
+            "Y": 0.219048
+          },
+          {
+            "X": 0.486364,
+            "Y": 0.291667
+          },
+          {
+            "X": 0.078788,
+            "Y": 0.291667
+          },
+          {
+            "X": 0.731818,
+            "Y": 0.146429
+          },
+          {
+            "X": 0.893939,
+            "Y": 0.291667
+          },
+          {
+            "X": 0.486364,
+            "Y": 0.291667
+          },
+          {
+            "X": 0.078788,
+            "Y": 0.291667
+          },
+          {
+            "X": 0.25,
+            "Y": 0.126191
+          },
+          {
+            "X": 0.271212,
+            "Y": 0.146429
+          },
+          {
+            "X": 0.387879,
+            "Y": 0.132143
+          },
+          {
+            "X": 0.606061,
+            "Y": 0.126191
+          },
+          {
+            "X": 0.624242,
+            "Y": 0.146429
+          },
+          {
+            "X": 0.377273,
+            "Y": 0.146429
+          },
+          {
+            "X": 0.387879,
+            "Y": 0.132143
+          },
+          {
+            "X": 0.624242,
+            "Y": 0.146429
+          },
+          {
+            "X": 0.731818,
+            "Y": 0.146429
+          },
+          {
+            "X": 0.405303,
+            "Y": 0.219048
+          },
+          {
+            "X": 0.271212,
+            "Y": 0.146429
+          },
+          {
+            "X": 0.405303,
+            "Y": 0.219048
+          },
+          {
+            "X": 0.078788,
+            "Y": 0.291667
+          },
+          {
+            "X": 0.271212,
+            "Y": 0.146429
+          }
+        ],
+        "Pivot": {
+          "X": 0,
+          "Y": 1
+        }
+      },
+      {
+        "ID": 6,
+        "MapLayerID": 3,
+        "Sprite": "UI/Atlas/AtlasRoot/Minimap/Minimap_10305001/MinimapSection_10305001_6.png",
+        "Indices": [
+          17,
+          19,
+          20,
+          23,
+          33,
+          32,
+          29,
+          30
+        ],
+        "UIPosition": {
+          "X": 214,
+          "Y": 41
+        },
+        "Center": {
+          "X": -110,
+          "Y": 140
+        },
+        "Triangles": [
+          {
+            "X": 0.324242,
+            "Y": 0.132143
+          },
+          {
+            "X": 0.324242,
+            "Y": 0.04881
+          },
+          {
+            "X": 0.410606,
+            "Y": 0.04881
+          },
+          {
+            "X": 0.410606,
+            "Y": 0.04881
+          },
+          {
+            "X": 0.425758,
+            "Y": 0.10119
+          },
+          {
+            "X": 0.387879,
+            "Y": 0.132143
+          },
+          {
+            "X": 0.387879,
+            "Y": 0.132143
+          },
+          {
+            "X": 0.377273,
+            "Y": 0.146429
+          },
+          {
+            "X": 0.351515,
+            "Y": 0.146429
+          },
+          {
+            "X": 0.387879,
+            "Y": 0.132143
+          },
+          {
+            "X": 0.351515,
+            "Y": 0.146429
+          },
+          {
+            "X": 0.339394,
+            "Y": 0.132143
+          },
+          {
+            "X": 0.410606,
+            "Y": 0.04881
+          },
+          {
+            "X": 0.387879,
+            "Y": 0.132143
+          },
+          {
+            "X": 0.339394,
+            "Y": 0.132143
+          },
+          {
+            "X": 0.339394,
+            "Y": 0.132143
+          },
+          {
+            "X": 0.324242,
+            "Y": 0.132143
+          },
+          {
+            "X": 0.410606,
+            "Y": 0.04881
+          }
+        ],
+        "Pivot": {
+          "X": 0,
+          "Y": 1
+        }
+      }
+    ],
+    "BackgroundMapSprite": "SpriteOutput/MapPics/Minimap/Minimap_Chap03_ADV_P05_Background.png",
+    "RoadMapSpriteDict": {
+      "1": "SpriteOutput/MapPics/Minimap/Minimap_Chap03_ADV_P05_Road_1F.png",
+      "2": "SpriteOutput/MapPics/Minimap/Minimap_Chap03_ADV_P05_Road_2F.png",
+      "3": "SpriteOutput/MapPics/Minimap/Minimap_Chap03_ADV_P05_Road_3F.png"
+    },
+    "ItemSpriteDict": {}
+  },
+  "TimeOfDayEnviroProfileMap": {},
+  "LayerToAreaMask": [
+    8,
+    16,
+    32
+  ],
+  "FloorCustomData": {
+    "CustomValues": [
+      {
+        "$type": "RPG.GameCore.FloorCustomFloatConfig",
+        "ID": 10001,
+        "Name": "MissionFCV_103020104"
+      },
+      {
+        "$type": "RPG.GameCore.FloorCustomFloatConfig",
+        "DefaultValue": 1,
+        "ID": 10002,
+        "Name": "MissionFCV_103020108"
+      },
+      {
+        "$type": "RPG.GameCore.FloorCustomFloatConfig",
+        "ID": 10004,
+        "Name": "FCV_DoorDOpen"
+      }
+    ],
+    "SavedValues": [
+      {
+        "ID": 4,
+        "Name": "FSV_DoorA",
+        "DefaultValue": 2,
+        "AllowedValues": [
+          0,
+          1,
+          2
+        ],
+        "MaxValue": 2
+      },
+      {
+        "ID": 5,
+        "Name": "FSV_DoorB",
+        "AllowedValues": [
+          0,
+          1,
+          2
+        ],
+        "MaxValue": 2
+      },
+      {
+        "ID": 6,
+        "Name": "FSV_DoorC",
+        "AllowedValues": [
+          0,
+          1,
+          2
+        ],
+        "MaxValue": 2
+      },
+      {
+        "ID": 7,
+        "Name": "FSV_DoorD",
+        "AllowedValues": [
+          0,
+          1,
+          2
+        ],
+        "MaxValue": 2
+      },
+      {
+        "ID": 9,
+        "Name": "FSV_Elev",
+        "AllowedValues": [
+          0,
+          1
+        ],
+        "MaxValue": 1
+      },
+      {
+        "ID": 11,
+        "Name": "FSV_Entrance",
+        "AllowedValues": [
+          0,
+          1
+        ],
+        "MaxValue": 1
+      }
+    ]
+  },
+  "BattleAreaList": [],
+  "DimensionList": [
+    {}
+  ],
+  "CameraPrefabPath": "Level/Maze/Chapter03/Chap03_ADV_P05_LevelArea.prefab"
+}

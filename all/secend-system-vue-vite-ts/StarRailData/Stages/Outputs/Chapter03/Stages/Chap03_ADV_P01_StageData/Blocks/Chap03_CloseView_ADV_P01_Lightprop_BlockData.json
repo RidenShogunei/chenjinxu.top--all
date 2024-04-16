@@ -1,0 +1,34 @@
+{
+  "Name": "Chap03_CloseView_ADV_P01_Lightprop_BlockData",
+  "PrefabPath": "Stages/Outputs/Chapter03/CloseView/Chap03_CloseView_ADV_P01_Lightprop_BlockData.prefab",
+  "StagePrefabInfoList": [
+    {
+      "$type": "RPG.GameCore.StagePrefabInfo",
+      "Name": "Chap03_CloseView_MAZ_P01_Night_EnvLocalVolume",
+      "LayerName": "PersistentLevel",
+      "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_CloseView_MAZ_P01_Night_EnvLocalVolume.prefab",
+      "Active": 1,
+      "ScaleX": 1,
+      "ScaleY": 1,
+      "ScaleZ": 1
+    },
+    {
+      "$type": "RPG.GameCore.StagePrefabInfo",
+      "Index": 1,
+      "Name": "Chap02_Eff_ADV_MAZ_P01_High_ramp_GI_ctrl",
+      "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EffectPrefabs/Chap03_CloseView_MAZ_P01_High_Ramp_crtl.prefab",
+      "Active": 1,
+      "ScaleX": 1,
+      "ScaleY": 1,
+      "ScaleZ": 1
+    }
+  ],
+  "EnvironmentDataInfoList": [
+    {
+      "Name": "Chap03_CloseView_ADV_MAZ_P01_Night",
+      "AssetPath": "Stages/OriginalResPos/Chapter03/Prefab/EnviromentData/Chap03_CloseView_ADV_P01_Lightprop_Chap03_CloseView_ADV_MAZ_P01_Night_EnvironmentData.prefab"
+    }
+  ],
+  "PolymerList": [],
+  "Cells": {}
+}
